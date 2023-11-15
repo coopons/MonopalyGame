@@ -1,206 +1,283 @@
 package MonopalyGame;
 
+
+/**
+ * The {@code Game} class represents a Monopoly game, managing turns, player movements,
+ * and card draws for Community Chest and Chance.
+ */
 public class Game {
 
-	private final int turns;
+    // Total number of turns in the game
+    private final int totalTurns;
+
+    // Total number of moves made by the player
     private int totalMoves;
-	private final Board board;
-	private final Player player1;
-	private final CommunityChestDeck communityDeck;
-	private final ChanceDeck chanceDeck;
-	private String location;
 
-	public Game(int turns) {
-		this.turns = turns;
-		totalMoves = 0;
-		board = new Board();
-		player1 = new Player();
-		communityDeck = new CommunityChestDeck();
-		chanceDeck = new ChanceDeck();
-		location = " ";
-	}
+    // The game board
+    private final Board board;
 
-	public void strategyA() {
-		int moves;
-		String location;
+    // The player in the game
+    private final Player player1;
 
-		for (int i = 0; i < turns; i++) {
-			moves = player1.rollDice();
-			totalMoves += moves;
-			board.setJail(false);
-			board.move(moves);
-			location = board.getLocation();
+    // Deck for Community Chest cards
+    private final CommunityChestDeck communityDeck;
 
-			if (player1.getDiceDoubleCount() == 3) {
-				board.moveToJail();
-			}
+    // Deck for Chance cards
+    private final ChanceDeck chanceDeck;
 
-			if (location.contains("Chance")) {
-				drawChanceCard();
-			}
-			else if (location.contains("Community Chest")) {
-				drawCommunityCard();
-			}
-			else if (board.getJail()) {
-				if (!player1.isEmptyHand() && communityDeck.notContainGetOutJail()) {
-					communityDeck.discardCommunityChest(player1.useCard());
+    /**
+     * Constructs a new Monopoly game with a specified number of turns.
+     *
+     * @param totalTurns total number of turns to play in the game.
+     */
+    public Game(int totalTurns) {
+        this.totalTurns = totalTurns;
+        totalMoves = 0;
+        board = new Board();
+        player1 = new Player();
+        communityDeck = new CommunityChestDeck();
+        chanceDeck = new ChanceDeck();
+    }
 
-				}
-				else if (!player1.isEmptyHand() && chanceDeck.notContainGetOutJail()) {
-					chanceDeck.discardChance(player1.useCard());
-				}
+    /**
+     * Executes the strategy A for the game:
+     * If player has a Get Out of Jail Free card, they must use it immediately.
+     * If player doesn't have the card, they immediately pay $50 and get out of jail.
+     */
+    public void strategyA() {
+        int moves;
+        String currSpot;
 
-			}
-		}
-	}
+        // Iterate through each turn
+        for (int currTurn = 0; currTurn < totalTurns; currTurn++) {
+            moves = player1.rollDice();
+            totalMoves += moves;
+            board.setJail(false);
+            board.move(moves);
+            currSpot = board.getLocation();
+            // Check if the player is in jail
+            if (board.getJail()) {
+                jailStrategyA();
+            }
+            // Go to jail if 3 doubles rolled in a row
+            if (player1.getDiceDoubleCount() == 3) {
+                board.moveToJail();
+            }
+            // Draws respective card if on Community Chest or Chance spot
+            drawCardIfNeeded(currSpot);
+        }
+    }
 
-	public void strategyB() {
-		int jailTurns = 0;
-		int moves;
-		String location;
+    /**
+     * Executes the strategy B for the game:
+     * If player has a Get Out of Jail Free card, they must use it immediately.
+     * If player doesn't have the card, they attempt to roll doubles for three turns.
+     * If doubles are not rolled in three turns, they immediately pay $50 and get out of jail.
+     */
+    public void strategyB() {
+        int moves;
+        String currSpot;
 
-		for (int i = 0; i < turns; i++) {
-			moves = player1.rollDice();
-			totalMoves += moves;
-			board.setJail(false);
-			board.move(moves);
-			location = board.getLocation();
+        // Iterate through each turn
+        for (int currTurn = 0; currTurn < totalTurns; currTurn++) {
+            moves = player1.rollDice();
+            totalMoves += moves;
+            board.setJail(false);
+            board.move(moves);
+            currSpot = board.getLocation();
+            // Check if the player is in jail
+            if (board.getJail()) {
+                currTurn = jailStrategyB(currTurn);
+            }
+            // Go to jail if 3 doubles rolled in a row
+            if (player1.getDiceDoubleCount() == 3) {
+                board.moveToJail();
+            }
+            // Draws respective card if on Community Chest or Chance spot
+            drawCardIfNeeded(currSpot);
+        }
+    }
 
-			if (player1.getDiceDoubleCount() == 3) {
-				board.moveToJail();
-			}
+    /**
+     * Draws a card if the player is on a Community Chest or Chance spot.
+     *
+     * @param currLocation current location of the player on the board.
+     */
+    private void drawCardIfNeeded(String currLocation) {
+        // Draw Chance card if on a Chance spot
+        if (currLocation.contains("Chance")) {
+            drawChanceCard();
+        }
+        // Draw Community Chest card if on a Community Chest spot
+        else if (currLocation.contains("Community Chest")) {
+            drawCommunityCard();
+        }
+    }
 
-			if (location.contains("Chance")) {
-				drawChanceCard();
-			}
-			else if (location.contains("Community Chest")) {
-				drawCommunityCard();
-			}
+    /**
+     * Implements strategy A for when the player lands in jail.
+     */
+    private void jailStrategyA() {
+        // If the player has a "Get Out of Jail Free" card from Community Chest
+        if (player1.hasCards() && communityDeck.noGetOutOfJail()) {
+            communityDeck.discard(player1.useCard());
+        }
+        // If the player has a "Get Out of Jail Free" card from Chance
+        else if (player1.hasCards() && chanceDeck.noGetOutOfJail()) {
+            chanceDeck.discard(player1.useCard());
+        }
+    }
 
-			//System.out.print(location.contains("Jail"));
-			if (board.getJail()) {
-				if (player1.isEmptyHand()) {
-					player1.resetDiceDoubleCount();
-					jailTurns = 0;
+    /**
+     * Implements strategy B for when the player lands in jail.
+     *
+     * @param currTurn current turn.
+     * @return updated current turn.
+     */
+    private int jailStrategyB(int currTurn) {
+        // If the player has a "Get Out of Jail Free" card from Community Chest
+        if (player1.hasCards() && communityDeck.noGetOutOfJail()) {
+            communityDeck.discard(player1.useCard());
+        }
+        // If the player has a "Get Out of Jail Free" card from Chance
+        else if (player1.hasCards() && chanceDeck.noGetOutOfJail()) {
+            chanceDeck.discard(player1.useCard());
+        }
+        // If player has no "Get Out of Jail Free" cards
+        // attempt to roll doubles for the next three turns or until out of jail
+        else {
+            player1.resetDiceDoubleCount();
+            int jailTurns = 0;
 
-					while (jailTurns < 4 & i < turns) {
-						player1.rollDice();
-						i++;
+            while (jailTurns < 3 && currTurn < totalTurns) {
+                player1.rollDice();
+                // Check if doubles are rolled
+                if (player1.getDiceDoubleCount() == 1) {
+                    board.setJail(false);
+                    break;
+                }
+                // Player remains in jail
+                board.moveToJail();
+                // Increments turns in jail and current turn
+                jailTurns++;
+                currTurn++;
+            }
+        }
+        return currTurn;
+    }
 
-						if (player1.getDiceDoubleCount() == 1) {
-							board.setJail(false);
-							break;
-						}
+    /**
+     * Draws a Chance card and executes the corresponding action based on the drawn card.
+     */
+    private void drawChanceCard() {
+        if (chanceDeck.noCards()) {
+            chanceDeck.replenish();
+        }
 
-						board.moveToJail();
-					}
-				}
-				else if (!player1.isEmptyHand() && communityDeck.notContainGetOutJail()) {
-					communityDeck.discardCommunityChest(player1.useCard());
+        String card = chanceDeck.draw();
 
-				}
-				else if (!player1.isEmptyHand() && chanceDeck.notContainGetOutJail()) {
-					chanceDeck.discardChance(player1.useCard());
-				}
+        switch (card) {
+            case "Advance to Boardwalk":
+                board.moveToBoardwalk();
+                chanceDeck.discard(card);
+                break;
 
-			}
-		}
-	}
+            case "Advance to Go":
+                board.moveToGo();
+                chanceDeck.discard(card);
+                break;
 
-	private void drawChanceCard() {
+            case "Advance to Illinois Avenue":
+                board.moveToIllinoisAvenue();
+                chanceDeck.discard(card);
+                break;
 
-		if (chanceDeck.isEmptyChanceDeck()) {
-			chanceDeck.replenishChance();
-			drawChanceCard();
-		}
+            case "Advance to St. Charles Place":
+                board.moveToStCharlesPlace();
+                chanceDeck.discard(card);
+                break;
 
-		String card = chanceDeck.drawChanceCard();
+            case "Advance to the nearest Railroad":
+                board.moveToNearestRailroad();
+                chanceDeck.discard(card);
+                break;
 
-		switch (card) {
-		case "Advance to Boardwalk":
-			board.moveToBoardwalk();
-			chanceDeck.discardChance(card);
-			break;
+            case "Advance token to nearest Utility":
+                board.moveToNearestUtility();
+                chanceDeck.discard(card);
+                break;
 
-		case "Advance to Go":
-			board.moveToGo();
-			chanceDeck.discardChance(card);
-			break;
+            // Player only keeps "Get Out of Jail Free" cards
+            case "Get Out of Jail Free":
+                player1.keepCard(card);
+                break;
 
-		case "Advance to Illinois Avenue":
-			board.moveToIllinoisAvenue();
-			chanceDeck.discardChance(card);
-			break;
+            case "Go Back 3 Spots":
+                board.moveBackThree();
+                chanceDeck.discard(card);
+                break;
 
-		case "Advance to St. Charles Place":
-			board.moveToStCharlesPlace();
-			chanceDeck.discardChance(card);
-			break;
+            case "Go to Jail":
+                board.moveToJail();
+                chanceDeck.discard(card);
+                break;
 
-		case "Advance to the nearest Railroad":
-			board.moveToNearestRailroad();
-			chanceDeck.discardChance(card);
-			break;
+            case "Take a trip to Reading Railroad":
+                board.moveToReadingRailroad();
+                chanceDeck.discard(card);
+                break;
 
-		case "Advance token to nearest Utility":
-			board.moveToNearestUtility();
-			chanceDeck.discardChance(card);
-			break;
+            default:
+                chanceDeck.discard(card);
+        }
+    }
 
-		case "Get Out of Jail Free":
-			player1.keepCard(card);
-			break;
+    /**
+     * Draws a Community Chest card and executes the corresponding action based on the drawn card.
+     */
+    private void drawCommunityCard() {
+        if (communityDeck.noCards()) {
+            communityDeck.replenish();
+        }
 
-		case "Go Back 3 Spaces":
-			board.moveBackThree();
-			chanceDeck.discardChance(card);
-			break;
+        String card = communityDeck.draw();
 
-		case "Go to Jail":
-			board.moveToJail();
-			chanceDeck.discardChance(card);
-			break;
+        switch (card) {
+            case "Advance to Go":
+                board.moveToGo();
+                communityDeck.discard(card);
+                break;
 
-		case "Take a trip to Reading Railroad":
-			board.moveToReadingRailroad();
-			chanceDeck.discardChance(card);
-			break;
+            // Player only keeps "Get Out of Jail Free" cards
+            case "Get Out of Jail Free":
+                player1.keepCard(card);
+                break;
 
-		default:
-			chanceDeck.discardChance(card);
-		}
-	}
+            case "Go to Jail":
+                board.moveToJail();
+                communityDeck.discard(card);
+                break;
 
-	private void drawCommunityCard() {
+            default:
+                communityDeck.discard(card);
+        }
+    }
 
-		if (communityDeck.isEmptyCommunityDeckIs()) {
-			communityDeck.replenishCommunityChest();
-			drawCommunityCard();
-		}
-		String card = communityDeck.drawComunityCard();
+    /**
+     * Gets the total number of moves made by the player in the game.
+     *
+     * @return total number of moves.
+     */
+    public int getTotalMoves() {
+        return totalMoves;
+    }
 
-		switch (card) {
-		case "Advance to Go":
-			board.moveToGo();
-			communityDeck.discardCommunityChest(card);
-			break;
+    /**
+     * Prints the current state of the game board.
+     */
+    public void printBoard() {
+        System.out.print(board);
+    }
 
-		case "Get Out of Jail Free":
-			player1.keepCard(card);
-			break;
 
-		case "Go to Jail":
-			board.moveToJail();
-			communityDeck.discardCommunityChest(card);
-			break;
-
-		default:
-			chanceDeck.discardChance(card);
-		}
-
-	}
-
-	public void printBoard() {
-		System.out.print(board);
-	}
 }

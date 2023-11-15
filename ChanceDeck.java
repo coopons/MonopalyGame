@@ -3,6 +3,8 @@ package MonopalyGame;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//TODO DocComments
+
 public class ChanceDeck {
 
 	private ArrayList<String> chanceCards;
@@ -20,7 +22,7 @@ public class ChanceDeck {
 		chanceCards.add("Advance token to nearest Utility");
 		chanceCards.add("Bank pays you dividend");
 		chanceCards.add("Get Out of Jail Free");
-		chanceCards.add("Go Back 3 Spaces");
+		chanceCards.add("Go Back 3 Spots");
 		
 		chanceCards.add("Go to Jail");
 		chanceCards.add("Make general repairs on all your property");
@@ -37,35 +39,29 @@ public class ChanceDeck {
 		Collections.shuffle(chanceCards);
 	}
 
-	public String drawChanceCard() {
+	public String draw() {
 		String temp = chanceCards.get(0);
 		chanceCards.remove(0);
 		return temp;
 	}
 
-	public void discardChance(String d) {
+	public void discard(String d) {
 		discard.add(d);
 	}
 
-	public void replenishChance() {
+	public void replenish() {
 		
 		chanceCards = new ArrayList<>(discard);
 		discard.clear();
 		shuffle();
 	}
 
-	public boolean isEmptyChanceDeck() {
+	public boolean noCards() {
 		return chanceCards.isEmpty();
 
 	}
 
-	public void printDeck() {
-        for (String chanceCard : chanceCards) {
-            System.out.print(chanceCard);
-        }
-	}
-	
-	public boolean notContainGetOutJail() {
+	public boolean noGetOutOfJail() {
 		
 		return !chanceCards.contains("Get Out of Jail Free");
 	}

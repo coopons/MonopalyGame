@@ -1,5 +1,9 @@
 package MonopalyGame;
 
+/**
+ * The {@code Board} class represents the game board in Monopoly.
+ * It maintains a linked list of spots and keeps track of player positions and jail status.
+ */
 public class Board {
 
 	private Node head; // first node of the list or null
@@ -9,10 +13,9 @@ public class Board {
 	private int jailCount; // times in jail
 
 	/**
-	 * Node of LinkedList that stores the item and a single reference to the next
-	 * node.
+	 * Node of LinkedList that stores the item
+	 * and a single reference to the next node.
 	 */
-
 	private static class Node {
 		private Spot spot;
 		private Node next;
@@ -75,12 +78,22 @@ public class Board {
 
 	}
 
+	/**
+	 * Determine whether the player is currently in jail or not.
+	 *
+	 * @return true if player is in jail.
+	 */
 	public boolean getJail() {
 		return jail;
 	}
 
-	public void setJail(boolean change) {
-		jail = change;
+	/**
+	 * Sends player to jail
+	 *
+	 * @param jailState true if player is in jail
+	 */
+	public void setJail(boolean jailState) {
+		jail = jailState;
 	}
 
 	/**
@@ -93,7 +106,7 @@ public class Board {
 	}
 
 	/**
-	 * Adds a node containing the new item at the end of the list.
+	 * Adds a node containing the new spot at the end of the list.
 	 *
      */
 	public void add(Spot spot) {
@@ -111,19 +124,26 @@ public class Board {
 
 	}
 
+	/**
+	 * The location player is currently at.
+	 *
+	 * @return name of spot player is occupying.
+	 */
 	public String getLocation() {
 		return head.spot.getName();
 	}
 
 	/**
-	 * Moves players position on bored.
-     */
-
+	 * Moves players' location on the board based on the specified number of moves.
+	 * Implements a circular shift to simulate continuous movement on the board.
+	 *
+	 * @param moves number of spots to move.
+	 */
 	public void move(int moves) {
-
 		if (!isEmpty()) {
 			Node current = head;
 			int shift = moves % n;
+
 			if (shift != 0) {
 				for (int i = n - (shift); i > 1; i--) {
 					current = current.next;
@@ -137,16 +157,29 @@ public class Board {
 		head.spot.landed();
 	}
 
+	/**
+	 * Moves player location back three spots by moving forward length of board-3
+	 *
+	 */
 	public void moveBackThree() {
 		move(36);
 	}
 
+	/**
+	 * Moves player location to spot Boardwalk
+	 *
+	 */
 	public void moveToBoardwalk() {
 		moveto("Boardwalk");
 
 		head.spot.landed();
 	}
 
+	/**
+	 * Moves player location to spot Jail
+	 * Sets player {@code jail} state to true
+	 *
+	 */
 	public void moveToJail() {
 		moveto("Jail");
 		head.spot.landed();
@@ -154,26 +187,40 @@ public class Board {
 		jailCount++;
 	}
 
+	/**
+	 * Moves player location to spot Go
+	 */
 	public void moveToGo() {
 		moveto("Go");
 		head.spot.landed();
 	}
 
+	/**
+	 * Moves player location to spot IllinoisAvenue
+	 */
 	public void moveToIllinoisAvenue() {
 		moveto("Illinois Avenue");
 		head.spot.landed();
 	}
 
+	/**
+	 * Moves player location to spot StCharlesPlace
+	 */
 	public void moveToStCharlesPlace() {
 		moveto("St. Charles Place");
 		head.spot.landed();
 	}
 
+	/**
+	 * Moves player location to spot ReadingRailroad
+	 */
 	public void moveToReadingRailroad() {
 		moveto("Reading Railroad");
 		head.spot.landed();
 	}
-
+	/**
+	 * Moves player location to nearest Railroad spot
+	 */
 	public void moveToNearestRailroad() {
 		Node current = head;
 
@@ -190,6 +237,9 @@ public class Board {
 
 	}
 
+	/**
+	 * Moves player location to nearest Utility spot
+	 */
 	public void moveToNearestUtility() {
 
 		if (!isEmpty()) {
@@ -208,6 +258,11 @@ public class Board {
 		}
 	}
 
+	/**
+	 * Moves player location to specified spot.
+	 *
+	 * @param name name of the spot to move to.
+	 */
 	private void moveto(String name) {
 
 		if (!isEmpty()) {
@@ -223,6 +278,11 @@ public class Board {
 		}
 	}
 
+	/**
+	 * Returns a string representation of the board, including spot names and landing counts.
+	 *
+	 * @return string representation of the board.
+	 */
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

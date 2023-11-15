@@ -3,6 +3,8 @@ package MonopalyGame;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//TODO DocComments
+
 public class CommunityChestDeck {
 
 	private ArrayList<String> communityCards;
@@ -11,7 +13,6 @@ public class CommunityChestDeck {
 	public CommunityChestDeck() {
 		communityCards = new ArrayList<>();
 		discard = new ArrayList<>();
-
 		communityCards.add("Advance to Go");
 		communityCards.add("Bank error in your favor");
 		communityCards.add("Doctor’s fee");
@@ -28,35 +29,35 @@ public class CommunityChestDeck {
 		communityCards.add("You are assessed for street repair");
 		communityCards.add("You have won second prize in a beauty contest");
 		communityCards.add("You inherit");
-		shuffl();
+		shuffle();
 	}
 
-	private void shuffl() {
+	private void shuffle() {
 		Collections.shuffle(communityCards);
 	}
 
-	public String drawComunityCard() {
+	public String draw() {
 		String temp = communityCards.get(0);
 		communityCards.remove(0);
 		return temp;
 	}
 
-	public void discardCommunityChest(String d) {
+	public void discard(String d) {
 		discard.add(d);
 	}
 
-	public void replenishCommunityChest() {
+	public void replenish() {
 		communityCards = new ArrayList<>(discard);
 		discard.clear();
-		shuffl();
+		shuffle();
 	}
 
-	public boolean isEmptyCommunityDeckIs() {
+	public boolean noCards() {
 		return communityCards.isEmpty();
 
 	}
 
-	public boolean notContainGetOutJail() {
+	public boolean noGetOutOfJail() {
 		return !communityCards.contains("Get Out of Jail Free");
 	}
 

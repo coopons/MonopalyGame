@@ -3,6 +3,8 @@ package MonopalyGame;
 import java.util.ArrayList;
 import java.util.Random;
 
+//TODO DocComments
+
 public class Player {
 
 	private int diceDoubleCount;
@@ -23,8 +25,8 @@ public class Player {
 		getOutOfJailCount++;
 	}
 
-	public boolean isEmptyHand() {
-		return hand.isEmpty();
+	public boolean hasCards() {
+		return !hand.isEmpty();
 	}
 
 	public String useCard() {
