@@ -1,0 +1,4500 @@
+    Strategy B Simulation #1 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 21      | 1.97 |
+Go                     | 28      | 2.63 |
+Boardwalk              | 23      | 2.16 |
+Luxury Tax             | 28      | 2.63 |
+Park Place             | 26      | 2.44 |
+Chance #3              | 20      | 1.88 |
+Short Line             | 32      | 3.00 |
+Pennsylvania Avenue    | 34      | 3.19 |
+Community Chest #3     | 25      | 2.35 |
+North Carolina Avenue  | 21      | 1.97 |
+Pacific Avenue         | 18      | 1.69 |
+Go To Jail             | 29      | 2.72 |
+Marvin Gardens         | 28      | 2.63 |
+Water Works            | 19      | 1.78 |
+Ventnor Avenue         | 20      | 1.88 |
+Atlantic Avenue        | 28      | 2.63 |
+B. & O. Railroad       | 31      | 2.91 |
+Illinois Avenue        | 31      | 2.91 |
+Indiana Avenue         | 20      | 1.88 |
+Chance #2              | 24      | 2.25 |
+Kentucky Avenue        | 34      | 3.19 |
+Free Parking           | 23      | 2.16 |
+New York Avenue        | 37      | 3.47 |
+Tennessee Avenue       | 24      | 2.25 |
+Community Chest #2     | 33      | 3.10 |
+St. James Place        | 27      | 2.53 |
+Pennsylvania Railroad  | 33      | 3.10 |
+States Avenue          | 16      | 1.50 |
+Electric Company       | 28      | 2.63 |
+St. Charles Place      | 37      | 3.47 |
+Jail                   | 50      | 2.72 |
+Connecticut Avenue     | 20      | 1.88 |
+Vermont Avenue         | 25      | 2.35 |
+Chance #1              | 29      | 2.72 |
+Oriental Avenue        | 20      | 1.88 |
+Reading Railroad       | 48      | 4.50 |
+Income Tax             | 27      | 2.53 |
+Baltic Avenue          | 17      | 1.59 |
+Community Chest #1     | 31      | 2.91 |
+Mediterranean Avenue   | 22      | 2.06 |
+
+    Strategy B Simulation #1 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 33      | 1.56 |
+Go                     | 59      | 2.79 |
+Boardwalk              | 54      | 2.55 |
+Luxury Tax             | 62      | 2.93 |
+Park Place             | 50      | 2.36 |
+Chance #3              | 41      | 1.94 |
+Short Line             | 59      | 2.79 |
+Pennsylvania Avenue    | 59      | 2.79 |
+Community Chest #3     | 57      | 2.69 |
+North Carolina Avenue  | 44      | 2.08 |
+Pacific Avenue         | 47      | 2.22 |
+Go To Jail             | 57      | 2.69 |
+Marvin Gardens         | 52      | 2.46 |
+Water Works            | 47      | 2.22 |
+Ventnor Avenue         | 43      | 2.03 |
+Atlantic Avenue        | 48      | 2.27 |
+B. & O. Railroad       | 58      | 2.74 |
+Illinois Avenue        | 62      | 2.93 |
+Indiana Avenue         | 54      | 2.55 |
+Chance #2              | 48      | 2.27 |
+Kentucky Avenue        | 57      | 2.69 |
+Free Parking           | 50      | 2.36 |
+New York Avenue        | 70      | 3.31 |
+Tennessee Avenue       | 58      | 2.74 |
+Community Chest #2     | 48      | 2.27 |
+St. James Place        | 59      | 2.79 |
+Pennsylvania Railroad  | 59      | 2.79 |
+States Avenue          | 37      | 1.75 |
+Electric Company       | 52      | 2.46 |
+St. Charles Place      | 68      | 3.21 |
+Jail                   | 90      | 2.69 |
+Connecticut Avenue     | 45      | 2.13 |
+Vermont Avenue         | 48      | 2.27 |
+Chance #1              | 50      | 2.36 |
+Oriental Avenue        | 42      | 1.98 |
+Reading Railroad       | 82      | 3.88 |
+Income Tax             | 63      | 2.98 |
+Baltic Avenue          | 40      | 1.89 |
+Community Chest #1     | 49      | 2.32 |
+Mediterranean Avenue   | 48      | 2.27 |
+
+    Strategy B Simulation #1 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 180     | 1.69 |
+Go                     | 284     | 2.67 |
+Boardwalk              | 338     | 3.17 |
+Luxury Tax             | 258     | 2.42 |
+Park Place             | 259     | 2.43 |
+Chance #3              | 245     | 2.30 |
+Short Line             | 274     | 2.57 |
+Pennsylvania Avenue    | 241     | 2.26 |
+Community Chest #3     | 280     | 2.63 |
+North Carolina Avenue  | 274     | 2.57 |
+Pacific Avenue         | 289     | 2.71 |
+Go To Jail             | 269     | 2.52 |
+Marvin Gardens         | 261     | 2.45 |
+Water Works            | 270     | 2.53 |
+Ventnor Avenue         | 246     | 2.31 |
+Atlantic Avenue        | 249     | 2.34 |
+B. & O. Railroad       | 250     | 2.35 |
+Illinois Avenue        | 326     | 3.06 |
+Indiana Avenue         | 282     | 2.65 |
+Chance #2              | 286     | 2.68 |
+Kentucky Avenue        | 277     | 2.60 |
+Free Parking           | 273     | 2.56 |
+New York Avenue        | 304     | 2.85 |
+Tennessee Avenue       | 289     | 2.71 |
+Community Chest #2     | 273     | 2.56 |
+St. James Place        | 261     | 2.45 |
+Pennsylvania Railroad  | 270     | 2.53 |
+States Avenue          | 247     | 2.32 |
+Electric Company       | 267     | 2.51 |
+St. Charles Place      | 295     | 2.77 |
+Jail                   | 427     | 2.32 |
+Connecticut Avenue     | 226     | 2.12 |
+Vermont Avenue         | 250     | 2.35 |
+Chance #1              | 259     | 2.43 |
+Oriental Avenue        | 259     | 2.43 |
+Reading Railroad       | 322     | 3.02 |
+Income Tax             | 264     | 2.48 |
+Baltic Avenue          | 257     | 2.41 |
+Community Chest #1     | 230     | 2.16 |
+Mediterranean Avenue   | 224     | 2.10 |
+
+    Strategy B Simulation #1 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 349     | 1.64 |
+Go                     | 560     | 2.63 |
+Boardwalk              | 655     | 3.08 |
+Luxury Tax             | 496     | 2.33 |
+Park Place             | 495     | 2.32 |
+Chance #3              | 532     | 2.50 |
+Short Line             | 570     | 2.68 |
+Pennsylvania Avenue    | 521     | 2.45 |
+Community Chest #3     | 584     | 2.74 |
+North Carolina Avenue  | 485     | 2.28 |
+Pacific Avenue         | 543     | 2.55 |
+Go To Jail             | 543     | 2.55 |
+Marvin Gardens         | 511     | 2.40 |
+Water Works            | 553     | 2.60 |
+Ventnor Avenue         | 496     | 2.33 |
+Atlantic Avenue        | 488     | 2.29 |
+B. & O. Railroad       | 517     | 2.43 |
+Illinois Avenue        | 635     | 2.98 |
+Indiana Avenue         | 587     | 2.76 |
+Chance #2              | 561     | 2.63 |
+Kentucky Avenue        | 541     | 2.54 |
+Free Parking           | 528     | 2.48 |
+New York Avenue        | 620     | 2.91 |
+Tennessee Avenue       | 573     | 2.69 |
+Community Chest #2     | 545     | 2.56 |
+St. James Place        | 549     | 2.58 |
+Pennsylvania Railroad  | 552     | 2.59 |
+States Avenue          | 505     | 2.37 |
+Electric Company       | 531     | 2.49 |
+St. Charles Place      | 586     | 2.75 |
+Jail                   | 839     | 2.30 |
+Connecticut Avenue     | 485     | 2.28 |
+Vermont Avenue         | 539     | 2.53 |
+Chance #1              | 471     | 2.21 |
+Oriental Avenue        | 494     | 2.32 |
+Reading Railroad       | 655     | 3.08 |
+Income Tax             | 519     | 2.44 |
+Baltic Avenue          | 505     | 2.37 |
+Community Chest #1     | 463     | 2.17 |
+Mediterranean Avenue   | 460     | 2.16 |
+
+    Strategy B Simulation #1 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1731    | 1.63 |
+Go                     | 2921    | 2.75 |
+Boardwalk              | 3104    | 2.92 |
+Luxury Tax             | 2577    | 2.42 |
+Park Place             | 2534    | 2.38 |
+Chance #3              | 2531    | 2.38 |
+Short Line             | 2728    | 2.56 |
+Pennsylvania Avenue    | 2677    | 2.52 |
+Community Chest #3     | 2832    | 2.66 |
+North Carolina Avenue  | 2593    | 2.44 |
+Pacific Avenue         | 2607    | 2.45 |
+Go To Jail             | 2623    | 2.47 |
+Marvin Gardens         | 2464    | 2.32 |
+Water Works            | 2869    | 2.70 |
+Ventnor Avenue         | 2491    | 2.34 |
+Atlantic Avenue        | 2596    | 2.44 |
+B. & O. Railroad       | 2645    | 2.49 |
+Illinois Avenue        | 3246    | 3.05 |
+Indiana Avenue         | 2616    | 2.46 |
+Chance #2              | 2648    | 2.49 |
+Kentucky Avenue        | 2684    | 2.52 |
+Free Parking           | 2827    | 2.66 |
+New York Avenue        | 3013    | 2.83 |
+Tennessee Avenue       | 2849    | 2.68 |
+Community Chest #2     | 2899    | 2.72 |
+St. James Place        | 2693    | 2.53 |
+Pennsylvania Railroad  | 2795    | 2.63 |
+States Avenue          | 2450    | 2.30 |
+Electric Company       | 2580    | 2.42 |
+St. Charles Place      | 3062    | 2.88 |
+Jail                   | 4180    | 2.30 |
+Connecticut Avenue     | 2488    | 2.34 |
+Vermont Avenue         | 2527    | 2.37 |
+Chance #1              | 2534    | 2.38 |
+Oriental Avenue        | 2477    | 2.33 |
+Reading Railroad       | 3301    | 3.10 |
+Income Tax             | 2688    | 2.53 |
+Baltic Avenue          | 2393    | 2.25 |
+Community Chest #1     | 2365    | 2.22 |
+Mediterranean Avenue   | 2301    | 2.16 |
+
+    Strategy B Simulation #1 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3558    | 1.67 |
+Go                     | 5888    | 2.76 |
+Boardwalk              | 6164    | 2.89 |
+Luxury Tax             | 5070    | 2.38 |
+Park Place             | 5188    | 2.44 |
+Chance #3              | 5152    | 2.42 |
+Short Line             | 5548    | 2.60 |
+Pennsylvania Avenue    | 5254    | 2.47 |
+Community Chest #3     | 5611    | 2.63 |
+North Carolina Avenue  | 5248    | 2.46 |
+Pacific Avenue         | 5148    | 2.42 |
+Go To Jail             | 5166    | 2.42 |
+Marvin Gardens         | 5021    | 2.36 |
+Water Works            | 5736    | 2.69 |
+Ventnor Avenue         | 5056    | 2.37 |
+Atlantic Avenue        | 5112    | 2.40 |
+B. & O. Railroad       | 5263    | 2.47 |
+Illinois Avenue        | 6573    | 3.09 |
+Indiana Avenue         | 5235    | 2.46 |
+Chance #2              | 5356    | 2.51 |
+Kentucky Avenue        | 5407    | 2.54 |
+Free Parking           | 5671    | 2.66 |
+New York Avenue        | 5957    | 2.80 |
+Tennessee Avenue       | 5697    | 2.67 |
+Community Chest #2     | 5755    | 2.70 |
+St. James Place        | 5363    | 2.52 |
+Pennsylvania Railroad  | 5577    | 2.62 |
+States Avenue          | 4834    | 2.27 |
+Electric Company       | 5277    | 2.48 |
+St. Charles Place      | 6074    | 2.85 |
+Jail                   | 8449    | 2.30 |
+Connecticut Avenue     | 4953    | 2.32 |
+Vermont Avenue         | 5042    | 2.37 |
+Chance #1              | 5189    | 2.44 |
+Oriental Avenue        | 4992    | 2.34 |
+Reading Railroad       | 6587    | 3.09 |
+Income Tax             | 5332    | 2.50 |
+Baltic Avenue          | 4773    | 2.24 |
+Community Chest #1     | 4693    | 2.20 |
+Mediterranean Avenue   | 4639    | 2.18 |
+
+    Strategy B Simulation #1 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17664   | 1.66 |
+Go                     | 29316   | 2.75 |
+Boardwalk              | 30434   | 2.86 |
+Luxury Tax             | 25065   | 2.35 |
+Park Place             | 25806   | 2.42 |
+Chance #3              | 25652   | 2.41 |
+Short Line             | 28041   | 2.63 |
+Pennsylvania Avenue    | 26228   | 2.46 |
+Community Chest #3     | 28429   | 2.67 |
+North Carolina Avenue  | 26123   | 2.45 |
+Pacific Avenue         | 26059   | 2.45 |
+Go To Jail             | 25410   | 2.39 |
+Marvin Gardens         | 25031   | 2.35 |
+Water Works            | 28413   | 2.67 |
+Ventnor Avenue         | 25407   | 2.39 |
+Atlantic Avenue        | 25859   | 2.43 |
+B. & O. Railroad       | 26257   | 2.47 |
+Illinois Avenue        | 32567   | 3.06 |
+Indiana Avenue         | 26715   | 2.51 |
+Chance #2              | 26960   | 2.53 |
+Kentucky Avenue        | 27328   | 2.57 |
+Free Parking           | 27761   | 2.61 |
+New York Avenue        | 30293   | 2.84 |
+Tennessee Avenue       | 28288   | 2.66 |
+Community Chest #2     | 28008   | 2.63 |
+St. James Place        | 27110   | 2.55 |
+Pennsylvania Railroad  | 27819   | 2.61 |
+States Avenue          | 24686   | 2.32 |
+Electric Company       | 26380   | 2.48 |
+St. Charles Place      | 30131   | 2.83 |
+Jail                   | 42104   | 2.30 |
+Connecticut Avenue     | 24866   | 2.34 |
+Vermont Avenue         | 25403   | 2.39 |
+Chance #1              | 25502   | 2.39 |
+Oriental Avenue        | 25243   | 2.37 |
+Reading Railroad       | 33162   | 3.11 |
+Income Tax             | 26252   | 2.47 |
+Baltic Avenue          | 23806   | 2.24 |
+Community Chest #1     | 23137   | 2.17 |
+Mediterranean Avenue   | 23822   | 2.24 |
+
+    Strategy B Simulation #1 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35163   | 1.65 |
+Go                     | 58552   | 2.75 |
+Boardwalk              | 60939   | 2.86 |
+Luxury Tax             | 50332   | 2.36 |
+Park Place             | 51741   | 2.43 |
+Chance #3              | 51357   | 2.41 |
+Short Line             | 55582   | 2.61 |
+Pennsylvania Avenue    | 52612   | 2.47 |
+Community Chest #3     | 56671   | 2.66 |
+North Carolina Avenue  | 52313   | 2.46 |
+Pacific Avenue         | 51937   | 2.44 |
+Go To Jail             | 50772   | 2.38 |
+Marvin Gardens         | 50167   | 2.36 |
+Water Works            | 57083   | 2.68 |
+Ventnor Avenue         | 50506   | 2.37 |
+Atlantic Avenue        | 51569   | 2.42 |
+B. & O. Railroad       | 52389   | 2.46 |
+Illinois Avenue        | 65117   | 3.06 |
+Indiana Avenue         | 53687   | 2.52 |
+Chance #2              | 53859   | 2.53 |
+Kentucky Avenue        | 54550   | 2.56 |
+Free Parking           | 55350   | 2.60 |
+New York Avenue        | 60656   | 2.85 |
+Tennessee Avenue       | 56683   | 2.66 |
+Community Chest #2     | 56411   | 2.65 |
+St. James Place        | 54043   | 2.54 |
+Pennsylvania Railroad  | 55633   | 2.61 |
+States Avenue          | 48872   | 2.30 |
+Electric Company       | 52824   | 2.48 |
+St. Charles Place      | 60364   | 2.83 |
+Jail                   | 84401   | 2.31 |
+Connecticut Avenue     | 49557   | 2.33 |
+Vermont Avenue         | 50767   | 2.38 |
+Chance #1              | 50775   | 2.38 |
+Oriental Avenue        | 50383   | 2.37 |
+Reading Railroad       | 66320   | 3.11 |
+Income Tax             | 52830   | 2.48 |
+Baltic Avenue          | 47924   | 2.25 |
+Community Chest #1     | 46524   | 2.18 |
+Mediterranean Avenue   | 47442   | 2.23 |
+
+    Strategy B Simulation #1 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175611   | 1.65 |
+Go                     | 291239   | 2.74 |
+Boardwalk              | 305332   | 2.87 |
+Luxury Tax             | 251463   | 2.36 |
+Park Place             | 258134   | 2.42 |
+Chance #3              | 257243   | 2.42 |
+Short Line             | 278033   | 2.61 |
+Pennsylvania Avenue    | 262541   | 2.47 |
+Community Chest #3     | 284036   | 2.67 |
+North Carolina Avenue  | 261690   | 2.46 |
+Pacific Avenue         | 258074   | 2.42 |
+Go To Jail             | 256735   | 2.41 |
+Marvin Gardens         | 250497   | 2.35 |
+Water Works            | 284742   | 2.67 |
+Ventnor Avenue         | 250712   | 2.35 |
+Atlantic Avenue        | 257617   | 2.42 |
+B. & O. Railroad       | 262837   | 2.47 |
+Illinois Avenue        | 327245   | 3.07 |
+Indiana Avenue         | 269188   | 2.53 |
+Chance #2              | 267883   | 2.52 |
+Kentucky Avenue        | 272158   | 2.56 |
+Free Parking           | 276813   | 2.60 |
+New York Avenue        | 303740   | 2.85 |
+Tennessee Avenue       | 284839   | 2.68 |
+Community Chest #2     | 279987   | 2.63 |
+St. James Place        | 267948   | 2.52 |
+Pennsylvania Railroad  | 278367   | 2.61 |
+States Avenue          | 245373   | 2.30 |
+Electric Company       | 263794   | 2.48 |
+St. Charles Place      | 303182   | 2.85 |
+Jail                   | 421522   | 2.31 |
+Connecticut Avenue     | 249214   | 2.34 |
+Vermont Avenue         | 252649   | 2.37 |
+Chance #1              | 255441   | 2.40 |
+Oriental Avenue        | 252131   | 2.37 |
+Reading Railroad       | 331234   | 3.11 |
+Income Tax             | 264901   | 2.49 |
+Baltic Avenue          | 239524   | 2.25 |
+Community Chest #1     | 232910   | 2.19 |
+Mediterranean Avenue   | 236558   | 2.22 |
+
+    Strategy B Simulation #1 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351840   | 1.65 |
+Go                     | 583640   | 2.74 |
+Boardwalk              | 610454   | 2.87 |
+Luxury Tax             | 503361   | 2.36 |
+Park Place             | 515789   | 2.42 |
+Chance #3              | 514505   | 2.42 |
+Short Line             | 555745   | 2.61 |
+Pennsylvania Avenue    | 524864   | 2.46 |
+Community Chest #3     | 568629   | 2.67 |
+North Carolina Avenue  | 523476   | 2.46 |
+Pacific Avenue         | 515841   | 2.42 |
+Go To Jail             | 513457   | 2.41 |
+Marvin Gardens         | 500604   | 2.35 |
+Water Works            | 569225   | 2.67 |
+Ventnor Avenue         | 502459   | 2.36 |
+Atlantic Avenue        | 515693   | 2.42 |
+B. & O. Railroad       | 525303   | 2.47 |
+Illinois Avenue        | 653535   | 3.07 |
+Indiana Avenue         | 537583   | 2.52 |
+Chance #2              | 535502   | 2.51 |
+Kentucky Avenue        | 545133   | 2.56 |
+Free Parking           | 553274   | 2.60 |
+New York Avenue        | 608780   | 2.86 |
+Tennessee Avenue       | 569650   | 2.67 |
+Community Chest #2     | 560653   | 2.63 |
+St. James Place        | 536243   | 2.52 |
+Pennsylvania Railroad  | 555406   | 2.61 |
+States Avenue          | 490870   | 2.30 |
+Electric Company       | 528176   | 2.48 |
+St. Charles Place      | 606762   | 2.85 |
+Jail                   | 843231   | 2.31 |
+Connecticut Avenue     | 497758   | 2.34 |
+Vermont Avenue         | 506099   | 2.38 |
+Chance #1              | 512005   | 2.40 |
+Oriental Avenue        | 503120   | 2.36 |
+Reading Railroad       | 661917   | 3.11 |
+Income Tax             | 530020   | 2.49 |
+Baltic Avenue          | 480008   | 2.25 |
+Community Chest #1     | 464249   | 2.18 |
+Mediterranean Avenue   | 473097   | 2.22 |
+
+    Strategy B Simulation #2 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 15      | 1.42 |
+Go                     | 34      | 3.22 |
+Boardwalk              | 31      | 2.94 |
+Luxury Tax             | 20      | 1.90 |
+Park Place             | 25      | 2.37 |
+Chance #3              | 27      | 2.56 |
+Short Line             | 27      | 2.56 |
+Pennsylvania Avenue    | 24      | 2.27 |
+Community Chest #3     | 35      | 3.32 |
+North Carolina Avenue  | 22      | 2.09 |
+Pacific Avenue         | 26      | 2.46 |
+Go To Jail             | 21      | 1.99 |
+Marvin Gardens         | 21      | 1.99 |
+Water Works            | 31      | 2.94 |
+Ventnor Avenue         | 27      | 2.56 |
+Atlantic Avenue        | 20      | 1.90 |
+B. & O. Railroad       | 37      | 3.51 |
+Illinois Avenue        | 26      | 2.46 |
+Indiana Avenue         | 34      | 3.22 |
+Chance #2              | 23      | 2.18 |
+Kentucky Avenue        | 17      | 1.61 |
+Free Parking           | 35      | 3.32 |
+New York Avenue        | 30      | 2.84 |
+Tennessee Avenue       | 35      | 3.32 |
+Community Chest #2     | 24      | 2.27 |
+St. James Place        | 31      | 2.94 |
+Pennsylvania Railroad  | 33      | 3.13 |
+States Avenue          | 15      | 1.42 |
+Electric Company       | 18      | 1.71 |
+St. Charles Place      | 32      | 3.03 |
+Jail                   | 50      | 3.32 |
+Connecticut Avenue     | 29      | 2.75 |
+Vermont Avenue         | 28      | 2.65 |
+Chance #1              | 15      | 1.42 |
+Oriental Avenue        | 19      | 1.80 |
+Reading Railroad       | 33      | 3.13 |
+Income Tax             | 26      | 2.46 |
+Baltic Avenue          | 26      | 2.46 |
+Community Chest #1     | 32      | 3.03 |
+Mediterranean Avenue   | 16      | 1.52 |
+
+    Strategy B Simulation #2 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 30      | 1.41 |
+Go                     | 67      | 3.15 |
+Boardwalk              | 69      | 3.25 |
+Luxury Tax             | 43      | 2.02 |
+Park Place             | 49      | 2.31 |
+Chance #3              | 54      | 2.54 |
+Short Line             | 45      | 2.12 |
+Pennsylvania Avenue    | 57      | 2.68 |
+Community Chest #3     | 71      | 3.34 |
+North Carolina Avenue  | 38      | 1.79 |
+Pacific Avenue         | 45      | 2.12 |
+Go To Jail             | 50      | 2.35 |
+Marvin Gardens         | 47      | 2.21 |
+Water Works            | 55      | 2.59 |
+Ventnor Avenue         | 52      | 2.45 |
+Atlantic Avenue        | 44      | 2.07 |
+B. & O. Railroad       | 64      | 3.01 |
+Illinois Avenue        | 57      | 2.68 |
+Indiana Avenue         | 64      | 3.01 |
+Chance #2              | 56      | 2.64 |
+Kentucky Avenue        | 41      | 1.93 |
+Free Parking           | 69      | 3.25 |
+New York Avenue        | 57      | 2.68 |
+Tennessee Avenue       | 67      | 3.15 |
+Community Chest #2     | 51      | 2.40 |
+St. James Place        | 62      | 2.92 |
+Pennsylvania Railroad  | 58      | 2.73 |
+States Avenue          | 37      | 1.74 |
+Electric Company       | 44      | 2.07 |
+St. Charles Place      | 63      | 2.96 |
+Jail                   | 92      | 2.92 |
+Connecticut Avenue     | 62      | 2.92 |
+Vermont Avenue         | 54      | 2.54 |
+Chance #1              | 47      | 2.21 |
+Oriental Avenue        | 39      | 1.84 |
+Reading Railroad       | 64      | 3.01 |
+Income Tax             | 57      | 2.68 |
+Baltic Avenue          | 48      | 2.26 |
+Community Chest #1     | 50      | 2.35 |
+Mediterranean Avenue   | 36      | 1.69 |
+
+    Strategy B Simulation #2 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 182     | 1.71 |
+Go                     | 280     | 2.63 |
+Boardwalk              | 307     | 2.89 |
+Luxury Tax             | 233     | 2.19 |
+Park Place             | 273     | 2.57 |
+Chance #3              | 279     | 2.62 |
+Short Line             | 261     | 2.45 |
+Pennsylvania Avenue    | 268     | 2.52 |
+Community Chest #3     | 266     | 2.50 |
+North Carolina Avenue  | 265     | 2.49 |
+Pacific Avenue         | 269     | 2.53 |
+Go To Jail             | 255     | 2.40 |
+Marvin Gardens         | 234     | 2.20 |
+Water Works            | 318     | 2.99 |
+Ventnor Avenue         | 263     | 2.47 |
+Atlantic Avenue        | 232     | 2.18 |
+B. & O. Railroad       | 270     | 2.54 |
+Illinois Avenue        | 343     | 3.22 |
+Indiana Avenue         | 276     | 2.59 |
+Chance #2              | 245     | 2.30 |
+Kentucky Avenue        | 250     | 2.35 |
+Free Parking           | 314     | 2.95 |
+New York Avenue        | 294     | 2.76 |
+Tennessee Avenue       | 278     | 2.61 |
+Community Chest #2     | 271     | 2.55 |
+St. James Place        | 267     | 2.51 |
+Pennsylvania Railroad  | 295     | 2.77 |
+States Avenue          | 230     | 2.16 |
+Electric Company       | 259     | 2.43 |
+St. Charles Place      | 302     | 2.84 |
+Jail                   | 425     | 2.28 |
+Connecticut Avenue     | 244     | 2.29 |
+Vermont Avenue         | 265     | 2.49 |
+Chance #1              | 231     | 2.17 |
+Oriental Avenue        | 290     | 2.73 |
+Reading Railroad       | 302     | 2.84 |
+Income Tax             | 271     | 2.55 |
+Baltic Avenue          | 250     | 2.35 |
+Community Chest #1     | 216     | 2.03 |
+Mediterranean Avenue   | 246     | 2.31 |
+
+    Strategy B Simulation #2 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 347     | 1.63 |
+Go                     | 563     | 2.65 |
+Boardwalk              | 589     | 2.77 |
+Luxury Tax             | 488     | 2.30 |
+Park Place             | 572     | 2.69 |
+Chance #3              | 539     | 2.54 |
+Short Line             | 521     | 2.45 |
+Pennsylvania Avenue    | 517     | 2.43 |
+Community Chest #3     | 551     | 2.59 |
+North Carolina Avenue  | 528     | 2.49 |
+Pacific Avenue         | 546     | 2.57 |
+Go To Jail             | 505     | 2.38 |
+Marvin Gardens         | 490     | 2.31 |
+Water Works            | 602     | 2.83 |
+Ventnor Avenue         | 514     | 2.42 |
+Atlantic Avenue        | 484     | 2.28 |
+B. & O. Railroad       | 531     | 2.50 |
+Illinois Avenue        | 654     | 3.08 |
+Indiana Avenue         | 561     | 2.64 |
+Chance #2              | 490     | 2.31 |
+Kentucky Avenue        | 559     | 2.63 |
+Free Parking           | 594     | 2.80 |
+New York Avenue        | 589     | 2.77 |
+Tennessee Avenue       | 554     | 2.61 |
+Community Chest #2     | 548     | 2.58 |
+St. James Place        | 528     | 2.49 |
+Pennsylvania Railroad  | 545     | 2.57 |
+States Avenue          | 484     | 2.28 |
+Electric Company       | 511     | 2.41 |
+St. Charles Place      | 621     | 2.92 |
+Jail                   | 860     | 2.41 |
+Connecticut Avenue     | 495     | 2.33 |
+Vermont Avenue         | 497     | 2.34 |
+Chance #1              | 457     | 2.15 |
+Oriental Avenue        | 555     | 2.61 |
+Reading Railroad       | 624     | 2.94 |
+Income Tax             | 549     | 2.58 |
+Baltic Avenue          | 504     | 2.37 |
+Community Chest #1     | 445     | 2.09 |
+Mediterranean Avenue   | 482     | 2.27 |
+
+    Strategy B Simulation #2 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1760    | 1.65 |
+Go                     | 2966    | 2.79 |
+Boardwalk              | 3091    | 2.90 |
+Luxury Tax             | 2436    | 2.29 |
+Park Place             | 2526    | 2.37 |
+Chance #3              | 2581    | 2.42 |
+Short Line             | 2760    | 2.59 |
+Pennsylvania Avenue    | 2633    | 2.47 |
+Community Chest #3     | 2878    | 2.70 |
+North Carolina Avenue  | 2640    | 2.48 |
+Pacific Avenue         | 2556    | 2.40 |
+Go To Jail             | 2636    | 2.48 |
+Marvin Gardens         | 2463    | 2.31 |
+Water Works            | 2852    | 2.68 |
+Ventnor Avenue         | 2493    | 2.34 |
+Atlantic Avenue        | 2605    | 2.45 |
+B. & O. Railroad       | 2616    | 2.46 |
+Illinois Avenue        | 3372    | 3.17 |
+Indiana Avenue         | 2598    | 2.44 |
+Chance #2              | 2636    | 2.48 |
+Kentucky Avenue        | 2657    | 2.50 |
+Free Parking           | 2804    | 2.63 |
+New York Avenue        | 3042    | 2.86 |
+Tennessee Avenue       | 2850    | 2.68 |
+Community Chest #2     | 2833    | 2.66 |
+St. James Place        | 2659    | 2.50 |
+Pennsylvania Railroad  | 2730    | 2.56 |
+States Avenue          | 2433    | 2.29 |
+Electric Company       | 2725    | 2.56 |
+St. Charles Place      | 3016    | 2.83 |
+Jail                   | 4240    | 2.33 |
+Connecticut Avenue     | 2469    | 2.32 |
+Vermont Avenue         | 2508    | 2.36 |
+Chance #1              | 2564    | 2.41 |
+Oriental Avenue        | 2457    | 2.31 |
+Reading Railroad       | 3385    | 3.18 |
+Income Tax             | 2672    | 2.51 |
+Baltic Avenue          | 2415    | 2.27 |
+Community Chest #1     | 2289    | 2.15 |
+Mediterranean Avenue   | 2381    | 2.24 |
+
+    Strategy B Simulation #2 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3537    | 1.66 |
+Go                     | 5832    | 2.74 |
+Boardwalk              | 6220    | 2.92 |
+Luxury Tax             | 5042    | 2.37 |
+Park Place             | 5021    | 2.36 |
+Chance #3              | 5128    | 2.41 |
+Short Line             | 5451    | 2.56 |
+Pennsylvania Avenue    | 5344    | 2.51 |
+Community Chest #3     | 5756    | 2.70 |
+North Carolina Avenue  | 5300    | 2.49 |
+Pacific Avenue         | 5118    | 2.40 |
+Go To Jail             | 5180    | 2.43 |
+Marvin Gardens         | 4924    | 2.31 |
+Water Works            | 5693    | 2.67 |
+Ventnor Avenue         | 4919    | 2.31 |
+Atlantic Avenue        | 5206    | 2.44 |
+B. & O. Railroad       | 5228    | 2.46 |
+Illinois Avenue        | 6589    | 3.09 |
+Indiana Avenue         | 5347    | 2.51 |
+Chance #2              | 5347    | 2.51 |
+Kentucky Avenue        | 5371    | 2.52 |
+Free Parking           | 5528    | 2.60 |
+New York Avenue        | 6145    | 2.89 |
+Tennessee Avenue       | 5690    | 2.67 |
+Community Chest #2     | 5668    | 2.66 |
+St. James Place        | 5329    | 2.50 |
+Pennsylvania Railroad  | 5476    | 2.57 |
+States Avenue          | 4818    | 2.26 |
+Electric Company       | 5451    | 2.56 |
+St. Charles Place      | 6102    | 2.87 |
+Jail                   | 8457    | 2.31 |
+Connecticut Avenue     | 4934    | 2.32 |
+Vermont Avenue         | 5055    | 2.37 |
+Chance #1              | 5041    | 2.37 |
+Oriental Avenue        | 5022    | 2.36 |
+Reading Railroad       | 6663    | 3.13 |
+Income Tax             | 5280    | 2.48 |
+Baltic Avenue          | 4847    | 2.28 |
+Community Chest #1     | 4680    | 2.20 |
+Mediterranean Avenue   | 4733    | 2.22 |
+
+    Strategy B Simulation #2 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17493   | 1.64 |
+Go                     | 29417   | 2.76 |
+Boardwalk              | 30464   | 2.86 |
+Luxury Tax             | 25207   | 2.37 |
+Park Place             | 25658   | 2.41 |
+Chance #3              | 25524   | 2.40 |
+Short Line             | 27940   | 2.62 |
+Pennsylvania Avenue    | 26082   | 2.45 |
+Community Chest #3     | 28392   | 2.67 |
+North Carolina Avenue  | 25873   | 2.43 |
+Pacific Avenue         | 26159   | 2.46 |
+Go To Jail             | 25603   | 2.41 |
+Marvin Gardens         | 25037   | 2.35 |
+Water Works            | 28506   | 2.68 |
+Ventnor Avenue         | 25140   | 2.36 |
+Atlantic Avenue        | 25500   | 2.40 |
+B. & O. Railroad       | 26241   | 2.47 |
+Illinois Avenue        | 32757   | 3.08 |
+Indiana Avenue         | 26872   | 2.52 |
+Chance #2              | 26561   | 2.50 |
+Kentucky Avenue        | 27181   | 2.55 |
+Free Parking           | 27750   | 2.61 |
+New York Avenue        | 30541   | 2.87 |
+Tennessee Avenue       | 28536   | 2.68 |
+Community Chest #2     | 28041   | 2.63 |
+St. James Place        | 26894   | 2.53 |
+Pennsylvania Railroad  | 27630   | 2.60 |
+States Avenue          | 24488   | 2.30 |
+Electric Company       | 26608   | 2.50 |
+St. Charles Place      | 30287   | 2.85 |
+Jail                   | 42222   | 2.32 |
+Connecticut Avenue     | 24846   | 2.33 |
+Vermont Avenue         | 25348   | 2.38 |
+Chance #1              | 25470   | 2.39 |
+Oriental Avenue        | 25132   | 2.36 |
+Reading Railroad       | 33024   | 3.10 |
+Income Tax             | 26443   | 2.48 |
+Baltic Avenue          | 24182   | 2.27 |
+Community Chest #1     | 23101   | 2.17 |
+Mediterranean Avenue   | 23746   | 2.23 |
+
+    Strategy B Simulation #2 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35058   | 1.65 |
+Go                     | 58378   | 2.74 |
+Boardwalk              | 61151   | 2.87 |
+Luxury Tax             | 50293   | 2.36 |
+Park Place             | 51401   | 2.41 |
+Chance #3              | 51239   | 2.41 |
+Short Line             | 55659   | 2.61 |
+Pennsylvania Avenue    | 52305   | 2.46 |
+Community Chest #3     | 56751   | 2.67 |
+North Carolina Avenue  | 51806   | 2.43 |
+Pacific Avenue         | 52001   | 2.44 |
+Go To Jail             | 51370   | 2.41 |
+Marvin Gardens         | 50089   | 2.35 |
+Water Works            | 56743   | 2.67 |
+Ventnor Avenue         | 50194   | 2.36 |
+Atlantic Avenue        | 51334   | 2.41 |
+B. & O. Railroad       | 52607   | 2.47 |
+Illinois Avenue        | 65426   | 3.07 |
+Indiana Avenue         | 53836   | 2.53 |
+Chance #2              | 53331   | 2.50 |
+Kentucky Avenue        | 54290   | 2.55 |
+Free Parking           | 55395   | 2.60 |
+New York Avenue        | 60902   | 2.86 |
+Tennessee Avenue       | 57466   | 2.70 |
+Community Chest #2     | 55936   | 2.63 |
+St. James Place        | 53570   | 2.52 |
+Pennsylvania Railroad  | 55592   | 2.61 |
+States Avenue          | 49008   | 2.30 |
+Electric Company       | 53153   | 2.50 |
+St. Charles Place      | 60828   | 2.86 |
+Jail                   | 84146   | 2.31 |
+Connecticut Avenue     | 49787   | 2.34 |
+Vermont Avenue         | 50727   | 2.38 |
+Chance #1              | 51158   | 2.40 |
+Oriental Avenue        | 50199   | 2.36 |
+Reading Railroad       | 66217   | 3.11 |
+Income Tax             | 52830   | 2.48 |
+Baltic Avenue          | 48394   | 2.27 |
+Community Chest #1     | 46021   | 2.16 |
+Mediterranean Avenue   | 47655   | 2.24 |
+
+    Strategy B Simulation #2 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175823   | 1.65 |
+Go                     | 292394   | 2.75 |
+Boardwalk              | 305848   | 2.87 |
+Luxury Tax             | 251466   | 2.36 |
+Park Place             | 257819   | 2.42 |
+Chance #3              | 257392   | 2.42 |
+Short Line             | 277618   | 2.61 |
+Pennsylvania Avenue    | 261998   | 2.46 |
+Community Chest #3     | 285159   | 2.68 |
+North Carolina Avenue  | 261858   | 2.46 |
+Pacific Avenue         | 258324   | 2.43 |
+Go To Jail             | 256652   | 2.41 |
+Marvin Gardens         | 249575   | 2.34 |
+Water Works            | 284596   | 2.67 |
+Ventnor Avenue         | 252055   | 2.37 |
+Atlantic Avenue        | 256508   | 2.41 |
+B. & O. Railroad       | 263059   | 2.47 |
+Illinois Avenue        | 326772   | 3.07 |
+Indiana Avenue         | 269262   | 2.53 |
+Chance #2              | 267301   | 2.51 |
+Kentucky Avenue        | 272720   | 2.56 |
+Free Parking           | 277367   | 2.61 |
+New York Avenue        | 303746   | 2.85 |
+Tennessee Avenue       | 284607   | 2.67 |
+Community Chest #2     | 280924   | 2.64 |
+St. James Place        | 268289   | 2.52 |
+Pennsylvania Railroad  | 277556   | 2.61 |
+States Avenue          | 245128   | 2.30 |
+Electric Company       | 263713   | 2.48 |
+St. Charles Place      | 303534   | 2.85 |
+Jail                   | 421856   | 2.31 |
+Connecticut Avenue     | 248952   | 2.34 |
+Vermont Avenue         | 252095   | 2.37 |
+Chance #1              | 255219   | 2.40 |
+Oriental Avenue        | 252214   | 2.37 |
+Reading Railroad       | 330793   | 3.11 |
+Income Tax             | 264895   | 2.49 |
+Baltic Avenue          | 240058   | 2.25 |
+Community Chest #1     | 231603   | 2.18 |
+Mediterranean Avenue   | 236480   | 2.22 |
+
+    Strategy B Simulation #2 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351592   | 1.65 |
+Go                     | 584535   | 2.74 |
+Boardwalk              | 610976   | 2.87 |
+Luxury Tax             | 502985   | 2.36 |
+Park Place             | 515211   | 2.42 |
+Chance #3              | 515629   | 2.42 |
+Short Line             | 555047   | 2.61 |
+Pennsylvania Avenue    | 524530   | 2.46 |
+Community Chest #3     | 569879   | 2.68 |
+North Carolina Avenue  | 522704   | 2.45 |
+Pacific Avenue         | 516885   | 2.43 |
+Go To Jail             | 513596   | 2.41 |
+Marvin Gardens         | 500133   | 2.35 |
+Water Works            | 569107   | 2.67 |
+Ventnor Avenue         | 503788   | 2.37 |
+Atlantic Avenue        | 513019   | 2.41 |
+B. & O. Railroad       | 525993   | 2.47 |
+Illinois Avenue        | 653027   | 3.07 |
+Indiana Avenue         | 538466   | 2.53 |
+Chance #2              | 534399   | 2.51 |
+Kentucky Avenue        | 545463   | 2.56 |
+Free Parking           | 554529   | 2.60 |
+New York Avenue        | 608005   | 2.86 |
+Tennessee Avenue       | 569157   | 2.67 |
+Community Chest #2     | 561620   | 2.64 |
+St. James Place        | 536420   | 2.52 |
+Pennsylvania Railroad  | 554846   | 2.61 |
+States Avenue          | 490058   | 2.30 |
+Electric Company       | 528279   | 2.48 |
+St. Charles Place      | 607547   | 2.85 |
+Jail                   | 843294   | 2.31 |
+Connecticut Avenue     | 498344   | 2.34 |
+Vermont Avenue         | 504068   | 2.37 |
+Chance #1              | 511199   | 2.40 |
+Oriental Avenue        | 504656   | 2.37 |
+Reading Railroad       | 661753   | 3.11 |
+Income Tax             | 529778   | 2.49 |
+Baltic Avenue          | 479358   | 2.25 |
+Community Chest #1     | 464239   | 2.18 |
+Mediterranean Avenue   | 473046   | 2.22 |
+
+    Strategy B Simulation #3 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 23      | 2.15 |
+Go                     | 27      | 2.52 |
+Boardwalk              | 29      | 2.71 |
+Luxury Tax             | 18      | 1.68 |
+Park Place             | 23      | 2.15 |
+Chance #3              | 39      | 3.64 |
+Short Line             | 34      | 3.17 |
+Pennsylvania Avenue    | 21      | 1.96 |
+Community Chest #3     | 32      | 2.99 |
+North Carolina Avenue  | 28      | 2.61 |
+Pacific Avenue         | 21      | 1.96 |
+Go To Jail             | 26      | 2.43 |
+Marvin Gardens         | 19      | 1.77 |
+Water Works            | 37      | 3.45 |
+Ventnor Avenue         | 27      | 2.52 |
+Atlantic Avenue        | 23      | 2.15 |
+B. & O. Railroad       | 20      | 1.87 |
+Illinois Avenue        | 31      | 2.89 |
+Indiana Avenue         | 36      | 3.36 |
+Chance #2              | 21      | 1.96 |
+Kentucky Avenue        | 26      | 2.43 |
+Free Parking           | 28      | 2.61 |
+New York Avenue        | 41      | 3.83 |
+Tennessee Avenue       | 30      | 2.80 |
+Community Chest #2     | 28      | 2.61 |
+St. James Place        | 22      | 2.05 |
+Pennsylvania Railroad  | 21      | 1.96 |
+States Avenue          | 20      | 1.87 |
+Electric Company       | 26      | 2.43 |
+St. Charles Place      | 37      | 3.45 |
+Jail                   | 44      | 1.96 |
+Connecticut Avenue     | 32      | 2.99 |
+Vermont Avenue         | 19      | 1.77 |
+Chance #1              | 18      | 1.68 |
+Oriental Avenue        | 26      | 2.43 |
+Reading Railroad       | 29      | 2.71 |
+Income Tax             | 32      | 2.99 |
+Baltic Avenue          | 32      | 2.99 |
+Community Chest #1     | 26      | 2.43 |
+Mediterranean Avenue   | 22      | 2.05 |
+
+    Strategy B Simulation #3 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 37      | 1.74 |
+Go                     | 55      | 2.59 |
+Boardwalk              | 55      | 2.59 |
+Luxury Tax             | 45      | 2.12 |
+Park Place             | 43      | 2.02 |
+Chance #3              | 68      | 3.20 |
+Short Line             | 52      | 2.45 |
+Pennsylvania Avenue    | 53      | 2.49 |
+Community Chest #3     | 56      | 2.64 |
+North Carolina Avenue  | 56      | 2.64 |
+Pacific Avenue         | 48      | 2.26 |
+Go To Jail             | 55      | 2.59 |
+Marvin Gardens         | 38      | 1.79 |
+Water Works            | 71      | 3.34 |
+Ventnor Avenue         | 47      | 2.21 |
+Atlantic Avenue        | 51      | 2.40 |
+B. & O. Railroad       | 47      | 2.21 |
+Illinois Avenue        | 68      | 3.20 |
+Indiana Avenue         | 60      | 2.82 |
+Chance #2              | 41      | 1.93 |
+Kentucky Avenue        | 54      | 2.54 |
+Free Parking           | 62      | 2.92 |
+New York Avenue        | 68      | 3.20 |
+Tennessee Avenue       | 68      | 3.20 |
+Community Chest #2     | 46      | 2.16 |
+St. James Place        | 46      | 2.16 |
+Pennsylvania Railroad  | 53      | 2.49 |
+States Avenue          | 45      | 2.12 |
+Electric Company       | 51      | 2.40 |
+St. Charles Place      | 56      | 2.64 |
+Jail                   | 91      | 2.54 |
+Connecticut Avenue     | 57      | 2.68 |
+Vermont Avenue         | 43      | 2.02 |
+Chance #1              | 39      | 1.84 |
+Oriental Avenue        | 61      | 2.87 |
+Reading Railroad       | 63      | 2.96 |
+Income Tax             | 58      | 2.73 |
+Baltic Avenue          | 60      | 2.82 |
+Community Chest #1     | 46      | 2.16 |
+Mediterranean Avenue   | 49      | 2.31 |
+
+    Strategy B Simulation #3 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 177     | 1.66 |
+Go                     | 294     | 2.75 |
+Boardwalk              | 298     | 2.79 |
+Luxury Tax             | 256     | 2.40 |
+Park Place             | 248     | 2.32 |
+Chance #3              | 260     | 2.44 |
+Short Line             | 280     | 2.62 |
+Pennsylvania Avenue    | 255     | 2.39 |
+Community Chest #3     | 292     | 2.74 |
+North Carolina Avenue  | 267     | 2.50 |
+Pacific Avenue         | 238     | 2.23 |
+Go To Jail             | 263     | 2.46 |
+Marvin Gardens         | 249     | 2.33 |
+Water Works            | 288     | 2.70 |
+Ventnor Avenue         | 253     | 2.37 |
+Atlantic Avenue        | 242     | 2.27 |
+B. & O. Railroad       | 270     | 2.53 |
+Illinois Avenue        | 314     | 2.94 |
+Indiana Avenue         | 269     | 2.52 |
+Chance #2              | 289     | 2.71 |
+Kentucky Avenue        | 283     | 2.65 |
+Free Parking           | 280     | 2.62 |
+New York Avenue        | 317     | 2.97 |
+Tennessee Avenue       | 246     | 2.30 |
+Community Chest #2     | 291     | 2.73 |
+St. James Place        | 263     | 2.46 |
+Pennsylvania Railroad  | 305     | 2.86 |
+States Avenue          | 242     | 2.27 |
+Electric Company       | 273     | 2.56 |
+St. Charles Place      | 305     | 2.86 |
+Jail                   | 431     | 2.38 |
+Connecticut Avenue     | 234     | 2.19 |
+Vermont Avenue         | 224     | 2.10 |
+Chance #1              | 275     | 2.58 |
+Oriental Avenue        | 260     | 2.44 |
+Reading Railroad       | 317     | 2.97 |
+Income Tax             | 290     | 2.72 |
+Baltic Avenue          | 241     | 2.26 |
+Community Chest #1     | 250     | 2.34 |
+Mediterranean Avenue   | 223     | 2.09 |
+
+    Strategy B Simulation #3 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 359     | 1.68 |
+Go                     | 606     | 2.84 |
+Boardwalk              | 588     | 2.76 |
+Luxury Tax             | 526     | 2.47 |
+Park Place             | 510     | 2.39 |
+Chance #3              | 514     | 2.41 |
+Short Line             | 544     | 2.55 |
+Pennsylvania Avenue    | 507     | 2.38 |
+Community Chest #3     | 578     | 2.71 |
+North Carolina Avenue  | 560     | 2.63 |
+Pacific Avenue         | 492     | 2.31 |
+Go To Jail             | 501     | 2.35 |
+Marvin Gardens         | 502     | 2.35 |
+Water Works            | 543     | 2.55 |
+Ventnor Avenue         | 497     | 2.33 |
+Atlantic Avenue        | 526     | 2.47 |
+B. & O. Railroad       | 548     | 2.57 |
+Illinois Avenue        | 617     | 2.89 |
+Indiana Avenue         | 569     | 2.67 |
+Chance #2              | 541     | 2.54 |
+Kentucky Avenue        | 553     | 2.59 |
+Free Parking           | 547     | 2.56 |
+New York Avenue        | 629     | 2.95 |
+Tennessee Avenue       | 536     | 2.51 |
+Community Chest #2     | 578     | 2.71 |
+St. James Place        | 538     | 2.52 |
+Pennsylvania Railroad  | 595     | 2.79 |
+States Avenue          | 478     | 2.24 |
+Electric Company       | 539     | 2.53 |
+St. Charles Place      | 615     | 2.88 |
+Jail                   | 866     | 2.38 |
+Connecticut Avenue     | 465     | 2.18 |
+Vermont Avenue         | 459     | 2.15 |
+Chance #1              | 542     | 2.54 |
+Oriental Avenue        | 534     | 2.50 |
+Reading Railroad       | 645     | 3.02 |
+Income Tax             | 558     | 2.62 |
+Baltic Avenue          | 448     | 2.10 |
+Community Chest #1     | 464     | 2.18 |
+Mediterranean Avenue   | 468     | 2.19 |
+
+    Strategy B Simulation #3 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1763    | 1.66 |
+Go                     | 3002    | 2.82 |
+Boardwalk              | 3069    | 2.88 |
+Luxury Tax             | 2442    | 2.29 |
+Park Place             | 2577    | 2.42 |
+Chance #3              | 2608    | 2.45 |
+Short Line             | 2691    | 2.53 |
+Pennsylvania Avenue    | 2690    | 2.53 |
+Community Chest #3     | 2883    | 2.71 |
+North Carolina Avenue  | 2603    | 2.44 |
+Pacific Avenue         | 2625    | 2.46 |
+Go To Jail             | 2513    | 2.36 |
+Marvin Gardens         | 2557    | 2.40 |
+Water Works            | 2806    | 2.63 |
+Ventnor Avenue         | 2489    | 2.34 |
+Atlantic Avenue        | 2621    | 2.46 |
+B. & O. Railroad       | 2647    | 2.49 |
+Illinois Avenue        | 3294    | 3.09 |
+Indiana Avenue         | 2609    | 2.45 |
+Chance #2              | 2627    | 2.47 |
+Kentucky Avenue        | 2745    | 2.58 |
+Free Parking           | 2846    | 2.67 |
+New York Avenue        | 3001    | 2.82 |
+Tennessee Avenue       | 2778    | 2.61 |
+Community Chest #2     | 2805    | 2.63 |
+St. James Place        | 2682    | 2.52 |
+Pennsylvania Railroad  | 2759    | 2.59 |
+States Avenue          | 2528    | 2.37 |
+Electric Company       | 2638    | 2.48 |
+St. Charles Place      | 3003    | 2.82 |
+Jail                   | 4165    | 2.26 |
+Connecticut Avenue     | 2499    | 2.35 |
+Vermont Avenue         | 2542    | 2.39 |
+Chance #1              | 2619    | 2.46 |
+Oriental Avenue        | 2529    | 2.37 |
+Reading Railroad       | 3268    | 3.07 |
+Income Tax             | 2706    | 2.54 |
+Baltic Avenue          | 2341    | 2.20 |
+Community Chest #1     | 2312    | 2.17 |
+Mediterranean Avenue   | 2390    | 2.24 |
+
+    Strategy B Simulation #3 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3473    | 1.63 |
+Go                     | 5850    | 2.75 |
+Boardwalk              | 6138    | 2.88 |
+Luxury Tax             | 5001    | 2.35 |
+Park Place             | 5117    | 2.40 |
+Chance #3              | 5181    | 2.43 |
+Short Line             | 5518    | 2.59 |
+Pennsylvania Avenue    | 5275    | 2.48 |
+Community Chest #3     | 5653    | 2.66 |
+North Carolina Avenue  | 5252    | 2.47 |
+Pacific Avenue         | 5215    | 2.45 |
+Go To Jail             | 5110    | 2.40 |
+Marvin Gardens         | 5030    | 2.36 |
+Water Works            | 5602    | 2.63 |
+Ventnor Avenue         | 4989    | 2.34 |
+Atlantic Avenue        | 5184    | 2.43 |
+B. & O. Railroad       | 5304    | 2.49 |
+Illinois Avenue        | 6619    | 3.11 |
+Indiana Avenue         | 5262    | 2.47 |
+Chance #2              | 5305    | 2.49 |
+Kentucky Avenue        | 5469    | 2.57 |
+Free Parking           | 5695    | 2.67 |
+New York Avenue        | 6089    | 2.86 |
+Tennessee Avenue       | 5586    | 2.62 |
+Community Chest #2     | 5603    | 2.63 |
+St. James Place        | 5340    | 2.51 |
+Pennsylvania Railroad  | 5458    | 2.56 |
+States Avenue          | 4987    | 2.34 |
+Electric Company       | 5322    | 2.50 |
+St. Charles Place      | 6043    | 2.84 |
+Jail                   | 8319    | 2.28 |
+Connecticut Avenue     | 4978    | 2.34 |
+Vermont Avenue         | 5073    | 2.38 |
+Chance #1              | 5129    | 2.41 |
+Oriental Avenue        | 5125    | 2.41 |
+Reading Railroad       | 6591    | 3.10 |
+Income Tax             | 5290    | 2.48 |
+Baltic Avenue          | 4779    | 2.24 |
+Community Chest #1     | 4640    | 2.18 |
+Mediterranean Avenue   | 4788    | 2.25 |
+
+    Strategy B Simulation #3 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17599   | 1.65 |
+Go                     | 29292   | 2.75 |
+Boardwalk              | 30629   | 2.88 |
+Luxury Tax             | 25498   | 2.40 |
+Park Place             | 25523   | 2.40 |
+Chance #3              | 25588   | 2.40 |
+Short Line             | 27524   | 2.59 |
+Pennsylvania Avenue    | 26261   | 2.47 |
+Community Chest #3     | 28595   | 2.69 |
+North Carolina Avenue  | 26221   | 2.46 |
+Pacific Avenue         | 25891   | 2.43 |
+Go To Jail             | 25494   | 2.39 |
+Marvin Gardens         | 25241   | 2.37 |
+Water Works            | 28364   | 2.66 |
+Ventnor Avenue         | 25105   | 2.36 |
+Atlantic Avenue        | 25682   | 2.41 |
+B. & O. Railroad       | 26366   | 2.48 |
+Illinois Avenue        | 32344   | 3.04 |
+Indiana Avenue         | 27088   | 2.54 |
+Chance #2              | 26570   | 2.50 |
+Kentucky Avenue        | 27550   | 2.59 |
+Free Parking           | 27630   | 2.60 |
+New York Avenue        | 30386   | 2.85 |
+Tennessee Avenue       | 28206   | 2.65 |
+Community Chest #2     | 27957   | 2.63 |
+St. James Place        | 27045   | 2.54 |
+Pennsylvania Railroad  | 27793   | 2.61 |
+States Avenue          | 24329   | 2.29 |
+Electric Company       | 26532   | 2.49 |
+St. Charles Place      | 30254   | 2.84 |
+Jail                   | 42323   | 2.32 |
+Connecticut Avenue     | 24943   | 2.34 |
+Vermont Avenue         | 25050   | 2.35 |
+Chance #1              | 25381   | 2.38 |
+Oriental Avenue        | 25481   | 2.39 |
+Reading Railroad       | 33020   | 3.10 |
+Income Tax             | 26560   | 2.50 |
+Baltic Avenue          | 23884   | 2.24 |
+Community Chest #1     | 23175   | 2.18 |
+Mediterranean Avenue   | 23737   | 2.23 |
+
+    Strategy B Simulation #3 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35219   | 1.65 |
+Go                     | 58427   | 2.74 |
+Boardwalk              | 60997   | 2.86 |
+Luxury Tax             | 50794   | 2.39 |
+Park Place             | 51499   | 2.42 |
+Chance #3              | 51464   | 2.42 |
+Short Line             | 55314   | 2.60 |
+Pennsylvania Avenue    | 52451   | 2.46 |
+Community Chest #3     | 56948   | 2.67 |
+North Carolina Avenue  | 52300   | 2.46 |
+Pacific Avenue         | 52048   | 2.44 |
+Go To Jail             | 50843   | 2.39 |
+Marvin Gardens         | 50282   | 2.36 |
+Water Works            | 56822   | 2.67 |
+Ventnor Avenue         | 50201   | 2.36 |
+Atlantic Avenue        | 51310   | 2.41 |
+B. & O. Railroad       | 52737   | 2.48 |
+Illinois Avenue        | 65127   | 3.06 |
+Indiana Avenue         | 53847   | 2.53 |
+Chance #2              | 53513   | 2.51 |
+Kentucky Avenue        | 54750   | 2.57 |
+Free Parking           | 55306   | 2.60 |
+New York Avenue        | 61151   | 2.87 |
+Tennessee Avenue       | 56393   | 2.65 |
+Community Chest #2     | 55868   | 2.62 |
+St. James Place        | 54292   | 2.55 |
+Pennsylvania Railroad  | 55308   | 2.60 |
+States Avenue          | 49068   | 2.30 |
+Electric Company       | 52928   | 2.49 |
+St. Charles Place      | 60630   | 2.85 |
+Jail                   | 84470   | 2.31 |
+Connecticut Avenue     | 50014   | 2.35 |
+Vermont Avenue         | 50286   | 2.36 |
+Chance #1              | 50891   | 2.39 |
+Oriental Avenue        | 50450   | 2.37 |
+Reading Railroad       | 66083   | 3.10 |
+Income Tax             | 53120   | 2.49 |
+Baltic Avenue          | 47914   | 2.25 |
+Community Chest #1     | 46501   | 2.18 |
+Mediterranean Avenue   | 47120   | 2.21 |
+
+    Strategy B Simulation #3 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175821   | 1.65 |
+Go                     | 291458   | 2.74 |
+Boardwalk              | 304844   | 2.86 |
+Luxury Tax             | 251546   | 2.36 |
+Park Place             | 258194   | 2.42 |
+Chance #3              | 257686   | 2.42 |
+Short Line             | 278536   | 2.62 |
+Pennsylvania Avenue    | 262847   | 2.47 |
+Community Chest #3     | 283455   | 2.66 |
+North Carolina Avenue  | 261288   | 2.45 |
+Pacific Avenue         | 259323   | 2.44 |
+Go To Jail             | 256174   | 2.41 |
+Marvin Gardens         | 249912   | 2.35 |
+Water Works            | 285554   | 2.68 |
+Ventnor Avenue         | 251272   | 2.36 |
+Atlantic Avenue        | 257583   | 2.42 |
+B. & O. Railroad       | 261909   | 2.46 |
+Illinois Avenue        | 327157   | 3.07 |
+Indiana Avenue         | 268643   | 2.52 |
+Chance #2              | 266487   | 2.50 |
+Kentucky Avenue        | 272578   | 2.56 |
+Free Parking           | 277150   | 2.60 |
+New York Avenue        | 304534   | 2.86 |
+Tennessee Avenue       | 283887   | 2.67 |
+Community Chest #2     | 280784   | 2.64 |
+St. James Place        | 268861   | 2.53 |
+Pennsylvania Railroad  | 277186   | 2.60 |
+States Avenue          | 245374   | 2.30 |
+Electric Company       | 264233   | 2.48 |
+St. Charles Place      | 303943   | 2.85 |
+Jail                   | 421369   | 2.31 |
+Connecticut Avenue     | 248421   | 2.33 |
+Vermont Avenue         | 252575   | 2.37 |
+Chance #1              | 256173   | 2.41 |
+Oriental Avenue        | 252307   | 2.37 |
+Reading Railroad       | 329523   | 3.09 |
+Income Tax             | 264164   | 2.48 |
+Baltic Avenue          | 240523   | 2.26 |
+Community Chest #1     | 232350   | 2.18 |
+Mediterranean Avenue   | 237772   | 2.23 |
+
+    Strategy B Simulation #3 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351519   | 1.65 |
+Go                     | 583618   | 2.74 |
+Boardwalk              | 610003   | 2.86 |
+Luxury Tax             | 502947   | 2.36 |
+Park Place             | 516167   | 2.42 |
+Chance #3              | 515280   | 2.42 |
+Short Line             | 557923   | 2.62 |
+Pennsylvania Avenue    | 525434   | 2.47 |
+Community Chest #3     | 566966   | 2.66 |
+North Carolina Avenue  | 522708   | 2.45 |
+Pacific Avenue         | 518242   | 2.43 |
+Go To Jail             | 512288   | 2.41 |
+Marvin Gardens         | 500287   | 2.35 |
+Water Works            | 570103   | 2.68 |
+Ventnor Avenue         | 503413   | 2.36 |
+Atlantic Avenue        | 514948   | 2.42 |
+B. & O. Railroad       | 525437   | 2.47 |
+Illinois Avenue        | 653299   | 3.07 |
+Indiana Avenue         | 537016   | 2.52 |
+Chance #2              | 533457   | 2.51 |
+Kentucky Avenue        | 545048   | 2.56 |
+Free Parking           | 554353   | 2.60 |
+New York Avenue        | 609163   | 2.86 |
+Tennessee Avenue       | 568158   | 2.67 |
+Community Chest #2     | 560757   | 2.63 |
+St. James Place        | 537693   | 2.53 |
+Pennsylvania Railroad  | 554667   | 2.60 |
+States Avenue          | 490143   | 2.30 |
+Electric Company       | 528254   | 2.48 |
+St. Charles Place      | 607316   | 2.85 |
+Jail                   | 843319   | 2.31 |
+Connecticut Avenue     | 495983   | 2.33 |
+Vermont Avenue         | 505638   | 2.37 |
+Chance #1              | 511487   | 2.40 |
+Oriental Avenue        | 504963   | 2.37 |
+Reading Railroad       | 659895   | 3.10 |
+Income Tax             | 529024   | 2.48 |
+Baltic Avenue          | 480022   | 2.25 |
+Community Chest #1     | 465127   | 2.18 |
+Mediterranean Avenue   | 474219   | 2.23 |
+
+    Strategy B Simulation #4 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17      | 1.59 |
+Go                     | 31      | 2.91 |
+Boardwalk              | 33      | 3.10 |
+Luxury Tax             | 24      | 2.25 |
+Park Place             | 25      | 2.35 |
+Chance #3              | 24      | 2.25 |
+Short Line             | 26      | 2.44 |
+Pennsylvania Avenue    | 25      | 2.35 |
+Community Chest #3     | 26      | 2.44 |
+North Carolina Avenue  | 24      | 2.25 |
+Pacific Avenue         | 29      | 2.72 |
+Go To Jail             | 23      | 2.16 |
+Marvin Gardens         | 33      | 3.10 |
+Water Works            | 31      | 2.91 |
+Ventnor Avenue         | 25      | 2.35 |
+Atlantic Avenue        | 29      | 2.72 |
+B. & O. Railroad       | 19      | 1.78 |
+Illinois Avenue        | 37      | 3.47 |
+Indiana Avenue         | 24      | 2.25 |
+Chance #2              | 27      | 2.53 |
+Kentucky Avenue        | 22      | 2.06 |
+Free Parking           | 28      | 2.63 |
+New York Avenue        | 27      | 2.53 |
+Tennessee Avenue       | 30      | 2.81 |
+Community Chest #2     | 25      | 2.35 |
+St. James Place        | 22      | 2.06 |
+Pennsylvania Railroad  | 29      | 2.72 |
+States Avenue          | 29      | 2.72 |
+Electric Company       | 25      | 2.35 |
+St. Charles Place      | 21      | 1.97 |
+Jail                   | 38      | 1.97 |
+Connecticut Avenue     | 24      | 2.25 |
+Vermont Avenue         | 35      | 3.28 |
+Chance #1              | 33      | 3.10 |
+Oriental Avenue        | 32      | 3.00 |
+Reading Railroad       | 39      | 3.66 |
+Income Tax             | 23      | 2.16 |
+Baltic Avenue          | 26      | 2.44 |
+Community Chest #1     | 24      | 2.25 |
+Mediterranean Avenue   | 19      | 1.78 |
+
+    Strategy B Simulation #4 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35      | 1.64 |
+Go                     | 67      | 3.15 |
+Boardwalk              | 56      | 2.63 |
+Luxury Tax             | 51      | 2.39 |
+Park Place             | 47      | 2.21 |
+Chance #3              | 43      | 2.02 |
+Short Line             | 53      | 2.49 |
+Pennsylvania Avenue    | 44      | 2.07 |
+Community Chest #3     | 56      | 2.63 |
+North Carolina Avenue  | 56      | 2.63 |
+Pacific Avenue         | 61      | 2.86 |
+Go To Jail             | 44      | 2.07 |
+Marvin Gardens         | 58      | 2.72 |
+Water Works            | 60      | 2.82 |
+Ventnor Avenue         | 41      | 1.92 |
+Atlantic Avenue        | 52      | 2.44 |
+B. & O. Railroad       | 45      | 2.11 |
+Illinois Avenue        | 76      | 3.57 |
+Indiana Avenue         | 54      | 2.54 |
+Chance #2              | 58      | 2.72 |
+Kentucky Avenue        | 51      | 2.39 |
+Free Parking           | 45      | 2.11 |
+New York Avenue        | 61      | 2.86 |
+Tennessee Avenue       | 54      | 2.54 |
+Community Chest #2     | 56      | 2.63 |
+St. James Place        | 53      | 2.49 |
+Pennsylvania Railroad  | 58      | 2.72 |
+States Avenue          | 54      | 2.54 |
+Electric Company       | 56      | 2.63 |
+St. Charles Place      | 46      | 2.16 |
+Jail                   | 74      | 1.83 |
+Connecticut Avenue     | 52      | 2.44 |
+Vermont Avenue         | 74      | 3.47 |
+Chance #1              | 58      | 2.72 |
+Oriental Avenue        | 59      | 2.77 |
+Reading Railroad       | 68      | 3.19 |
+Income Tax             | 45      | 2.11 |
+Baltic Avenue          | 42      | 1.97 |
+Community Chest #1     | 56      | 2.63 |
+Mediterranean Avenue   | 46      | 2.16 |
+
+    Strategy B Simulation #4 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 176     | 1.65 |
+Go                     | 305     | 2.86 |
+Boardwalk              | 319     | 3.00 |
+Luxury Tax             | 250     | 2.35 |
+Park Place             | 257     | 2.41 |
+Chance #3              | 237     | 2.23 |
+Short Line             | 276     | 2.59 |
+Pennsylvania Avenue    | 264     | 2.48 |
+Community Chest #3     | 308     | 2.89 |
+North Carolina Avenue  | 256     | 2.40 |
+Pacific Avenue         | 237     | 2.23 |
+Go To Jail             | 256     | 2.40 |
+Marvin Gardens         | 277     | 2.60 |
+Water Works            | 252     | 2.37 |
+Ventnor Avenue         | 287     | 2.69 |
+Atlantic Avenue        | 274     | 2.57 |
+B. & O. Railroad       | 253     | 2.38 |
+Illinois Avenue        | 317     | 2.98 |
+Indiana Avenue         | 266     | 2.50 |
+Chance #2              | 272     | 2.55 |
+Kentucky Avenue        | 266     | 2.50 |
+Free Parking           | 265     | 2.49 |
+New York Avenue        | 338     | 3.17 |
+Tennessee Avenue       | 320     | 3.00 |
+Community Chest #2     | 274     | 2.57 |
+St. James Place        | 257     | 2.41 |
+Pennsylvania Railroad  | 251     | 2.36 |
+States Avenue          | 233     | 2.19 |
+Electric Company       | 260     | 2.44 |
+St. Charles Place      | 310     | 2.91 |
+Jail                   | 421     | 2.30 |
+Connecticut Avenue     | 233     | 2.19 |
+Vermont Avenue         | 254     | 2.38 |
+Chance #1              | 274     | 2.57 |
+Oriental Avenue        | 241     | 2.26 |
+Reading Railroad       | 311     | 2.92 |
+Income Tax             | 274     | 2.57 |
+Baltic Avenue          | 236     | 2.22 |
+Community Chest #1     | 243     | 2.28 |
+Mediterranean Avenue   | 227     | 2.13 |
+
+    Strategy B Simulation #4 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 353     | 1.66 |
+Go                     | 597     | 2.80 |
+Boardwalk              | 633     | 2.97 |
+Luxury Tax             | 479     | 2.25 |
+Park Place             | 519     | 2.43 |
+Chance #3              | 511     | 2.40 |
+Short Line             | 542     | 2.54 |
+Pennsylvania Avenue    | 516     | 2.42 |
+Community Chest #3     | 596     | 2.80 |
+North Carolina Avenue  | 506     | 2.37 |
+Pacific Avenue         | 492     | 2.31 |
+Go To Jail             | 530     | 2.49 |
+Marvin Gardens         | 521     | 2.44 |
+Water Works            | 531     | 2.49 |
+Ventnor Avenue         | 554     | 2.60 |
+Atlantic Avenue        | 511     | 2.40 |
+B. & O. Railroad       | 531     | 2.49 |
+Illinois Avenue        | 637     | 2.99 |
+Indiana Avenue         | 536     | 2.51 |
+Chance #2              | 563     | 2.64 |
+Kentucky Avenue        | 530     | 2.49 |
+Free Parking           | 526     | 2.47 |
+New York Avenue        | 652     | 3.06 |
+Tennessee Avenue       | 622     | 2.92 |
+Community Chest #2     | 539     | 2.53 |
+St. James Place        | 520     | 2.44 |
+Pennsylvania Railroad  | 540     | 2.53 |
+States Avenue          | 483     | 2.27 |
+Electric Company       | 529     | 2.48 |
+St. Charles Place      | 631     | 2.96 |
+Jail                   | 839     | 2.28 |
+Connecticut Avenue     | 477     | 2.24 |
+Vermont Avenue         | 502     | 2.35 |
+Chance #1              | 527     | 2.47 |
+Oriental Avenue        | 493     | 2.31 |
+Reading Railroad       | 647     | 3.03 |
+Income Tax             | 536     | 2.51 |
+Baltic Avenue          | 470     | 2.20 |
+Community Chest #1     | 488     | 2.29 |
+Mediterranean Avenue   | 465     | 2.18 |
+
+    Strategy B Simulation #4 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1759    | 1.65 |
+Go                     | 2921    | 2.74 |
+Boardwalk              | 3083    | 2.89 |
+Luxury Tax             | 2493    | 2.34 |
+Park Place             | 2574    | 2.42 |
+Chance #3              | 2592    | 2.43 |
+Short Line             | 2763    | 2.59 |
+Pennsylvania Avenue    | 2605    | 2.44 |
+Community Chest #3     | 2846    | 2.67 |
+North Carolina Avenue  | 2604    | 2.44 |
+Pacific Avenue         | 2554    | 2.40 |
+Go To Jail             | 2632    | 2.47 |
+Marvin Gardens         | 2471    | 2.32 |
+Water Works            | 2791    | 2.62 |
+Ventnor Avenue         | 2518    | 2.36 |
+Atlantic Avenue        | 2541    | 2.38 |
+B. & O. Railroad       | 2672    | 2.51 |
+Illinois Avenue        | 3246    | 3.05 |
+Indiana Avenue         | 2722    | 2.55 |
+Chance #2              | 2763    | 2.59 |
+Kentucky Avenue        | 2615    | 2.45 |
+Free Parking           | 2716    | 2.55 |
+New York Avenue        | 3095    | 2.90 |
+Tennessee Avenue       | 2882    | 2.70 |
+Community Chest #2     | 2787    | 2.62 |
+St. James Place        | 2653    | 2.49 |
+Pennsylvania Railroad  | 2830    | 2.66 |
+States Avenue          | 2557    | 2.40 |
+Electric Company       | 2613    | 2.45 |
+St. Charles Place      | 3055    | 2.87 |
+Jail                   | 4226    | 2.32 |
+Connecticut Avenue     | 2480    | 2.33 |
+Vermont Avenue         | 2484    | 2.33 |
+Chance #1              | 2596    | 2.44 |
+Oriental Avenue        | 2556    | 2.40 |
+Reading Railroad       | 3277    | 3.08 |
+Income Tax             | 2576    | 2.42 |
+Baltic Avenue          | 2512    | 2.36 |
+Community Chest #1     | 2331    | 2.19 |
+Mediterranean Avenue   | 2324    | 2.18 |
+
+    Strategy B Simulation #4 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3484    | 1.64 |
+Go                     | 5864    | 2.75 |
+Boardwalk              | 6145    | 2.88 |
+Luxury Tax             | 5048    | 2.37 |
+Park Place             | 5121    | 2.40 |
+Chance #3              | 5156    | 2.42 |
+Short Line             | 5551    | 2.61 |
+Pennsylvania Avenue    | 5241    | 2.46 |
+Community Chest #3     | 5737    | 2.69 |
+North Carolina Avenue  | 5194    | 2.44 |
+Pacific Avenue         | 5175    | 2.43 |
+Go To Jail             | 5117    | 2.40 |
+Marvin Gardens         | 5005    | 2.35 |
+Water Works            | 5674    | 2.66 |
+Ventnor Avenue         | 5014    | 2.35 |
+Atlantic Avenue        | 5118    | 2.40 |
+B. & O. Railroad       | 5275    | 2.48 |
+Illinois Avenue        | 6486    | 3.04 |
+Indiana Avenue         | 5438    | 2.55 |
+Chance #2              | 5462    | 2.56 |
+Kentucky Avenue        | 5354    | 2.51 |
+Free Parking           | 5405    | 2.54 |
+New York Avenue        | 6180    | 2.90 |
+Tennessee Avenue       | 5786    | 2.72 |
+Community Chest #2     | 5515    | 2.59 |
+St. James Place        | 5329    | 2.50 |
+Pennsylvania Railroad  | 5541    | 2.60 |
+States Avenue          | 5014    | 2.35 |
+Electric Company       | 5234    | 2.46 |
+St. Charles Place      | 6164    | 2.89 |
+Jail                   | 8453    | 2.33 |
+Connecticut Avenue     | 4901    | 2.30 |
+Vermont Avenue         | 4996    | 2.35 |
+Chance #1              | 5172    | 2.43 |
+Oriental Avenue        | 5065    | 2.38 |
+Reading Railroad       | 6624    | 3.11 |
+Income Tax             | 5214    | 2.45 |
+Baltic Avenue          | 4978    | 2.34 |
+Community Chest #1     | 4610    | 2.16 |
+Mediterranean Avenue   | 4656    | 2.19 |
+
+    Strategy B Simulation #4 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17444   | 1.64 |
+Go                     | 28889   | 2.71 |
+Boardwalk              | 30609   | 2.88 |
+Luxury Tax             | 25053   | 2.35 |
+Park Place             | 25767   | 2.42 |
+Chance #3              | 25633   | 2.41 |
+Short Line             | 27814   | 2.61 |
+Pennsylvania Avenue    | 26267   | 2.47 |
+Community Chest #3     | 28339   | 2.66 |
+North Carolina Avenue  | 26199   | 2.46 |
+Pacific Avenue         | 26056   | 2.45 |
+Go To Jail             | 25590   | 2.40 |
+Marvin Gardens         | 24955   | 2.34 |
+Water Works            | 28418   | 2.67 |
+Ventnor Avenue         | 25107   | 2.36 |
+Atlantic Avenue        | 25911   | 2.43 |
+B. & O. Railroad       | 26274   | 2.47 |
+Illinois Avenue        | 32746   | 3.08 |
+Indiana Avenue         | 26673   | 2.51 |
+Chance #2              | 26586   | 2.50 |
+Kentucky Avenue        | 27462   | 2.58 |
+Free Parking           | 27805   | 2.61 |
+New York Avenue        | 30554   | 2.87 |
+Tennessee Avenue       | 28380   | 2.67 |
+Community Chest #2     | 27984   | 2.63 |
+St. James Place        | 26735   | 2.51 |
+Pennsylvania Railroad  | 27747   | 2.61 |
+States Avenue          | 24625   | 2.31 |
+Electric Company       | 26476   | 2.49 |
+St. Charles Place      | 30041   | 2.82 |
+Jail                   | 41912   | 2.30 |
+Connecticut Avenue     | 25013   | 2.35 |
+Vermont Avenue         | 25384   | 2.38 |
+Chance #1              | 25488   | 2.39 |
+Oriental Avenue        | 25442   | 2.39 |
+Reading Railroad       | 32804   | 3.08 |
+Income Tax             | 26514   | 2.49 |
+Baltic Avenue          | 24302   | 2.28 |
+Community Chest #1     | 23045   | 2.17 |
+Mediterranean Avenue   | 23828   | 2.24 |
+
+    Strategy B Simulation #4 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35115   | 1.65 |
+Go                     | 58088   | 2.73 |
+Boardwalk              | 61096   | 2.87 |
+Luxury Tax             | 50128   | 2.35 |
+Park Place             | 51311   | 2.41 |
+Chance #3              | 51383   | 2.41 |
+Short Line             | 55578   | 2.61 |
+Pennsylvania Avenue    | 52663   | 2.47 |
+Community Chest #3     | 56999   | 2.68 |
+North Carolina Avenue  | 52190   | 2.45 |
+Pacific Avenue         | 51903   | 2.44 |
+Go To Jail             | 51207   | 2.41 |
+Marvin Gardens         | 49960   | 2.35 |
+Water Works            | 56621   | 2.66 |
+Ventnor Avenue         | 50339   | 2.36 |
+Atlantic Avenue        | 51843   | 2.43 |
+B. & O. Railroad       | 52698   | 2.48 |
+Illinois Avenue        | 65245   | 3.06 |
+Indiana Avenue         | 53421   | 2.51 |
+Chance #2              | 53344   | 2.51 |
+Kentucky Avenue        | 54915   | 2.58 |
+Free Parking           | 55400   | 2.60 |
+New York Avenue        | 61006   | 2.87 |
+Tennessee Avenue       | 56903   | 2.67 |
+Community Chest #2     | 56301   | 2.64 |
+St. James Place        | 53433   | 2.51 |
+Pennsylvania Railroad  | 55414   | 2.60 |
+States Avenue          | 49285   | 2.31 |
+Electric Company       | 52814   | 2.48 |
+St. Charles Place      | 60487   | 2.84 |
+Jail                   | 84023   | 2.30 |
+Connecticut Avenue     | 49991   | 2.35 |
+Vermont Avenue         | 50794   | 2.39 |
+Chance #1              | 50713   | 2.38 |
+Oriental Avenue        | 50646   | 2.38 |
+Reading Railroad       | 65746   | 3.09 |
+Income Tax             | 53018   | 2.49 |
+Baltic Avenue          | 48288   | 2.27 |
+Community Chest #1     | 46403   | 2.18 |
+Mediterranean Avenue   | 47559   | 2.23 |
+
+    Strategy B Simulation #4 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175773   | 1.65 |
+Go                     | 292313   | 2.75 |
+Boardwalk              | 304659   | 2.86 |
+Luxury Tax             | 251502   | 2.36 |
+Park Place             | 258503   | 2.43 |
+Chance #3              | 257783   | 2.42 |
+Short Line             | 278571   | 2.62 |
+Pennsylvania Avenue    | 262381   | 2.46 |
+Community Chest #3     | 283641   | 2.66 |
+North Carolina Avenue  | 261555   | 2.46 |
+Pacific Avenue         | 258812   | 2.43 |
+Go To Jail             | 257122   | 2.41 |
+Marvin Gardens         | 249673   | 2.34 |
+Water Works            | 285181   | 2.68 |
+Ventnor Avenue         | 251496   | 2.36 |
+Atlantic Avenue        | 257104   | 2.41 |
+B. & O. Railroad       | 262491   | 2.47 |
+Illinois Avenue        | 326823   | 3.07 |
+Indiana Avenue         | 268898   | 2.53 |
+Chance #2              | 268037   | 2.52 |
+Kentucky Avenue        | 273067   | 2.56 |
+Free Parking           | 276006   | 2.59 |
+New York Avenue        | 304160   | 2.86 |
+Tennessee Avenue       | 284932   | 2.68 |
+Community Chest #2     | 280490   | 2.63 |
+St. James Place        | 268578   | 2.52 |
+Pennsylvania Railroad  | 277766   | 2.61 |
+States Avenue          | 244385   | 2.30 |
+Electric Company       | 263892   | 2.48 |
+St. Charles Place      | 303927   | 2.85 |
+Jail                   | 421227   | 2.31 |
+Connecticut Avenue     | 249084   | 2.34 |
+Vermont Avenue         | 252252   | 2.37 |
+Chance #1              | 255992   | 2.40 |
+Oriental Avenue        | 251993   | 2.37 |
+Reading Railroad       | 330455   | 3.10 |
+Income Tax             | 264977   | 2.49 |
+Baltic Avenue          | 240090   | 2.25 |
+Community Chest #1     | 233096   | 2.19 |
+Mediterranean Avenue   | 235437   | 2.21 |
+
+    Strategy B Simulation #4 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351453   | 1.65 |
+Go                     | 583856   | 2.74 |
+Boardwalk              | 610112   | 2.86 |
+Luxury Tax             | 503195   | 2.36 |
+Park Place             | 516198   | 2.42 |
+Chance #3              | 515988   | 2.42 |
+Short Line             | 557956   | 2.62 |
+Pennsylvania Avenue    | 523917   | 2.46 |
+Community Chest #3     | 567417   | 2.66 |
+North Carolina Avenue  | 523294   | 2.46 |
+Pacific Avenue         | 517078   | 2.43 |
+Go To Jail             | 513868   | 2.41 |
+Marvin Gardens         | 499800   | 2.35 |
+Water Works            | 570091   | 2.68 |
+Ventnor Avenue         | 503234   | 2.36 |
+Atlantic Avenue        | 514626   | 2.42 |
+B. & O. Railroad       | 524657   | 2.46 |
+Illinois Avenue        | 654333   | 3.07 |
+Indiana Avenue         | 537941   | 2.53 |
+Chance #2              | 535307   | 2.51 |
+Kentucky Avenue        | 546104   | 2.56 |
+Free Parking           | 552243   | 2.59 |
+New York Avenue        | 608505   | 2.86 |
+Tennessee Avenue       | 569441   | 2.67 |
+Community Chest #2     | 561553   | 2.64 |
+St. James Place        | 536406   | 2.52 |
+Pennsylvania Railroad  | 554060   | 2.60 |
+States Avenue          | 489681   | 2.30 |
+Electric Company       | 527818   | 2.48 |
+St. Charles Place      | 608771   | 2.86 |
+Jail                   | 842749   | 2.31 |
+Connecticut Avenue     | 496940   | 2.33 |
+Vermont Avenue         | 504481   | 2.37 |
+Chance #1              | 510900   | 2.40 |
+Oriental Avenue        | 504505   | 2.37 |
+Reading Railroad       | 661263   | 3.11 |
+Income Tax             | 530010   | 2.49 |
+Baltic Avenue          | 479893   | 2.25 |
+Community Chest #1     | 466011   | 2.19 |
+Mediterranean Avenue   | 471678   | 2.21 |
+
+    Strategy B Simulation #5 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17      | 1.59 |
+Go                     | 34      | 3.17 |
+Boardwalk              | 30      | 2.80 |
+Luxury Tax             | 23      | 2.15 |
+Park Place             | 26      | 2.43 |
+Chance #3              | 27      | 2.52 |
+Short Line             | 34      | 3.17 |
+Pennsylvania Avenue    | 23      | 2.15 |
+Community Chest #3     | 29      | 2.71 |
+North Carolina Avenue  | 31      | 2.89 |
+Pacific Avenue         | 22      | 2.05 |
+Go To Jail             | 27      | 2.52 |
+Marvin Gardens         | 28      | 2.61 |
+Water Works            | 25      | 2.33 |
+Ventnor Avenue         | 30      | 2.80 |
+Atlantic Avenue        | 27      | 2.52 |
+B. & O. Railroad       | 23      | 2.15 |
+Illinois Avenue        | 30      | 2.80 |
+Indiana Avenue         | 30      | 2.80 |
+Chance #2              | 30      | 2.80 |
+Kentucky Avenue        | 24      | 2.24 |
+Free Parking           | 22      | 2.05 |
+New York Avenue        | 30      | 2.80 |
+Tennessee Avenue       | 26      | 2.43 |
+Community Chest #2     | 34      | 3.17 |
+St. James Place        | 28      | 2.61 |
+Pennsylvania Railroad  | 25      | 2.33 |
+States Avenue          | 29      | 2.71 |
+Electric Company       | 28      | 2.61 |
+St. Charles Place      | 31      | 2.89 |
+Jail                   | 33      | 1.49 |
+Connecticut Avenue     | 25      | 2.33 |
+Vermont Avenue         | 25      | 2.33 |
+Chance #1              | 34      | 3.17 |
+Oriental Avenue        | 31      | 2.89 |
+Reading Railroad       | 25      | 2.33 |
+Income Tax             | 31      | 2.89 |
+Baltic Avenue          | 29      | 2.71 |
+Community Chest #1     | 19      | 1.77 |
+Mediterranean Avenue   | 13      | 1.21 |
+
+    Strategy B Simulation #5 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 36      | 1.68 |
+Go                     | 58      | 2.71 |
+Boardwalk              | 59      | 2.76 |
+Luxury Tax             | 57      | 2.66 |
+Park Place             | 50      | 2.34 |
+Chance #3              | 60      | 2.80 |
+Short Line             | 57      | 2.66 |
+Pennsylvania Avenue    | 46      | 2.15 |
+Community Chest #3     | 64      | 2.99 |
+North Carolina Avenue  | 53      | 2.48 |
+Pacific Avenue         | 47      | 2.20 |
+Go To Jail             | 58      | 2.71 |
+Marvin Gardens         | 58      | 2.71 |
+Water Works            | 46      | 2.15 |
+Ventnor Avenue         | 52      | 2.43 |
+Atlantic Avenue        | 61      | 2.85 |
+B. & O. Railroad       | 47      | 2.20 |
+Illinois Avenue        | 60      | 2.80 |
+Indiana Avenue         | 52      | 2.43 |
+Chance #2              | 58      | 2.71 |
+Kentucky Avenue        | 55      | 2.57 |
+Free Parking           | 55      | 2.57 |
+New York Avenue        | 61      | 2.85 |
+Tennessee Avenue       | 52      | 2.43 |
+Community Chest #2     | 60      | 2.80 |
+St. James Place        | 52      | 2.43 |
+Pennsylvania Railroad  | 47      | 2.20 |
+States Avenue          | 62      | 2.90 |
+Electric Company       | 55      | 2.57 |
+St. Charles Place      | 59      | 2.76 |
+Jail                   | 82      | 2.15 |
+Connecticut Avenue     | 44      | 2.06 |
+Vermont Avenue         | 53      | 2.48 |
+Chance #1              | 54      | 2.52 |
+Oriental Avenue        | 59      | 2.76 |
+Reading Railroad       | 61      | 2.85 |
+Income Tax             | 60      | 2.80 |
+Baltic Avenue          | 46      | 2.15 |
+Community Chest #1     | 45      | 2.10 |
+Mediterranean Avenue   | 35      | 1.64 |
+
+    Strategy B Simulation #5 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 181     | 1.70 |
+Go                     | 306     | 2.87 |
+Boardwalk              | 304     | 2.85 |
+Luxury Tax             | 249     | 2.33 |
+Park Place             | 261     | 2.45 |
+Chance #3              | 291     | 2.73 |
+Short Line             | 248     | 2.32 |
+Pennsylvania Avenue    | 255     | 2.39 |
+Community Chest #3     | 316     | 2.96 |
+North Carolina Avenue  | 245     | 2.30 |
+Pacific Avenue         | 260     | 2.44 |
+Go To Jail             | 288     | 2.70 |
+Marvin Gardens         | 239     | 2.24 |
+Water Works            | 283     | 2.65 |
+Ventnor Avenue         | 270     | 2.53 |
+Atlantic Avenue        | 244     | 2.29 |
+B. & O. Railroad       | 251     | 2.35 |
+Illinois Avenue        | 322     | 3.02 |
+Indiana Avenue         | 273     | 2.56 |
+Chance #2              | 281     | 2.63 |
+Kentucky Avenue        | 291     | 2.73 |
+Free Parking           | 266     | 2.49 |
+New York Avenue        | 288     | 2.70 |
+Tennessee Avenue       | 301     | 2.82 |
+Community Chest #2     | 285     | 2.67 |
+St. James Place        | 260     | 2.44 |
+Pennsylvania Railroad  | 258     | 2.42 |
+States Avenue          | 266     | 2.49 |
+Electric Company       | 280     | 2.62 |
+St. Charles Place      | 295     | 2.77 |
+Jail                   | 432     | 2.35 |
+Connecticut Avenue     | 226     | 2.12 |
+Vermont Avenue         | 265     | 2.48 |
+Chance #1              | 233     | 2.18 |
+Oriental Avenue        | 247     | 2.32 |
+Reading Railroad       | 344     | 3.22 |
+Income Tax             | 254     | 2.38 |
+Baltic Avenue          | 234     | 2.19 |
+Community Chest #1     | 257     | 2.41 |
+Mediterranean Avenue   | 201     | 1.88 |
+
+    Strategy B Simulation #5 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 356     | 1.67 |
+Go                     | 596     | 2.80 |
+Boardwalk              | 614     | 2.88 |
+Luxury Tax             | 540     | 2.53 |
+Park Place             | 502     | 2.36 |
+Chance #3              | 550     | 2.58 |
+Short Line             | 526     | 2.47 |
+Pennsylvania Avenue    | 515     | 2.42 |
+Community Chest #3     | 586     | 2.75 |
+North Carolina Avenue  | 525     | 2.46 |
+Pacific Avenue         | 514     | 2.41 |
+Go To Jail             | 540     | 2.53 |
+Marvin Gardens         | 511     | 2.40 |
+Water Works            | 574     | 2.69 |
+Ventnor Avenue         | 498     | 2.34 |
+Atlantic Avenue        | 517     | 2.43 |
+B. & O. Railroad       | 536     | 2.52 |
+Illinois Avenue        | 646     | 3.03 |
+Indiana Avenue         | 525     | 2.46 |
+Chance #2              | 544     | 2.55 |
+Kentucky Avenue        | 563     | 2.64 |
+Free Parking           | 531     | 2.49 |
+New York Avenue        | 615     | 2.89 |
+Tennessee Avenue       | 576     | 2.70 |
+Community Chest #2     | 559     | 2.62 |
+St. James Place        | 520     | 2.44 |
+Pennsylvania Railroad  | 549     | 2.58 |
+States Avenue          | 499     | 2.34 |
+Electric Company       | 550     | 2.58 |
+St. Charles Place      | 580     | 2.72 |
+Jail                   | 856     | 2.35 |
+Connecticut Avenue     | 456     | 2.14 |
+Vermont Avenue         | 539     | 2.53 |
+Chance #1              | 478     | 2.24 |
+Oriental Avenue        | 502     | 2.36 |
+Reading Railroad       | 679     | 3.19 |
+Income Tax             | 525     | 2.46 |
+Baltic Avenue          | 443     | 2.08 |
+Community Chest #1     | 484     | 2.27 |
+Mediterranean Avenue   | 445     | 2.09 |
+
+    Strategy B Simulation #5 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1757    | 1.65 |
+Go                     | 2934    | 2.76 |
+Boardwalk              | 3033    | 2.85 |
+Luxury Tax             | 2578    | 2.42 |
+Park Place             | 2601    | 2.44 |
+Chance #3              | 2556    | 2.40 |
+Short Line             | 2771    | 2.60 |
+Pennsylvania Avenue    | 2573    | 2.42 |
+Community Chest #3     | 2825    | 2.65 |
+North Carolina Avenue  | 2698    | 2.54 |
+Pacific Avenue         | 2575    | 2.42 |
+Go To Jail             | 2580    | 2.42 |
+Marvin Gardens         | 2474    | 2.32 |
+Water Works            | 2875    | 2.70 |
+Ventnor Avenue         | 2533    | 2.38 |
+Atlantic Avenue        | 2628    | 2.47 |
+B. & O. Railroad       | 2599    | 2.44 |
+Illinois Avenue        | 3207    | 3.01 |
+Indiana Avenue         | 2718    | 2.55 |
+Chance #2              | 2680    | 2.52 |
+Kentucky Avenue        | 2716    | 2.55 |
+Free Parking           | 2769    | 2.60 |
+New York Avenue        | 3009    | 2.83 |
+Tennessee Avenue       | 2866    | 2.69 |
+Community Chest #2     | 2721    | 2.56 |
+St. James Place        | 2717    | 2.55 |
+Pennsylvania Railroad  | 2829    | 2.66 |
+States Avenue          | 2411    | 2.27 |
+Electric Company       | 2716    | 2.55 |
+St. Charles Place      | 3041    | 2.86 |
+Jail                   | 4209    | 2.30 |
+Connecticut Avenue     | 2463    | 2.31 |
+Vermont Avenue         | 2514    | 2.36 |
+Chance #1              | 2474    | 2.32 |
+Oriental Avenue        | 2513    | 2.36 |
+Reading Railroad       | 3345    | 3.14 |
+Income Tax             | 2587    | 2.43 |
+Baltic Avenue          | 2396    | 2.25 |
+Community Chest #1     | 2342    | 2.20 |
+Mediterranean Avenue   | 2340    | 2.20 |
+
+    Strategy B Simulation #5 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3541    | 1.66 |
+Go                     | 5901    | 2.77 |
+Boardwalk              | 6101    | 2.87 |
+Luxury Tax             | 5133    | 2.41 |
+Park Place             | 5154    | 2.42 |
+Chance #3              | 5182    | 2.43 |
+Short Line             | 5564    | 2.61 |
+Pennsylvania Avenue    | 5211    | 2.45 |
+Community Chest #3     | 5618    | 2.64 |
+North Carolina Avenue  | 5276    | 2.48 |
+Pacific Avenue         | 5213    | 2.45 |
+Go To Jail             | 5150    | 2.42 |
+Marvin Gardens         | 5063    | 2.38 |
+Water Works            | 5650    | 2.65 |
+Ventnor Avenue         | 5020    | 2.36 |
+Atlantic Avenue        | 5243    | 2.46 |
+B. & O. Railroad       | 5291    | 2.48 |
+Illinois Avenue        | 6423    | 3.02 |
+Indiana Avenue         | 5435    | 2.55 |
+Chance #2              | 5295    | 2.49 |
+Kentucky Avenue        | 5396    | 2.53 |
+Free Parking           | 5568    | 2.61 |
+New York Avenue        | 6067    | 2.85 |
+Tennessee Avenue       | 5758    | 2.70 |
+Community Chest #2     | 5560    | 2.61 |
+St. James Place        | 5408    | 2.54 |
+Pennsylvania Railroad  | 5622    | 2.64 |
+States Avenue          | 4839    | 2.27 |
+Electric Company       | 5340    | 2.51 |
+St. Charles Place      | 6086    | 2.86 |
+Jail                   | 8459    | 2.31 |
+Connecticut Avenue     | 4905    | 2.30 |
+Vermont Avenue         | 5052    | 2.37 |
+Chance #1              | 5073    | 2.38 |
+Oriental Avenue        | 5023    | 2.36 |
+Reading Railroad       | 6584    | 3.09 |
+Income Tax             | 5262    | 2.47 |
+Baltic Avenue          | 4689    | 2.20 |
+Community Chest #1     | 4645    | 2.18 |
+Mediterranean Avenue   | 4673    | 2.19 |
+
+    Strategy B Simulation #5 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17560   | 1.65 |
+Go                     | 29216   | 2.74 |
+Boardwalk              | 30474   | 2.86 |
+Luxury Tax             | 25238   | 2.37 |
+Park Place             | 25753   | 2.42 |
+Chance #3              | 25734   | 2.42 |
+Short Line             | 27723   | 2.60 |
+Pennsylvania Avenue    | 26266   | 2.47 |
+Community Chest #3     | 28275   | 2.66 |
+North Carolina Avenue  | 26311   | 2.47 |
+Pacific Avenue         | 25834   | 2.43 |
+Go To Jail             | 25628   | 2.41 |
+Marvin Gardens         | 25125   | 2.36 |
+Water Works            | 28349   | 2.66 |
+Ventnor Avenue         | 24924   | 2.34 |
+Atlantic Avenue        | 25793   | 2.42 |
+B. & O. Railroad       | 26183   | 2.46 |
+Illinois Avenue        | 32622   | 3.06 |
+Indiana Avenue         | 26933   | 2.53 |
+Chance #2              | 26982   | 2.53 |
+Kentucky Avenue        | 27148   | 2.55 |
+Free Parking           | 27764   | 2.61 |
+New York Avenue        | 30456   | 2.86 |
+Tennessee Avenue       | 28350   | 2.66 |
+Community Chest #2     | 28379   | 2.67 |
+St. James Place        | 26931   | 2.53 |
+Pennsylvania Railroad  | 27743   | 2.61 |
+States Avenue          | 24254   | 2.28 |
+Electric Company       | 26528   | 2.49 |
+St. Charles Place      | 30215   | 2.84 |
+Jail                   | 42309   | 2.32 |
+Connecticut Avenue     | 25096   | 2.36 |
+Vermont Avenue         | 25062   | 2.35 |
+Chance #1              | 25516   | 2.40 |
+Oriental Avenue        | 25331   | 2.38 |
+Reading Railroad       | 33077   | 3.11 |
+Income Tax             | 26658   | 2.50 |
+Baltic Avenue          | 23799   | 2.23 |
+Community Chest #1     | 23367   | 2.19 |
+Mediterranean Avenue   | 23520   | 2.21 |
+
+    Strategy B Simulation #5 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35093   | 1.65 |
+Go                     | 58313   | 2.74 |
+Boardwalk              | 60933   | 2.86 |
+Luxury Tax             | 50375   | 2.37 |
+Park Place             | 51612   | 2.42 |
+Chance #3              | 51406   | 2.41 |
+Short Line             | 55579   | 2.61 |
+Pennsylvania Avenue    | 52636   | 2.47 |
+Community Chest #3     | 56584   | 2.66 |
+North Carolina Avenue  | 52374   | 2.46 |
+Pacific Avenue         | 51774   | 2.43 |
+Go To Jail             | 50979   | 2.39 |
+Marvin Gardens         | 50146   | 2.35 |
+Water Works            | 56828   | 2.67 |
+Ventnor Avenue         | 50319   | 2.36 |
+Atlantic Avenue        | 51573   | 2.42 |
+B. & O. Railroad       | 52310   | 2.46 |
+Illinois Avenue        | 65374   | 3.07 |
+Indiana Avenue         | 53775   | 2.53 |
+Chance #2              | 53768   | 2.52 |
+Kentucky Avenue        | 54481   | 2.56 |
+Free Parking           | 55112   | 2.59 |
+New York Avenue        | 61063   | 2.87 |
+Tennessee Avenue       | 56830   | 2.67 |
+Community Chest #2     | 56336   | 2.65 |
+St. James Place        | 53776   | 2.53 |
+Pennsylvania Railroad  | 55560   | 2.61 |
+States Avenue          | 48661   | 2.29 |
+Electric Company       | 52924   | 2.49 |
+St. Charles Place      | 60494   | 2.84 |
+Jail                   | 84741   | 2.33 |
+Connecticut Avenue     | 49985   | 2.35 |
+Vermont Avenue         | 50373   | 2.37 |
+Chance #1              | 50904   | 2.39 |
+Oriental Avenue        | 50309   | 2.36 |
+Reading Railroad       | 66268   | 3.11 |
+Income Tax             | 53140   | 2.50 |
+Baltic Avenue          | 47805   | 2.24 |
+Community Chest #1     | 46669   | 2.19 |
+Mediterranean Avenue   | 47380   | 2.22 |
+
+    Strategy B Simulation #5 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175795   | 1.65 |
+Go                     | 291763   | 2.74 |
+Boardwalk              | 305299   | 2.87 |
+Luxury Tax             | 251762   | 2.36 |
+Park Place             | 258148   | 2.42 |
+Chance #3              | 256863   | 2.41 |
+Short Line             | 278505   | 2.62 |
+Pennsylvania Avenue    | 261794   | 2.46 |
+Community Chest #3     | 285024   | 2.68 |
+North Carolina Avenue  | 260739   | 2.45 |
+Pacific Avenue         | 259262   | 2.44 |
+Go To Jail             | 255766   | 2.40 |
+Marvin Gardens         | 250077   | 2.35 |
+Water Works            | 284749   | 2.67 |
+Ventnor Avenue         | 252179   | 2.37 |
+Atlantic Avenue        | 257044   | 2.41 |
+B. & O. Railroad       | 261747   | 2.46 |
+Illinois Avenue        | 326644   | 3.07 |
+Indiana Avenue         | 267551   | 2.51 |
+Chance #2              | 267372   | 2.51 |
+Kentucky Avenue        | 273130   | 2.57 |
+Free Parking           | 276722   | 2.60 |
+New York Avenue        | 304232   | 2.86 |
+Tennessee Avenue       | 284315   | 2.67 |
+Community Chest #2     | 282146   | 2.65 |
+St. James Place        | 267773   | 2.52 |
+Pennsylvania Railroad  | 277018   | 2.60 |
+States Avenue          | 244239   | 2.29 |
+Electric Company       | 265532   | 2.49 |
+St. Charles Place      | 303684   | 2.85 |
+Jail                   | 421770   | 2.31 |
+Connecticut Avenue     | 248333   | 2.33 |
+Vermont Avenue         | 252437   | 2.37 |
+Chance #1              | 254726   | 2.39 |
+Oriental Avenue        | 253226   | 2.38 |
+Reading Railroad       | 330916   | 3.11 |
+Income Tax             | 265258   | 2.49 |
+Baltic Avenue          | 240096   | 2.26 |
+Community Chest #1     | 232766   | 2.19 |
+Mediterranean Avenue   | 236428   | 2.22 |
+
+    Strategy B Simulation #5 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351499   | 1.65 |
+Go                     | 583830   | 2.74 |
+Boardwalk              | 609928   | 2.86 |
+Luxury Tax             | 503584   | 2.36 |
+Park Place             | 515724   | 2.42 |
+Chance #3              | 514119   | 2.41 |
+Short Line             | 556865   | 2.61 |
+Pennsylvania Avenue    | 525308   | 2.47 |
+Community Chest #3     | 569203   | 2.67 |
+North Carolina Avenue  | 521814   | 2.45 |
+Pacific Avenue         | 517741   | 2.43 |
+Go To Jail             | 511690   | 2.40 |
+Marvin Gardens         | 500178   | 2.35 |
+Water Works            | 569007   | 2.67 |
+Ventnor Avenue         | 504063   | 2.37 |
+Atlantic Avenue        | 514444   | 2.42 |
+B. & O. Railroad       | 524628   | 2.46 |
+Illinois Avenue        | 653101   | 3.07 |
+Indiana Avenue         | 535261   | 2.51 |
+Chance #2              | 535666   | 2.52 |
+Kentucky Avenue        | 546356   | 2.57 |
+Free Parking           | 553580   | 2.60 |
+New York Avenue        | 607729   | 2.85 |
+Tennessee Avenue       | 569027   | 2.67 |
+Community Chest #2     | 563984   | 2.65 |
+St. James Place        | 535702   | 2.52 |
+Pennsylvania Railroad  | 555189   | 2.61 |
+States Avenue          | 488653   | 2.29 |
+Electric Company       | 529922   | 2.49 |
+St. Charles Place      | 608156   | 2.86 |
+Jail                   | 842975   | 2.31 |
+Connecticut Avenue     | 496967   | 2.33 |
+Vermont Avenue         | 505180   | 2.37 |
+Chance #1              | 510287   | 2.40 |
+Oriental Avenue        | 505212   | 2.37 |
+Reading Railroad       | 661234   | 3.11 |
+Income Tax             | 530581   | 2.49 |
+Baltic Avenue          | 479708   | 2.25 |
+Community Chest #1     | 465598   | 2.19 |
+Mediterranean Avenue   | 472869   | 2.22 |
+
+    Strategy B Simulation #6 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 18      | 1.69 |
+Go                     | 24      | 2.26 |
+Boardwalk              | 37      | 3.48 |
+Luxury Tax             | 24      | 2.26 |
+Park Place             | 23      | 2.16 |
+Chance #3              | 27      | 2.54 |
+Short Line             | 24      | 2.26 |
+Pennsylvania Avenue    | 28      | 2.63 |
+Community Chest #3     | 34      | 3.20 |
+North Carolina Avenue  | 22      | 2.07 |
+Pacific Avenue         | 22      | 2.07 |
+Go To Jail             | 31      | 2.91 |
+Marvin Gardens         | 24      | 2.26 |
+Water Works            | 25      | 2.35 |
+Ventnor Avenue         | 25      | 2.35 |
+Atlantic Avenue        | 32      | 3.01 |
+B. & O. Railroad       | 20      | 1.88 |
+Illinois Avenue        | 33      | 3.10 |
+Indiana Avenue         | 27      | 2.54 |
+Chance #2              | 25      | 2.35 |
+Kentucky Avenue        | 34      | 3.20 |
+Free Parking           | 27      | 2.54 |
+New York Avenue        | 32      | 3.01 |
+Tennessee Avenue       | 31      | 2.91 |
+Community Chest #2     | 27      | 2.54 |
+St. James Place        | 29      | 2.73 |
+Pennsylvania Railroad  | 27      | 2.54 |
+States Avenue          | 22      | 2.07 |
+Electric Company       | 21      | 1.97 |
+St. Charles Place      | 30      | 2.82 |
+Jail                   | 45      | 2.54 |
+Connecticut Avenue     | 30      | 2.82 |
+Vermont Avenue         | 28      | 2.63 |
+Chance #1              | 25      | 2.35 |
+Oriental Avenue        | 22      | 2.07 |
+Reading Railroad       | 35      | 3.29 |
+Income Tax             | 23      | 2.16 |
+Baltic Avenue          | 26      | 2.44 |
+Community Chest #1     | 14      | 1.32 |
+Mediterranean Avenue   | 29      | 2.73 |
+
+    Strategy B Simulation #6 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 38      | 1.78 |
+Go                     | 51      | 2.38 |
+Boardwalk              | 67      | 3.13 |
+Luxury Tax             | 51      | 2.38 |
+Park Place             | 50      | 2.34 |
+Chance #3              | 55      | 2.57 |
+Short Line             | 53      | 2.48 |
+Pennsylvania Avenue    | 52      | 2.43 |
+Community Chest #3     | 73      | 3.41 |
+North Carolina Avenue  | 49      | 2.29 |
+Pacific Avenue         | 37      | 1.73 |
+Go To Jail             | 54      | 2.52 |
+Marvin Gardens         | 53      | 2.48 |
+Water Works            | 54      | 2.52 |
+Ventnor Avenue         | 48      | 2.24 |
+Atlantic Avenue        | 60      | 2.81 |
+B. & O. Railroad       | 47      | 2.20 |
+Illinois Avenue        | 65      | 3.04 |
+Indiana Avenue         | 46      | 2.15 |
+Chance #2              | 62      | 2.90 |
+Kentucky Avenue        | 64      | 2.99 |
+Free Parking           | 56      | 2.62 |
+New York Avenue        | 61      | 2.85 |
+Tennessee Avenue       | 46      | 2.15 |
+Community Chest #2     | 60      | 2.81 |
+St. James Place        | 65      | 3.04 |
+Pennsylvania Railroad  | 55      | 2.57 |
+States Avenue          | 38      | 1.78 |
+Electric Company       | 43      | 2.01 |
+St. Charles Place      | 69      | 3.23 |
+Jail                   | 92      | 2.52 |
+Connecticut Avenue     | 50      | 2.34 |
+Vermont Avenue         | 54      | 2.52 |
+Chance #1              | 51      | 2.38 |
+Oriental Avenue        | 46      | 2.15 |
+Reading Railroad       | 69      | 3.23 |
+Income Tax             | 50      | 2.34 |
+Baltic Avenue          | 53      | 2.48 |
+Community Chest #1     | 38      | 1.78 |
+Mediterranean Avenue   | 52      | 2.43 |
+
+    Strategy B Simulation #6 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 169     | 1.59 |
+Go                     | 297     | 2.79 |
+Boardwalk              | 300     | 2.82 |
+Luxury Tax             | 236     | 2.22 |
+Park Place             | 268     | 2.52 |
+Chance #3              | 262     | 2.46 |
+Short Line             | 280     | 2.63 |
+Pennsylvania Avenue    | 275     | 2.58 |
+Community Chest #3     | 280     | 2.63 |
+North Carolina Avenue  | 267     | 2.51 |
+Pacific Avenue         | 269     | 2.52 |
+Go To Jail             | 236     | 2.22 |
+Marvin Gardens         | 262     | 2.46 |
+Water Works            | 283     | 2.66 |
+Ventnor Avenue         | 261     | 2.45 |
+Atlantic Avenue        | 243     | 2.28 |
+B. & O. Railroad       | 269     | 2.52 |
+Illinois Avenue        | 321     | 3.01 |
+Indiana Avenue         | 271     | 2.54 |
+Chance #2              | 274     | 2.57 |
+Kentucky Avenue        | 261     | 2.45 |
+Free Parking           | 286     | 2.68 |
+New York Avenue        | 303     | 2.84 |
+Tennessee Avenue       | 245     | 2.30 |
+Community Chest #2     | 293     | 2.75 |
+St. James Place        | 272     | 2.55 |
+Pennsylvania Railroad  | 272     | 2.55 |
+States Avenue          | 228     | 2.14 |
+Electric Company       | 262     | 2.46 |
+St. Charles Place      | 295     | 2.77 |
+Jail                   | 413     | 2.29 |
+Connecticut Avenue     | 247     | 2.32 |
+Vermont Avenue         | 271     | 2.54 |
+Chance #1              | 273     | 2.56 |
+Oriental Avenue        | 277     | 2.60 |
+Reading Railroad       | 320     | 3.00 |
+Income Tax             | 259     | 2.43 |
+Baltic Avenue          | 250     | 2.35 |
+Community Chest #1     | 218     | 2.05 |
+Mediterranean Avenue   | 255     | 2.39 |
+
+    Strategy B Simulation #6 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 356     | 1.67 |
+Go                     | 578     | 2.71 |
+Boardwalk              | 594     | 2.79 |
+Luxury Tax             | 499     | 2.34 |
+Park Place             | 534     | 2.50 |
+Chance #3              | 535     | 2.51 |
+Short Line             | 523     | 2.45 |
+Pennsylvania Avenue    | 528     | 2.48 |
+Community Chest #3     | 588     | 2.76 |
+North Carolina Avenue  | 541     | 2.54 |
+Pacific Avenue         | 501     | 2.35 |
+Go To Jail             | 496     | 2.33 |
+Marvin Gardens         | 524     | 2.46 |
+Water Works            | 540     | 2.53 |
+Ventnor Avenue         | 510     | 2.39 |
+Atlantic Avenue        | 525     | 2.46 |
+B. & O. Railroad       | 533     | 2.50 |
+Illinois Avenue        | 639     | 3.00 |
+Indiana Avenue         | 516     | 2.42 |
+Chance #2              | 532     | 2.50 |
+Kentucky Avenue        | 570     | 2.67 |
+Free Parking           | 568     | 2.66 |
+New York Avenue        | 597     | 2.80 |
+Tennessee Avenue       | 516     | 2.42 |
+Community Chest #2     | 584     | 2.74 |
+St. James Place        | 552     | 2.59 |
+Pennsylvania Railroad  | 564     | 2.65 |
+States Avenue          | 451     | 2.12 |
+Electric Company       | 509     | 2.39 |
+St. Charles Place      | 625     | 2.93 |
+Jail                   | 846     | 2.30 |
+Connecticut Avenue     | 492     | 2.31 |
+Vermont Avenue         | 536     | 2.51 |
+Chance #1              | 523     | 2.45 |
+Oriental Avenue        | 525     | 2.46 |
+Reading Railroad       | 643     | 3.02 |
+Income Tax             | 519     | 2.43 |
+Baltic Avenue          | 473     | 2.22 |
+Community Chest #1     | 466     | 2.19 |
+Mediterranean Avenue   | 524     | 2.46 |
+
+    Strategy B Simulation #6 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1758    | 1.65 |
+Go                     | 2887    | 2.71 |
+Boardwalk              | 3034    | 2.85 |
+Luxury Tax             | 2625    | 2.47 |
+Park Place             | 2566    | 2.41 |
+Chance #3              | 2550    | 2.40 |
+Short Line             | 2709    | 2.55 |
+Pennsylvania Avenue    | 2647    | 2.49 |
+Community Chest #3     | 2885    | 2.71 |
+North Carolina Avenue  | 2689    | 2.53 |
+Pacific Avenue         | 2457    | 2.31 |
+Go To Jail             | 2567    | 2.41 |
+Marvin Gardens         | 2583    | 2.43 |
+Water Works            | 2759    | 2.59 |
+Ventnor Avenue         | 2526    | 2.37 |
+Atlantic Avenue        | 2587    | 2.43 |
+B. & O. Railroad       | 2652    | 2.49 |
+Illinois Avenue        | 3315    | 3.12 |
+Indiana Avenue         | 2688    | 2.53 |
+Chance #2              | 2542    | 2.39 |
+Kentucky Avenue        | 2692    | 2.53 |
+Free Parking           | 2762    | 2.60 |
+New York Avenue        | 3130    | 2.94 |
+Tennessee Avenue       | 2913    | 2.74 |
+Community Chest #2     | 2786    | 2.62 |
+St. James Place        | 2649    | 2.49 |
+Pennsylvania Railroad  | 2729    | 2.56 |
+States Avenue          | 2437    | 2.29 |
+Electric Company       | 2660    | 2.50 |
+St. Charles Place      | 3067    | 2.88 |
+Jail                   | 4158    | 2.26 |
+Connecticut Avenue     | 2393    | 2.25 |
+Vermont Avenue         | 2611    | 2.45 |
+Chance #1              | 2566    | 2.41 |
+Oriental Avenue        | 2507    | 2.36 |
+Reading Railroad       | 3204    | 3.01 |
+Income Tax             | 2716    | 2.55 |
+Baltic Avenue          | 2431    | 2.28 |
+Community Chest #1     | 2330    | 2.19 |
+Mediterranean Avenue   | 2391    | 2.25 |
+
+    Strategy B Simulation #6 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3540    | 1.66 |
+Go                     | 5798    | 2.72 |
+Boardwalk              | 5987    | 2.81 |
+Luxury Tax             | 5169    | 2.43 |
+Park Place             | 5156    | 2.42 |
+Chance #3              | 5154    | 2.42 |
+Short Line             | 5451    | 2.56 |
+Pennsylvania Avenue    | 5265    | 2.47 |
+Community Chest #3     | 5713    | 2.68 |
+North Carolina Avenue  | 5366    | 2.52 |
+Pacific Avenue         | 5000    | 2.35 |
+Go To Jail             | 5216    | 2.45 |
+Marvin Gardens         | 5132    | 2.41 |
+Water Works            | 5576    | 2.62 |
+Ventnor Avenue         | 4997    | 2.35 |
+Atlantic Avenue        | 5097    | 2.39 |
+B. & O. Railroad       | 5339    | 2.51 |
+Illinois Avenue        | 6597    | 3.10 |
+Indiana Avenue         | 5399    | 2.54 |
+Chance #2              | 5223    | 2.45 |
+Kentucky Avenue        | 5402    | 2.54 |
+Free Parking           | 5547    | 2.61 |
+New York Avenue        | 6262    | 2.94 |
+Tennessee Avenue       | 5763    | 2.71 |
+Community Chest #2     | 5665    | 2.66 |
+St. James Place        | 5205    | 2.44 |
+Pennsylvania Railroad  | 5532    | 2.60 |
+States Avenue          | 4844    | 2.27 |
+Electric Company       | 5294    | 2.49 |
+St. Charles Place      | 6120    | 2.87 |
+Jail                   | 8340    | 2.25 |
+Connecticut Avenue     | 4934    | 2.32 |
+Vermont Avenue         | 5132    | 2.41 |
+Chance #1              | 5128    | 2.41 |
+Oriental Avenue        | 5028    | 2.36 |
+Reading Railroad       | 6426    | 3.02 |
+Income Tax             | 5385    | 2.53 |
+Baltic Avenue          | 4857    | 2.28 |
+Community Chest #1     | 4734    | 2.22 |
+Mediterranean Avenue   | 4700    | 2.21 |
+
+    Strategy B Simulation #6 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17660   | 1.66 |
+Go                     | 29153   | 2.74 |
+Boardwalk              | 30418   | 2.86 |
+Luxury Tax             | 25050   | 2.35 |
+Park Place             | 25658   | 2.41 |
+Chance #3              | 25814   | 2.42 |
+Short Line             | 27858   | 2.62 |
+Pennsylvania Avenue    | 26122   | 2.45 |
+Community Chest #3     | 28745   | 2.70 |
+North Carolina Avenue  | 26088   | 2.45 |
+Pacific Avenue         | 25590   | 2.40 |
+Go To Jail             | 25649   | 2.41 |
+Marvin Gardens         | 24995   | 2.35 |
+Water Works            | 28588   | 2.68 |
+Ventnor Avenue         | 25457   | 2.39 |
+Atlantic Avenue        | 25585   | 2.40 |
+B. & O. Railroad       | 26285   | 2.47 |
+Illinois Avenue        | 32550   | 3.06 |
+Indiana Avenue         | 26781   | 2.51 |
+Chance #2              | 27215   | 2.56 |
+Kentucky Avenue        | 27348   | 2.57 |
+Free Parking           | 27687   | 2.60 |
+New York Avenue        | 30292   | 2.84 |
+Tennessee Avenue       | 28481   | 2.67 |
+Community Chest #2     | 28391   | 2.67 |
+St. James Place        | 26677   | 2.50 |
+Pennsylvania Railroad  | 27781   | 2.61 |
+States Avenue          | 24665   | 2.32 |
+Electric Company       | 26142   | 2.45 |
+St. Charles Place      | 30600   | 2.87 |
+Jail                   | 42088   | 2.29 |
+Connecticut Avenue     | 24980   | 2.35 |
+Vermont Avenue         | 25232   | 2.37 |
+Chance #1              | 25491   | 2.39 |
+Oriental Avenue        | 25159   | 2.36 |
+Reading Railroad       | 33141   | 3.11 |
+Income Tax             | 26346   | 2.47 |
+Baltic Avenue          | 23968   | 2.25 |
+Community Chest #1     | 23371   | 2.19 |
+Mediterranean Avenue   | 23709   | 2.23 |
+
+    Strategy B Simulation #6 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35284   | 1.66 |
+Go                     | 58369   | 2.74 |
+Boardwalk              | 60927   | 2.86 |
+Luxury Tax             | 50392   | 2.37 |
+Park Place             | 51414   | 2.41 |
+Chance #3              | 51609   | 2.42 |
+Short Line             | 55628   | 2.61 |
+Pennsylvania Avenue    | 52476   | 2.46 |
+Community Chest #3     | 57263   | 2.69 |
+North Carolina Avenue  | 52393   | 2.46 |
+Pacific Avenue         | 51169   | 2.40 |
+Go To Jail             | 51234   | 2.41 |
+Marvin Gardens         | 50119   | 2.35 |
+Water Works            | 57135   | 2.68 |
+Ventnor Avenue         | 50581   | 2.37 |
+Atlantic Avenue        | 51097   | 2.40 |
+B. & O. Railroad       | 52743   | 2.48 |
+Illinois Avenue        | 65201   | 3.06 |
+Indiana Avenue         | 53769   | 2.52 |
+Chance #2              | 54056   | 2.54 |
+Kentucky Avenue        | 54659   | 2.57 |
+Free Parking           | 55132   | 2.59 |
+New York Avenue        | 60579   | 2.84 |
+Tennessee Avenue       | 56842   | 2.67 |
+Community Chest #2     | 56826   | 2.67 |
+St. James Place        | 53214   | 2.50 |
+Pennsylvania Railroad  | 55693   | 2.61 |
+States Avenue          | 49163   | 2.31 |
+Electric Company       | 52482   | 2.46 |
+St. Charles Place      | 60835   | 2.86 |
+Jail                   | 84279   | 2.30 |
+Connecticut Avenue     | 49689   | 2.33 |
+Vermont Avenue         | 50602   | 2.38 |
+Chance #1              | 51242   | 2.41 |
+Oriental Avenue        | 50441   | 2.37 |
+Reading Railroad       | 66135   | 3.10 |
+Income Tax             | 53034   | 2.49 |
+Baltic Avenue          | 47752   | 2.24 |
+Community Chest #1     | 46677   | 2.19 |
+Mediterranean Avenue   | 47325   | 2.22 |
+
+    Strategy B Simulation #6 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 176103   | 1.65 |
+Go                     | 292483   | 2.75 |
+Boardwalk              | 304993   | 2.86 |
+Luxury Tax             | 252000   | 2.37 |
+Park Place             | 258125   | 2.42 |
+Chance #3              | 256298   | 2.41 |
+Short Line             | 278610   | 2.62 |
+Pennsylvania Avenue    | 262506   | 2.47 |
+Community Chest #3     | 284502   | 2.67 |
+North Carolina Avenue  | 261251   | 2.45 |
+Pacific Avenue         | 259001   | 2.43 |
+Go To Jail             | 255910   | 2.40 |
+Marvin Gardens         | 250226   | 2.35 |
+Water Works            | 284343   | 2.67 |
+Ventnor Avenue         | 250798   | 2.36 |
+Atlantic Avenue        | 257483   | 2.42 |
+B. & O. Railroad       | 263096   | 2.47 |
+Illinois Avenue        | 327277   | 3.07 |
+Indiana Avenue         | 268756   | 2.52 |
+Chance #2              | 267029   | 2.51 |
+Kentucky Avenue        | 272197   | 2.56 |
+Free Parking           | 276733   | 2.60 |
+New York Avenue        | 304381   | 2.86 |
+Tennessee Avenue       | 285009   | 2.68 |
+Community Chest #2     | 281224   | 2.64 |
+St. James Place        | 267547   | 2.51 |
+Pennsylvania Railroad  | 277075   | 2.60 |
+States Avenue          | 244918   | 2.30 |
+Electric Company       | 263004   | 2.47 |
+St. Charles Place      | 303790   | 2.85 |
+Jail                   | 422417   | 2.31 |
+Connecticut Avenue     | 248977   | 2.34 |
+Vermont Avenue         | 252429   | 2.37 |
+Chance #1              | 255668   | 2.40 |
+Oriental Avenue        | 252213   | 2.37 |
+Reading Railroad       | 330275   | 3.10 |
+Income Tax             | 265438   | 2.49 |
+Baltic Avenue          | 240242   | 2.26 |
+Community Chest #1     | 232201   | 2.18 |
+Mediterranean Avenue   | 236808   | 2.22 |
+
+    Strategy B Simulation #6 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351982   | 1.65 |
+Go                     | 584781   | 2.75 |
+Boardwalk              | 610614   | 2.87 |
+Luxury Tax             | 504194   | 2.37 |
+Park Place             | 515168   | 2.42 |
+Chance #3              | 513626   | 2.41 |
+Short Line             | 556094   | 2.61 |
+Pennsylvania Avenue    | 525283   | 2.47 |
+Community Chest #3     | 568649   | 2.67 |
+North Carolina Avenue  | 523358   | 2.46 |
+Pacific Avenue         | 517279   | 2.43 |
+Go To Jail             | 513108   | 2.41 |
+Marvin Gardens         | 500126   | 2.35 |
+Water Works            | 568407   | 2.67 |
+Ventnor Avenue         | 501964   | 2.36 |
+Atlantic Avenue        | 515382   | 2.42 |
+B. & O. Railroad       | 526222   | 2.47 |
+Illinois Avenue        | 653466   | 3.07 |
+Indiana Avenue         | 537752   | 2.53 |
+Chance #2              | 533655   | 2.51 |
+Kentucky Avenue        | 545362   | 2.56 |
+Free Parking           | 554074   | 2.60 |
+New York Avenue        | 609606   | 2.86 |
+Tennessee Avenue       | 568801   | 2.67 |
+Community Chest #2     | 562427   | 2.64 |
+St. James Place        | 535815   | 2.52 |
+Pennsylvania Railroad  | 554826   | 2.61 |
+States Avenue          | 489059   | 2.30 |
+Electric Company       | 527522   | 2.48 |
+St. Charles Place      | 607251   | 2.85 |
+Jail                   | 844390   | 2.31 |
+Connecticut Avenue     | 497265   | 2.34 |
+Vermont Avenue         | 504424   | 2.37 |
+Chance #1              | 512193   | 2.41 |
+Oriental Avenue        | 503884   | 2.37 |
+Reading Railroad       | 661295   | 3.11 |
+Income Tax             | 530342   | 2.49 |
+Baltic Avenue          | 479258   | 2.25 |
+Community Chest #1     | 464779   | 2.18 |
+Mediterranean Avenue   | 473348   | 2.22 |
+
+    Strategy B Simulation #7 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 21      | 1.98 |
+Go                     | 28      | 2.63 |
+Boardwalk              | 34      | 3.20 |
+Luxury Tax             | 21      | 1.98 |
+Park Place             | 26      | 2.45 |
+Chance #3              | 27      | 2.54 |
+Short Line             | 25      | 2.35 |
+Pennsylvania Avenue    | 25      | 2.35 |
+Community Chest #3     | 34      | 3.20 |
+North Carolina Avenue  | 32      | 3.01 |
+Pacific Avenue         | 28      | 2.63 |
+Go To Jail             | 28      | 2.63 |
+Marvin Gardens         | 19      | 1.79 |
+Water Works            | 26      | 2.45 |
+Ventnor Avenue         | 26      | 2.45 |
+Atlantic Avenue        | 20      | 1.88 |
+B. & O. Railroad       | 31      | 2.92 |
+Illinois Avenue        | 35      | 3.29 |
+Indiana Avenue         | 28      | 2.63 |
+Chance #2              | 22      | 2.07 |
+Kentucky Avenue        | 22      | 2.07 |
+Free Parking           | 27      | 2.54 |
+New York Avenue        | 34      | 3.20 |
+Tennessee Avenue       | 32      | 3.01 |
+Community Chest #2     | 26      | 2.45 |
+St. James Place        | 18      | 1.69 |
+Pennsylvania Railroad  | 30      | 2.82 |
+States Avenue          | 27      | 2.54 |
+Electric Company       | 29      | 2.73 |
+St. Charles Place      | 32      | 3.01 |
+Jail                   | 49      | 2.63 |
+Connecticut Avenue     | 19      | 1.79 |
+Vermont Avenue         | 25      | 2.35 |
+Chance #1              | 23      | 2.16 |
+Oriental Avenue        | 22      | 2.07 |
+Reading Railroad       | 42      | 3.95 |
+Income Tax             | 25      | 2.35 |
+Baltic Avenue          | 17      | 1.60 |
+Community Chest #1     | 24      | 2.26 |
+Mediterranean Avenue   | 25      | 2.35 |
+
+    Strategy B Simulation #7 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 38      | 1.79 |
+Go                     | 58      | 2.73 |
+Boardwalk              | 64      | 3.01 |
+Luxury Tax             | 46      | 2.16 |
+Park Place             | 45      | 2.12 |
+Chance #3              | 52      | 2.45 |
+Short Line             | 56      | 2.63 |
+Pennsylvania Avenue    | 54      | 2.54 |
+Community Chest #3     | 57      | 2.68 |
+North Carolina Avenue  | 61      | 2.87 |
+Pacific Avenue         | 56      | 2.63 |
+Go To Jail             | 54      | 2.54 |
+Marvin Gardens         | 48      | 2.26 |
+Water Works            | 52      | 2.45 |
+Ventnor Avenue         | 44      | 2.07 |
+Atlantic Avenue        | 39      | 1.83 |
+B. & O. Railroad       | 66      | 3.10 |
+Illinois Avenue        | 64      | 3.01 |
+Indiana Avenue         | 62      | 2.92 |
+Chance #2              | 52      | 2.45 |
+Kentucky Avenue        | 49      | 2.30 |
+Free Parking           | 54      | 2.54 |
+New York Avenue        | 67      | 3.15 |
+Tennessee Avenue       | 67      | 3.15 |
+Community Chest #2     | 48      | 2.26 |
+St. James Place        | 42      | 1.98 |
+Pennsylvania Railroad  | 52      | 2.45 |
+States Avenue          | 59      | 2.78 |
+Electric Company       | 48      | 2.26 |
+St. Charles Place      | 65      | 3.06 |
+Jail                   | 98      | 2.82 |
+Connecticut Avenue     | 44      | 2.07 |
+Vermont Avenue         | 51      | 2.40 |
+Chance #1              | 42      | 1.98 |
+Oriental Avenue        | 46      | 2.16 |
+Reading Railroad       | 73      | 3.43 |
+Income Tax             | 55      | 2.59 |
+Baltic Avenue          | 37      | 1.74 |
+Community Chest #1     | 49      | 2.30 |
+Mediterranean Avenue   | 50      | 2.35 |
+
+    Strategy B Simulation #7 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 179     | 1.68 |
+Go                     | 269     | 2.53 |
+Boardwalk              | 317     | 2.98 |
+Luxury Tax             | 257     | 2.41 |
+Park Place             | 251     | 2.36 |
+Chance #3              | 260     | 2.44 |
+Short Line             | 276     | 2.59 |
+Pennsylvania Avenue    | 266     | 2.50 |
+Community Chest #3     | 272     | 2.55 |
+North Carolina Avenue  | 268     | 2.52 |
+Pacific Avenue         | 259     | 2.43 |
+Go To Jail             | 258     | 2.42 |
+Marvin Gardens         | 246     | 2.31 |
+Water Works            | 290     | 2.72 |
+Ventnor Avenue         | 275     | 2.58 |
+Atlantic Avenue        | 226     | 2.12 |
+B. & O. Railroad       | 270     | 2.53 |
+Illinois Avenue        | 339     | 3.18 |
+Indiana Avenue         | 274     | 2.57 |
+Chance #2              | 269     | 2.53 |
+Kentucky Avenue        | 296     | 2.78 |
+Free Parking           | 247     | 2.32 |
+New York Avenue        | 294     | 2.76 |
+Tennessee Avenue       | 292     | 2.74 |
+Community Chest #2     | 297     | 2.79 |
+St. James Place        | 249     | 2.34 |
+Pennsylvania Railroad  | 297     | 2.79 |
+States Avenue          | 235     | 2.21 |
+Electric Company       | 256     | 2.40 |
+St. Charles Place      | 302     | 2.84 |
+Jail                   | 424     | 2.30 |
+Connecticut Avenue     | 263     | 2.47 |
+Vermont Avenue         | 241     | 2.26 |
+Chance #1              | 252     | 2.37 |
+Oriental Avenue        | 248     | 2.33 |
+Reading Railroad       | 314     | 2.95 |
+Income Tax             | 285     | 2.68 |
+Baltic Avenue          | 276     | 2.59 |
+Community Chest #1     | 222     | 2.08 |
+Mediterranean Avenue   | 219     | 2.06 |
+
+    Strategy B Simulation #7 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 352     | 1.65 |
+Go                     | 578     | 2.71 |
+Boardwalk              | 630     | 2.96 |
+Luxury Tax             | 506     | 2.38 |
+Park Place             | 480     | 2.25 |
+Chance #3              | 515     | 2.42 |
+Short Line             | 539     | 2.53 |
+Pennsylvania Avenue    | 544     | 2.55 |
+Community Chest #3     | 575     | 2.70 |
+North Carolina Avenue  | 531     | 2.49 |
+Pacific Avenue         | 512     | 2.40 |
+Go To Jail             | 513     | 2.41 |
+Marvin Gardens         | 497     | 2.33 |
+Water Works            | 583     | 2.74 |
+Ventnor Avenue         | 533     | 2.50 |
+Atlantic Avenue        | 490     | 2.30 |
+B. & O. Railroad       | 537     | 2.52 |
+Illinois Avenue        | 656     | 3.08 |
+Indiana Avenue         | 554     | 2.60 |
+Chance #2              | 527     | 2.47 |
+Kentucky Avenue        | 563     | 2.64 |
+Free Parking           | 543     | 2.55 |
+New York Avenue        | 591     | 2.77 |
+Tennessee Avenue       | 579     | 2.72 |
+Community Chest #2     | 590     | 2.77 |
+St. James Place        | 538     | 2.53 |
+Pennsylvania Railroad  | 564     | 2.65 |
+States Avenue          | 463     | 2.17 |
+Electric Company       | 508     | 2.38 |
+St. Charles Place      | 593     | 2.78 |
+Jail                   | 857     | 2.37 |
+Connecticut Avenue     | 503     | 2.36 |
+Vermont Avenue         | 499     | 2.34 |
+Chance #1              | 526     | 2.47 |
+Oriental Avenue        | 506     | 2.38 |
+Reading Railroad       | 636     | 2.99 |
+Income Tax             | 527     | 2.47 |
+Baltic Avenue          | 504     | 2.37 |
+Community Chest #1     | 458     | 2.15 |
+Mediterranean Avenue   | 454     | 2.13 |
+
+    Strategy B Simulation #7 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1760    | 1.65 |
+Go                     | 2907    | 2.73 |
+Boardwalk              | 2992    | 2.81 |
+Luxury Tax             | 2501    | 2.35 |
+Park Place             | 2585    | 2.43 |
+Chance #3              | 2607    | 2.45 |
+Short Line             | 2784    | 2.61 |
+Pennsylvania Avenue    | 2633    | 2.47 |
+Community Chest #3     | 2767    | 2.60 |
+North Carolina Avenue  | 2640    | 2.48 |
+Pacific Avenue         | 2626    | 2.47 |
+Go To Jail             | 2627    | 2.47 |
+Marvin Gardens         | 2519    | 2.37 |
+Water Works            | 2841    | 2.67 |
+Ventnor Avenue         | 2406    | 2.26 |
+Atlantic Avenue        | 2577    | 2.42 |
+B. & O. Railroad       | 2627    | 2.47 |
+Illinois Avenue        | 3355    | 3.15 |
+Indiana Avenue         | 2721    | 2.56 |
+Chance #2              | 2685    | 2.52 |
+Kentucky Avenue        | 2661    | 2.50 |
+Free Parking           | 2764    | 2.60 |
+New York Avenue        | 2990    | 2.81 |
+Tennessee Avenue       | 2906    | 2.73 |
+Community Chest #2     | 2858    | 2.68 |
+St. James Place        | 2679    | 2.52 |
+Pennsylvania Railroad  | 2721    | 2.56 |
+States Avenue          | 2472    | 2.32 |
+Electric Company       | 2649    | 2.49 |
+St. Charles Place      | 2988    | 2.81 |
+Jail                   | 4264    | 2.35 |
+Connecticut Avenue     | 2529    | 2.38 |
+Vermont Avenue         | 2435    | 2.29 |
+Chance #1              | 2495    | 2.34 |
+Oriental Avenue        | 2542    | 2.39 |
+Reading Railroad       | 3256    | 3.06 |
+Income Tax             | 2643    | 2.48 |
+Baltic Avenue          | 2413    | 2.27 |
+Community Chest #1     | 2396    | 2.25 |
+Mediterranean Avenue   | 2412    | 2.27 |
+
+    Strategy B Simulation #7 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3552    | 1.67 |
+Go                     | 5810    | 2.73 |
+Boardwalk              | 5994    | 2.81 |
+Luxury Tax             | 4989    | 2.34 |
+Park Place             | 5230    | 2.45 |
+Chance #3              | 5247    | 2.46 |
+Short Line             | 5558    | 2.61 |
+Pennsylvania Avenue    | 5230    | 2.45 |
+Community Chest #3     | 5571    | 2.61 |
+North Carolina Avenue  | 5228    | 2.45 |
+Pacific Avenue         | 5162    | 2.42 |
+Go To Jail             | 5196    | 2.44 |
+Marvin Gardens         | 5062    | 2.38 |
+Water Works            | 5665    | 2.66 |
+Ventnor Avenue         | 4964    | 2.33 |
+Atlantic Avenue        | 5110    | 2.40 |
+B. & O. Railroad       | 5241    | 2.46 |
+Illinois Avenue        | 6632    | 3.11 |
+Indiana Avenue         | 5383    | 2.53 |
+Chance #2              | 5458    | 2.56 |
+Kentucky Avenue        | 5434    | 2.55 |
+Free Parking           | 5519    | 2.59 |
+New York Avenue        | 6043    | 2.84 |
+Tennessee Avenue       | 5797    | 2.72 |
+Community Chest #2     | 5677    | 2.66 |
+St. James Place        | 5317    | 2.50 |
+Pennsylvania Railroad  | 5575    | 2.62 |
+States Avenue          | 4937    | 2.32 |
+Electric Company       | 5322    | 2.50 |
+St. Charles Place      | 5997    | 2.81 |
+Jail                   | 8486    | 2.32 |
+Connecticut Avenue     | 5043    | 2.37 |
+Vermont Avenue         | 4934    | 2.32 |
+Chance #1              | 5064    | 2.38 |
+Oriental Avenue        | 5053    | 2.37 |
+Reading Railroad       | 6512    | 3.06 |
+Income Tax             | 5315    | 2.49 |
+Baltic Avenue          | 4847    | 2.27 |
+Community Chest #1     | 4698    | 2.20 |
+Mediterranean Avenue   | 4772    | 2.24 |
+
+    Strategy B Simulation #7 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17535   | 1.65 |
+Go                     | 29286   | 2.75 |
+Boardwalk              | 30376   | 2.85 |
+Luxury Tax             | 25034   | 2.35 |
+Park Place             | 25912   | 2.43 |
+Chance #3              | 25854   | 2.43 |
+Short Line             | 27780   | 2.61 |
+Pennsylvania Avenue    | 26343   | 2.47 |
+Community Chest #3     | 28343   | 2.66 |
+North Carolina Avenue  | 25969   | 2.44 |
+Pacific Avenue         | 25854   | 2.43 |
+Go To Jail             | 25641   | 2.41 |
+Marvin Gardens         | 25092   | 2.36 |
+Water Works            | 28535   | 2.68 |
+Ventnor Avenue         | 25056   | 2.35 |
+Atlantic Avenue        | 25693   | 2.41 |
+B. & O. Railroad       | 26401   | 2.48 |
+Illinois Avenue        | 32713   | 3.07 |
+Indiana Avenue         | 26645   | 2.50 |
+Chance #2              | 26843   | 2.52 |
+Kentucky Avenue        | 27169   | 2.55 |
+Free Parking           | 27615   | 2.59 |
+New York Avenue        | 30375   | 2.85 |
+Tennessee Avenue       | 28528   | 2.68 |
+Community Chest #2     | 27977   | 2.63 |
+St. James Place        | 27124   | 2.55 |
+Pennsylvania Railroad  | 27691   | 2.60 |
+States Avenue          | 24571   | 2.31 |
+Electric Company       | 26588   | 2.50 |
+St. Charles Place      | 30385   | 2.85 |
+Jail                   | 42194   | 2.32 |
+Connecticut Avenue     | 24791   | 2.33 |
+Vermont Avenue         | 25085   | 2.36 |
+Chance #1              | 25542   | 2.40 |
+Oriental Avenue        | 25347   | 2.38 |
+Reading Railroad       | 33063   | 3.11 |
+Income Tax             | 26425   | 2.48 |
+Baltic Avenue          | 23914   | 2.25 |
+Community Chest #1     | 23278   | 2.19 |
+Mediterranean Avenue   | 23785   | 2.23 |
+
+    Strategy B Simulation #7 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35166   | 1.65 |
+Go                     | 58422   | 2.74 |
+Boardwalk              | 60813   | 2.86 |
+Luxury Tax             | 50186   | 2.36 |
+Park Place             | 51715   | 2.43 |
+Chance #3              | 51621   | 2.42 |
+Short Line             | 55667   | 2.61 |
+Pennsylvania Avenue    | 52453   | 2.46 |
+Community Chest #3     | 56581   | 2.66 |
+North Carolina Avenue  | 52170   | 2.45 |
+Pacific Avenue         | 51900   | 2.44 |
+Go To Jail             | 51381   | 2.41 |
+Marvin Gardens         | 49878   | 2.34 |
+Water Works            | 57074   | 2.68 |
+Ventnor Avenue         | 50431   | 2.37 |
+Atlantic Avenue        | 51386   | 2.41 |
+B. & O. Railroad       | 52656   | 2.47 |
+Illinois Avenue        | 65415   | 3.07 |
+Indiana Avenue         | 53621   | 2.52 |
+Chance #2              | 53393   | 2.51 |
+Kentucky Avenue        | 54590   | 2.56 |
+Free Parking           | 55209   | 2.59 |
+New York Avenue        | 60696   | 2.85 |
+Tennessee Avenue       | 57030   | 2.68 |
+Community Chest #2     | 56026   | 2.63 |
+St. James Place        | 54074   | 2.54 |
+Pennsylvania Railroad  | 55430   | 2.60 |
+States Avenue          | 48869   | 2.29 |
+Electric Company       | 52960   | 2.49 |
+St. Charles Place      | 60918   | 2.86 |
+Jail                   | 84512   | 2.32 |
+Connecticut Avenue     | 49486   | 2.32 |
+Vermont Avenue         | 50534   | 2.37 |
+Chance #1              | 51222   | 2.41 |
+Oriental Avenue        | 50386   | 2.37 |
+Reading Railroad       | 66166   | 3.11 |
+Income Tax             | 52957   | 2.49 |
+Baltic Avenue          | 47931   | 2.25 |
+Community Chest #1     | 46411   | 2.18 |
+Mediterranean Avenue   | 47418   | 2.23 |
+
+    Strategy B Simulation #7 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 176364   | 1.66 |
+Go                     | 291653   | 2.74 |
+Boardwalk              | 304926   | 2.86 |
+Luxury Tax             | 251347   | 2.36 |
+Park Place             | 258214   | 2.42 |
+Chance #3              | 257738   | 2.42 |
+Short Line             | 277727   | 2.61 |
+Pennsylvania Avenue    | 262778   | 2.47 |
+Community Chest #3     | 284269   | 2.67 |
+North Carolina Avenue  | 261567   | 2.46 |
+Pacific Avenue         | 259351   | 2.44 |
+Go To Jail             | 256363   | 2.41 |
+Marvin Gardens         | 250342   | 2.35 |
+Water Works            | 284251   | 2.67 |
+Ventnor Avenue         | 252042   | 2.37 |
+Atlantic Avenue        | 257590   | 2.42 |
+B. & O. Railroad       | 262128   | 2.46 |
+Illinois Avenue        | 326714   | 3.07 |
+Indiana Avenue         | 268247   | 2.52 |
+Chance #2              | 267086   | 2.51 |
+Kentucky Avenue        | 273323   | 2.57 |
+Free Parking           | 276628   | 2.60 |
+New York Avenue        | 303557   | 2.85 |
+Tennessee Avenue       | 284991   | 2.68 |
+Community Chest #2     | 281203   | 2.64 |
+St. James Place        | 266985   | 2.51 |
+Pennsylvania Railroad  | 277997   | 2.61 |
+States Avenue          | 245289   | 2.30 |
+Electric Company       | 264465   | 2.48 |
+St. Charles Place      | 303395   | 2.85 |
+Jail                   | 422019   | 2.31 |
+Connecticut Avenue     | 249078   | 2.34 |
+Vermont Avenue         | 252668   | 2.37 |
+Chance #1              | 255510   | 2.40 |
+Oriental Avenue        | 251251   | 2.36 |
+Reading Railroad       | 331573   | 3.11 |
+Income Tax             | 265176   | 2.49 |
+Baltic Avenue          | 239655   | 2.25 |
+Community Chest #1     | 232436   | 2.18 |
+Mediterranean Avenue   | 236675   | 2.22 |
+
+    Strategy B Simulation #7 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351982   | 1.65 |
+Go                     | 583355   | 2.74 |
+Boardwalk              | 610310   | 2.87 |
+Luxury Tax             | 504103   | 2.37 |
+Park Place             | 515627   | 2.42 |
+Chance #3              | 514563   | 2.42 |
+Short Line             | 555922   | 2.61 |
+Pennsylvania Avenue    | 525496   | 2.47 |
+Community Chest #3     | 568788   | 2.67 |
+North Carolina Avenue  | 523385   | 2.46 |
+Pacific Avenue         | 518826   | 2.44 |
+Go To Jail             | 512584   | 2.41 |
+Marvin Gardens         | 499668   | 2.35 |
+Water Works            | 567792   | 2.67 |
+Ventnor Avenue         | 503967   | 2.37 |
+Atlantic Avenue        | 514805   | 2.42 |
+B. & O. Railroad       | 524766   | 2.46 |
+Illinois Avenue        | 653367   | 3.07 |
+Indiana Avenue         | 537135   | 2.52 |
+Chance #2              | 535198   | 2.51 |
+Kentucky Avenue        | 545371   | 2.56 |
+Free Parking           | 553225   | 2.60 |
+New York Avenue        | 607621   | 2.85 |
+Tennessee Avenue       | 569511   | 2.67 |
+Community Chest #2     | 563089   | 2.64 |
+St. James Place        | 534965   | 2.51 |
+Pennsylvania Railroad  | 555637   | 2.61 |
+States Avenue          | 489710   | 2.30 |
+Electric Company       | 528268   | 2.48 |
+St. Charles Place      | 607274   | 2.85 |
+Jail                   | 843599   | 2.31 |
+Connecticut Avenue     | 497671   | 2.34 |
+Vermont Avenue         | 504959   | 2.37 |
+Chance #1              | 510893   | 2.40 |
+Oriental Avenue        | 503906   | 2.37 |
+Reading Railroad       | 662115   | 3.11 |
+Income Tax             | 529990   | 2.49 |
+Baltic Avenue          | 480291   | 2.26 |
+Community Chest #1     | 463979   | 2.18 |
+Mediterranean Avenue   | 473932   | 2.23 |
+
+    Strategy B Simulation #8 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 20      | 1.88 |
+Go                     | 26      | 2.44 |
+Boardwalk              | 30      | 2.82 |
+Luxury Tax             | 24      | 2.25 |
+Park Place             | 23      | 2.16 |
+Chance #3              | 25      | 2.35 |
+Short Line             | 30      | 2.82 |
+Pennsylvania Avenue    | 23      | 2.16 |
+Community Chest #3     | 30      | 2.82 |
+North Carolina Avenue  | 28      | 2.63 |
+Pacific Avenue         | 32      | 3.00 |
+Go To Jail             | 23      | 2.16 |
+Marvin Gardens         | 25      | 2.35 |
+Water Works            | 26      | 2.44 |
+Ventnor Avenue         | 22      | 2.07 |
+Atlantic Avenue        | 24      | 2.25 |
+B. & O. Railroad       | 31      | 2.91 |
+Illinois Avenue        | 37      | 3.47 |
+Indiana Avenue         | 20      | 1.88 |
+Chance #2              | 22      | 2.07 |
+Kentucky Avenue        | 33      | 3.10 |
+Free Parking           | 32      | 3.00 |
+New York Avenue        | 22      | 2.07 |
+Tennessee Avenue       | 29      | 2.72 |
+Community Chest #2     | 36      | 3.38 |
+St. James Place        | 26      | 2.44 |
+Pennsylvania Railroad  | 20      | 1.88 |
+States Avenue          | 24      | 2.25 |
+Electric Company       | 35      | 3.29 |
+St. Charles Place      | 31      | 2.91 |
+Jail                   | 46      | 2.44 |
+Connecticut Avenue     | 20      | 1.88 |
+Vermont Avenue         | 21      | 1.97 |
+Chance #1              | 30      | 2.82 |
+Oriental Avenue        | 24      | 2.25 |
+Reading Railroad       | 40      | 3.76 |
+Income Tax             | 26      | 2.44 |
+Baltic Avenue          | 21      | 1.97 |
+Community Chest #1     | 20      | 1.88 |
+Mediterranean Avenue   | 28      | 2.63 |
+
+    Strategy B Simulation #8 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 36      | 1.69 |
+Go                     | 61      | 2.87 |
+Boardwalk              | 51      | 2.40 |
+Luxury Tax             | 51      | 2.40 |
+Park Place             | 48      | 2.26 |
+Chance #3              | 47      | 2.21 |
+Short Line             | 56      | 2.64 |
+Pennsylvania Avenue    | 46      | 2.16 |
+Community Chest #3     | 60      | 2.82 |
+North Carolina Avenue  | 53      | 2.49 |
+Pacific Avenue         | 60      | 2.82 |
+Go To Jail             | 47      | 2.21 |
+Marvin Gardens         | 53      | 2.49 |
+Water Works            | 49      | 2.31 |
+Ventnor Avenue         | 57      | 2.68 |
+Atlantic Avenue        | 54      | 2.54 |
+B. & O. Railroad       | 48      | 2.26 |
+Illinois Avenue        | 70      | 3.29 |
+Indiana Avenue         | 50      | 2.35 |
+Chance #2              | 49      | 2.31 |
+Kentucky Avenue        | 56      | 2.64 |
+Free Parking           | 59      | 2.78 |
+New York Avenue        | 54      | 2.54 |
+Tennessee Avenue       | 65      | 3.06 |
+Community Chest #2     | 63      | 2.96 |
+St. James Place        | 53      | 2.49 |
+Pennsylvania Railroad  | 46      | 2.16 |
+States Avenue          | 51      | 2.40 |
+Electric Company       | 65      | 3.06 |
+St. Charles Place      | 58      | 2.73 |
+Jail                   | 84      | 2.26 |
+Connecticut Avenue     | 51      | 2.40 |
+Vermont Avenue         | 50      | 2.35 |
+Chance #1              | 52      | 2.45 |
+Oriental Avenue        | 52      | 2.45 |
+Reading Railroad       | 73      | 3.44 |
+Income Tax             | 44      | 2.07 |
+Baltic Avenue          | 54      | 2.54 |
+Community Chest #1     | 42      | 1.98 |
+Mediterranean Avenue   | 43      | 2.02 |
+
+    Strategy B Simulation #8 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 195     | 1.83 |
+Go                     | 282     | 2.64 |
+Boardwalk              | 310     | 2.91 |
+Luxury Tax             | 250     | 2.34 |
+Park Place             | 251     | 2.35 |
+Chance #3              | 272     | 2.55 |
+Short Line             | 279     | 2.62 |
+Pennsylvania Avenue    | 261     | 2.45 |
+Community Chest #3     | 280     | 2.62 |
+North Carolina Avenue  | 260     | 2.44 |
+Pacific Avenue         | 272     | 2.55 |
+Go To Jail             | 243     | 2.28 |
+Marvin Gardens         | 269     | 2.52 |
+Water Works            | 310     | 2.91 |
+Ventnor Avenue         | 216     | 2.02 |
+Atlantic Avenue        | 261     | 2.45 |
+B. & O. Railroad       | 254     | 2.38 |
+Illinois Avenue        | 327     | 3.07 |
+Indiana Avenue         | 272     | 2.55 |
+Chance #2              | 266     | 2.49 |
+Kentucky Avenue        | 287     | 2.69 |
+Free Parking           | 284     | 2.66 |
+New York Avenue        | 289     | 2.71 |
+Tennessee Avenue       | 287     | 2.69 |
+Community Chest #2     | 306     | 2.87 |
+St. James Place        | 252     | 2.36 |
+Pennsylvania Railroad  | 250     | 2.34 |
+States Avenue          | 271     | 2.54 |
+Electric Company       | 242     | 2.27 |
+St. Charles Place      | 311     | 2.92 |
+Jail                   | 427     | 2.17 |
+Connecticut Avenue     | 263     | 2.47 |
+Vermont Avenue         | 267     | 2.50 |
+Chance #1              | 244     | 2.29 |
+Oriental Avenue        | 250     | 2.34 |
+Reading Railroad       | 319     | 2.99 |
+Income Tax             | 245     | 2.30 |
+Baltic Avenue          | 248     | 2.32 |
+Community Chest #1     | 238     | 2.23 |
+Mediterranean Avenue   | 253     | 2.37 |
+
+    Strategy B Simulation #8 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 361     | 1.70 |
+Go                     | 573     | 2.69 |
+Boardwalk              | 601     | 2.82 |
+Luxury Tax             | 488     | 2.29 |
+Park Place             | 505     | 2.37 |
+Chance #3              | 540     | 2.54 |
+Short Line             | 577     | 2.71 |
+Pennsylvania Avenue    | 533     | 2.50 |
+Community Chest #3     | 545     | 2.56 |
+North Carolina Avenue  | 509     | 2.39 |
+Pacific Avenue         | 535     | 2.51 |
+Go To Jail             | 505     | 2.37 |
+Marvin Gardens         | 519     | 2.44 |
+Water Works            | 602     | 2.83 |
+Ventnor Avenue         | 456     | 2.14 |
+Atlantic Avenue        | 522     | 2.45 |
+B. & O. Railroad       | 509     | 2.39 |
+Illinois Avenue        | 675     | 3.17 |
+Indiana Avenue         | 531     | 2.49 |
+Chance #2              | 501     | 2.35 |
+Kentucky Avenue        | 559     | 2.63 |
+Free Parking           | 578     | 2.71 |
+New York Avenue        | 600     | 2.82 |
+Tennessee Avenue       | 593     | 2.79 |
+Community Chest #2     | 574     | 2.70 |
+St. James Place        | 509     | 2.39 |
+Pennsylvania Railroad  | 541     | 2.54 |
+States Avenue          | 513     | 2.41 |
+Electric Company       | 511     | 2.40 |
+St. Charles Place      | 617     | 2.90 |
+Jail                   | 848     | 2.29 |
+Connecticut Avenue     | 495     | 2.32 |
+Vermont Avenue         | 512     | 2.40 |
+Chance #1              | 495     | 2.32 |
+Oriental Avenue        | 517     | 2.43 |
+Reading Railroad       | 646     | 3.03 |
+Income Tax             | 480     | 2.25 |
+Baltic Avenue          | 491     | 2.31 |
+Community Chest #1     | 481     | 2.26 |
+Mediterranean Avenue   | 505     | 2.37 |
+
+    Strategy B Simulation #8 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1779    | 1.67 |
+Go                     | 2864    | 2.69 |
+Boardwalk              | 2995    | 2.81 |
+Luxury Tax             | 2525    | 2.37 |
+Park Place             | 2578    | 2.42 |
+Chance #3              | 2590    | 2.43 |
+Short Line             | 2824    | 2.65 |
+Pennsylvania Avenue    | 2660    | 2.50 |
+Community Chest #3     | 2807    | 2.63 |
+North Carolina Avenue  | 2532    | 2.38 |
+Pacific Avenue         | 2606    | 2.45 |
+Go To Jail             | 2636    | 2.47 |
+Marvin Gardens         | 2403    | 2.26 |
+Water Works            | 2885    | 2.71 |
+Ventnor Avenue         | 2559    | 2.40 |
+Atlantic Avenue        | 2580    | 2.42 |
+B. & O. Railroad       | 2632    | 2.47 |
+Illinois Avenue        | 3247    | 3.05 |
+Indiana Avenue         | 2657    | 2.49 |
+Chance #2              | 2695    | 2.53 |
+Kentucky Avenue        | 2672    | 2.51 |
+Free Parking           | 2845    | 2.67 |
+New York Avenue        | 2994    | 2.81 |
+Tennessee Avenue       | 2852    | 2.68 |
+Community Chest #2     | 2832    | 2.66 |
+St. James Place        | 2718    | 2.55 |
+Pennsylvania Railroad  | 2820    | 2.65 |
+States Avenue          | 2415    | 2.27 |
+Electric Company       | 2643    | 2.48 |
+St. Charles Place      | 2977    | 2.79 |
+Jail                   | 4352    | 2.42 |
+Connecticut Avenue     | 2467    | 2.32 |
+Vermont Avenue         | 2443    | 2.29 |
+Chance #1              | 2578    | 2.42 |
+Oriental Avenue        | 2536    | 2.38 |
+Reading Railroad       | 3319    | 3.12 |
+Income Tax             | 2671    | 2.51 |
+Baltic Avenue          | 2369    | 2.22 |
+Community Chest #1     | 2373    | 2.23 |
+Mediterranean Avenue   | 2381    | 2.24 |
+
+    Strategy B Simulation #8 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3545    | 1.66 |
+Go                     | 5795    | 2.72 |
+Boardwalk              | 5954    | 2.80 |
+Luxury Tax             | 5044    | 2.37 |
+Park Place             | 5226    | 2.45 |
+Chance #3              | 5158    | 2.42 |
+Short Line             | 5616    | 2.64 |
+Pennsylvania Avenue    | 5225    | 2.45 |
+Community Chest #3     | 5701    | 2.68 |
+North Carolina Avenue  | 5077    | 2.38 |
+Pacific Avenue         | 5175    | 2.43 |
+Go To Jail             | 5222    | 2.45 |
+Marvin Gardens         | 4919    | 2.31 |
+Water Works            | 5680    | 2.67 |
+Ventnor Avenue         | 5059    | 2.38 |
+Atlantic Avenue        | 5173    | 2.43 |
+B. & O. Railroad       | 5321    | 2.50 |
+Illinois Avenue        | 6461    | 3.03 |
+Indiana Avenue         | 5298    | 2.49 |
+Chance #2              | 5402    | 2.54 |
+Kentucky Avenue        | 5469    | 2.57 |
+Free Parking           | 5617    | 2.64 |
+New York Avenue        | 5991    | 2.81 |
+Tennessee Avenue       | 5655    | 2.65 |
+Community Chest #2     | 5692    | 2.67 |
+St. James Place        | 5443    | 2.56 |
+Pennsylvania Railroad  | 5644    | 2.65 |
+States Avenue          | 4791    | 2.25 |
+Electric Company       | 5329    | 2.50 |
+St. Charles Place      | 5972    | 2.80 |
+Jail                   | 8591    | 2.37 |
+Connecticut Avenue     | 4995    | 2.35 |
+Vermont Avenue         | 5004    | 2.35 |
+Chance #1              | 5058    | 2.37 |
+Oriental Avenue        | 5054    | 2.37 |
+Reading Railroad       | 6602    | 3.10 |
+Income Tax             | 5374    | 2.52 |
+Baltic Avenue          | 4734    | 2.22 |
+Community Chest #1     | 4750    | 2.23 |
+Mediterranean Avenue   | 4729    | 2.22 |
+
+    Strategy B Simulation #8 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17427   | 1.64 |
+Go                     | 29262   | 2.75 |
+Boardwalk              | 30689   | 2.88 |
+Luxury Tax             | 25226   | 2.37 |
+Park Place             | 25619   | 2.41 |
+Chance #3              | 25758   | 2.42 |
+Short Line             | 27768   | 2.61 |
+Pennsylvania Avenue    | 25975   | 2.44 |
+Community Chest #3     | 28663   | 2.69 |
+North Carolina Avenue  | 26108   | 2.45 |
+Pacific Avenue         | 26065   | 2.45 |
+Go To Jail             | 25770   | 2.42 |
+Marvin Gardens         | 24749   | 2.32 |
+Water Works            | 28491   | 2.68 |
+Ventnor Avenue         | 24981   | 2.35 |
+Atlantic Avenue        | 25768   | 2.42 |
+B. & O. Railroad       | 26379   | 2.48 |
+Illinois Avenue        | 32573   | 3.06 |
+Indiana Avenue         | 26922   | 2.53 |
+Chance #2              | 26834   | 2.52 |
+Kentucky Avenue        | 27503   | 2.58 |
+Free Parking           | 27455   | 2.58 |
+New York Avenue        | 30461   | 2.86 |
+Tennessee Avenue       | 28383   | 2.67 |
+Community Chest #2     | 27928   | 2.62 |
+St. James Place        | 26955   | 2.53 |
+Pennsylvania Railroad  | 27957   | 2.63 |
+States Avenue          | 24538   | 2.30 |
+Electric Company       | 26301   | 2.47 |
+St. Charles Place      | 30456   | 2.86 |
+Jail                   | 42089   | 2.32 |
+Connecticut Avenue     | 24720   | 2.32 |
+Vermont Avenue         | 25396   | 2.39 |
+Chance #1              | 25493   | 2.39 |
+Oriental Avenue        | 24967   | 2.35 |
+Reading Railroad       | 33254   | 3.12 |
+Income Tax             | 26414   | 2.48 |
+Baltic Avenue          | 23985   | 2.25 |
+Community Chest #1     | 23220   | 2.18 |
+Mediterranean Avenue   | 23567   | 2.21 |
+
+    Strategy B Simulation #8 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35029   | 1.65 |
+Go                     | 58493   | 2.75 |
+Boardwalk              | 60779   | 2.85 |
+Luxury Tax             | 50689   | 2.38 |
+Park Place             | 51621   | 2.42 |
+Chance #3              | 51478   | 2.42 |
+Short Line             | 55462   | 2.60 |
+Pennsylvania Avenue    | 52442   | 2.46 |
+Community Chest #3     | 56874   | 2.67 |
+North Carolina Avenue  | 51987   | 2.44 |
+Pacific Avenue         | 52116   | 2.45 |
+Go To Jail             | 51552   | 2.42 |
+Marvin Gardens         | 49822   | 2.34 |
+Water Works            | 57042   | 2.68 |
+Ventnor Avenue         | 50059   | 2.35 |
+Atlantic Avenue        | 51558   | 2.42 |
+B. & O. Railroad       | 52809   | 2.48 |
+Illinois Avenue        | 65200   | 3.06 |
+Indiana Avenue         | 53671   | 2.52 |
+Chance #2              | 53507   | 2.51 |
+Kentucky Avenue        | 54587   | 2.56 |
+Free Parking           | 55246   | 2.59 |
+New York Avenue        | 61125   | 2.87 |
+Tennessee Avenue       | 56855   | 2.67 |
+Community Chest #2     | 56024   | 2.63 |
+St. James Place        | 53523   | 2.51 |
+Pennsylvania Railroad  | 55585   | 2.61 |
+States Avenue          | 49188   | 2.31 |
+Electric Company       | 52604   | 2.47 |
+St. Charles Place      | 60880   | 2.86 |
+Jail                   | 84252   | 2.31 |
+Connecticut Avenue     | 49642   | 2.33 |
+Vermont Avenue         | 50748   | 2.38 |
+Chance #1              | 50979   | 2.39 |
+Oriental Avenue        | 50223   | 2.36 |
+Reading Railroad       | 65892   | 3.09 |
+Income Tax             | 52966   | 2.49 |
+Baltic Avenue          | 48032   | 2.26 |
+Community Chest #1     | 46356   | 2.18 |
+Mediterranean Avenue   | 47454   | 2.23 |
+
+    Strategy B Simulation #8 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175891   | 1.65 |
+Go                     | 292585   | 2.75 |
+Boardwalk              | 305226   | 2.87 |
+Luxury Tax             | 252084   | 2.37 |
+Park Place             | 258187   | 2.42 |
+Chance #3              | 256878   | 2.41 |
+Short Line             | 277602   | 2.61 |
+Pennsylvania Avenue    | 262903   | 2.47 |
+Community Chest #3     | 283761   | 2.67 |
+North Carolina Avenue  | 261241   | 2.45 |
+Pacific Avenue         | 258465   | 2.43 |
+Go To Jail             | 257383   | 2.42 |
+Marvin Gardens         | 249378   | 2.34 |
+Water Works            | 284490   | 2.67 |
+Ventnor Avenue         | 251815   | 2.37 |
+Atlantic Avenue        | 257363   | 2.42 |
+B. & O. Railroad       | 263117   | 2.47 |
+Illinois Avenue        | 325629   | 3.06 |
+Indiana Avenue         | 269045   | 2.53 |
+Chance #2              | 267604   | 2.51 |
+Kentucky Avenue        | 272253   | 2.56 |
+Free Parking           | 277171   | 2.60 |
+New York Avenue        | 304611   | 2.86 |
+Tennessee Avenue       | 285271   | 2.68 |
+Community Chest #2     | 280906   | 2.64 |
+St. James Place        | 268170   | 2.52 |
+Pennsylvania Railroad  | 277415   | 2.61 |
+States Avenue          | 244432   | 2.30 |
+Electric Company       | 264069   | 2.48 |
+St. Charles Place      | 303228   | 2.85 |
+Jail                   | 421819   | 2.31 |
+Connecticut Avenue     | 248530   | 2.33 |
+Vermont Avenue         | 253435   | 2.38 |
+Chance #1              | 255424   | 2.40 |
+Oriental Avenue        | 252326   | 2.37 |
+Reading Railroad       | 330461   | 3.10 |
+Income Tax             | 265270   | 2.49 |
+Baltic Avenue          | 239799   | 2.25 |
+Community Chest #1     | 231819   | 2.18 |
+Mediterranean Avenue   | 236257   | 2.22 |
+
+    Strategy B Simulation #8 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351886   | 1.65 |
+Go                     | 585231   | 2.75 |
+Boardwalk              | 610175   | 2.87 |
+Luxury Tax             | 503154   | 2.36 |
+Park Place             | 516848   | 2.43 |
+Chance #3              | 514325   | 2.42 |
+Short Line             | 555063   | 2.61 |
+Pennsylvania Avenue    | 526447   | 2.47 |
+Community Chest #3     | 567783   | 2.67 |
+North Carolina Avenue  | 522867   | 2.46 |
+Pacific Avenue         | 516859   | 2.43 |
+Go To Jail             | 512419   | 2.41 |
+Marvin Gardens         | 500242   | 2.35 |
+Water Works            | 569587   | 2.67 |
+Ventnor Avenue         | 502957   | 2.36 |
+Atlantic Avenue        | 514660   | 2.42 |
+B. & O. Railroad       | 525813   | 2.47 |
+Illinois Avenue        | 652408   | 3.06 |
+Indiana Avenue         | 536524   | 2.52 |
+Chance #2              | 535141   | 2.51 |
+Kentucky Avenue        | 545955   | 2.56 |
+Free Parking           | 554409   | 2.60 |
+New York Avenue        | 608403   | 2.86 |
+Tennessee Avenue       | 569909   | 2.68 |
+Community Chest #2     | 561822   | 2.64 |
+St. James Place        | 536468   | 2.52 |
+Pennsylvania Railroad  | 555102   | 2.61 |
+States Avenue          | 489063   | 2.30 |
+Electric Company       | 528127   | 2.48 |
+St. Charles Place      | 607217   | 2.85 |
+Jail                   | 842422   | 2.30 |
+Connecticut Avenue     | 498076   | 2.34 |
+Vermont Avenue         | 506091   | 2.38 |
+Chance #1              | 510844   | 2.40 |
+Oriental Avenue        | 504167   | 2.37 |
+Reading Railroad       | 661386   | 3.11 |
+Income Tax             | 530673   | 2.49 |
+Baltic Avenue          | 479705   | 2.25 |
+Community Chest #1     | 464014   | 2.18 |
+Mediterranean Avenue   | 472891   | 2.22 |
+
+    Strategy B Simulation #9 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17      | 1.60 |
+Go                     | 22      | 2.07 |
+Boardwalk              | 30      | 2.82 |
+Luxury Tax             | 25      | 2.35 |
+Park Place             | 28      | 2.63 |
+Chance #3              | 31      | 2.92 |
+Short Line             | 32      | 3.01 |
+Pennsylvania Avenue    | 34      | 3.20 |
+Community Chest #3     | 18      | 1.69 |
+North Carolina Avenue  | 26      | 2.45 |
+Pacific Avenue         | 24      | 2.26 |
+Go To Jail             | 25      | 2.35 |
+Marvin Gardens         | 29      | 2.73 |
+Water Works            | 30      | 2.82 |
+Ventnor Avenue         | 29      | 2.73 |
+Atlantic Avenue        | 20      | 1.88 |
+B. & O. Railroad       | 30      | 2.82 |
+Illinois Avenue        | 38      | 3.57 |
+Indiana Avenue         | 22      | 2.07 |
+Chance #2              | 19      | 1.79 |
+Kentucky Avenue        | 28      | 2.63 |
+Free Parking           | 31      | 2.92 |
+New York Avenue        | 32      | 3.01 |
+Tennessee Avenue       | 29      | 2.73 |
+Community Chest #2     | 24      | 2.26 |
+St. James Place        | 19      | 1.79 |
+Pennsylvania Railroad  | 33      | 3.10 |
+States Avenue          | 25      | 2.35 |
+Electric Company       | 23      | 2.16 |
+St. Charles Place      | 33      | 3.10 |
+Jail                   | 49      | 3.01 |
+Connecticut Avenue     | 21      | 1.98 |
+Vermont Avenue         | 21      | 1.98 |
+Chance #1              | 28      | 2.63 |
+Oriental Avenue        | 21      | 1.98 |
+Reading Railroad       | 33      | 3.10 |
+Income Tax             | 32      | 3.01 |
+Baltic Avenue          | 24      | 2.26 |
+Community Chest #1     | 19      | 1.79 |
+Mediterranean Avenue   | 26      | 2.45 |
+
+    Strategy B Simulation #9 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 40      | 1.87 |
+Go                     | 53      | 2.48 |
+Boardwalk              | 66      | 3.09 |
+Luxury Tax             | 44      | 2.06 |
+Park Place             | 54      | 2.53 |
+Chance #3              | 59      | 2.76 |
+Short Line             | 63      | 2.95 |
+Pennsylvania Avenue    | 56      | 2.62 |
+Community Chest #3     | 45      | 2.11 |
+North Carolina Avenue  | 46      | 2.15 |
+Pacific Avenue         | 53      | 2.48 |
+Go To Jail             | 51      | 2.39 |
+Marvin Gardens         | 53      | 2.48 |
+Water Works            | 64      | 3.00 |
+Ventnor Avenue         | 52      | 2.43 |
+Atlantic Avenue        | 39      | 1.83 |
+B. & O. Railroad       | 58      | 2.72 |
+Illinois Avenue        | 82      | 3.84 |
+Indiana Avenue         | 45      | 2.11 |
+Chance #2              | 46      | 2.15 |
+Kentucky Avenue        | 56      | 2.62 |
+Free Parking           | 48      | 2.25 |
+New York Avenue        | 68      | 3.18 |
+Tennessee Avenue       | 66      | 3.09 |
+Community Chest #2     | 55      | 2.57 |
+St. James Place        | 36      | 1.69 |
+Pennsylvania Railroad  | 59      | 2.76 |
+States Avenue          | 52      | 2.43 |
+Electric Company       | 53      | 2.48 |
+St. Charles Place      | 72      | 3.37 |
+Jail                   | 86      | 2.15 |
+Connecticut Avenue     | 44      | 2.06 |
+Vermont Avenue         | 50      | 2.34 |
+Chance #1              | 54      | 2.53 |
+Oriental Avenue        | 37      | 1.73 |
+Reading Railroad       | 65      | 3.04 |
+Income Tax             | 60      | 2.81 |
+Baltic Avenue          | 50      | 2.34 |
+Community Chest #1     | 52      | 2.43 |
+Mediterranean Avenue   | 44      | 2.06 |
+
+    Strategy B Simulation #9 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 169     | 1.59 |
+Go                     | 319     | 3.00 |
+Boardwalk              | 311     | 2.92 |
+Luxury Tax             | 239     | 2.25 |
+Park Place             | 260     | 2.44 |
+Chance #3              | 241     | 2.27 |
+Short Line             | 277     | 2.60 |
+Pennsylvania Avenue    | 271     | 2.55 |
+Community Chest #3     | 257     | 2.42 |
+North Carolina Avenue  | 285     | 2.68 |
+Pacific Avenue         | 255     | 2.40 |
+Go To Jail             | 279     | 2.62 |
+Marvin Gardens         | 255     | 2.40 |
+Water Works            | 249     | 2.34 |
+Ventnor Avenue         | 285     | 2.68 |
+Atlantic Avenue        | 249     | 2.34 |
+B. & O. Railroad       | 255     | 2.40 |
+Illinois Avenue        | 311     | 2.92 |
+Indiana Avenue         | 250     | 2.35 |
+Chance #2              | 286     | 2.69 |
+Kentucky Avenue        | 293     | 2.75 |
+Free Parking           | 294     | 2.76 |
+New York Avenue        | 317     | 2.98 |
+Tennessee Avenue       | 248     | 2.33 |
+Community Chest #2     | 278     | 2.61 |
+St. James Place        | 277     | 2.60 |
+Pennsylvania Railroad  | 263     | 2.47 |
+States Avenue          | 254     | 2.39 |
+Electric Company       | 282     | 2.65 |
+St. Charles Place      | 291     | 2.74 |
+Jail                   | 436     | 2.51 |
+Connecticut Avenue     | 261     | 2.45 |
+Vermont Avenue         | 207     | 1.95 |
+Chance #1              | 251     | 2.36 |
+Oriental Avenue        | 261     | 2.45 |
+Reading Railroad       | 356     | 3.35 |
+Income Tax             | 267     | 2.51 |
+Baltic Avenue          | 228     | 2.14 |
+Community Chest #1     | 217     | 2.04 |
+Mediterranean Avenue   | 221     | 2.08 |
+
+    Strategy B Simulation #9 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 357     | 1.68 |
+Go                     | 613     | 2.88 |
+Boardwalk              | 613     | 2.88 |
+Luxury Tax             | 491     | 2.31 |
+Park Place             | 508     | 2.39 |
+Chance #3              | 486     | 2.28 |
+Short Line             | 550     | 2.58 |
+Pennsylvania Avenue    | 530     | 2.49 |
+Community Chest #3     | 538     | 2.53 |
+North Carolina Avenue  | 562     | 2.64 |
+Pacific Avenue         | 505     | 2.37 |
+Go To Jail             | 528     | 2.48 |
+Marvin Gardens         | 506     | 2.38 |
+Water Works            | 515     | 2.42 |
+Ventnor Avenue         | 545     | 2.56 |
+Atlantic Avenue        | 523     | 2.46 |
+B. & O. Railroad       | 513     | 2.41 |
+Illinois Avenue        | 635     | 2.98 |
+Indiana Avenue         | 501     | 2.35 |
+Chance #2              | 567     | 2.66 |
+Kentucky Avenue        | 568     | 2.67 |
+Free Parking           | 580     | 2.73 |
+New York Avenue        | 617     | 2.90 |
+Tennessee Avenue       | 545     | 2.56 |
+Community Chest #2     | 579     | 2.72 |
+St. James Place        | 545     | 2.56 |
+Pennsylvania Railroad  | 525     | 2.47 |
+States Avenue          | 486     | 2.28 |
+Electric Company       | 561     | 2.64 |
+St. Charles Place      | 591     | 2.78 |
+Jail                   | 863     | 2.38 |
+Connecticut Avenue     | 522     | 2.45 |
+Vermont Avenue         | 458     | 2.15 |
+Chance #1              | 476     | 2.24 |
+Oriental Avenue        | 551     | 2.59 |
+Reading Railroad       | 655     | 3.08 |
+Income Tax             | 555     | 2.61 |
+Baltic Avenue          | 457     | 2.15 |
+Community Chest #1     | 459     | 2.16 |
+Mediterranean Avenue   | 460     | 2.16 |
+
+    Strategy B Simulation #9 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1744    | 1.64 |
+Go                     | 2921    | 2.75 |
+Boardwalk              | 3082    | 2.90 |
+Luxury Tax             | 2520    | 2.37 |
+Park Place             | 2549    | 2.40 |
+Chance #3              | 2516    | 2.36 |
+Short Line             | 2859    | 2.69 |
+Pennsylvania Avenue    | 2634    | 2.48 |
+Community Chest #3     | 2729    | 2.56 |
+North Carolina Avenue  | 2629    | 2.47 |
+Pacific Avenue         | 2604    | 2.45 |
+Go To Jail             | 2609    | 2.45 |
+Marvin Gardens         | 2473    | 2.32 |
+Water Works            | 2820    | 2.65 |
+Ventnor Avenue         | 2512    | 2.36 |
+Atlantic Avenue        | 2557    | 2.40 |
+B. & O. Railroad       | 2596    | 2.44 |
+Illinois Avenue        | 3297    | 3.10 |
+Indiana Avenue         | 2726    | 2.56 |
+Chance #2              | 2645    | 2.49 |
+Kentucky Avenue        | 2733    | 2.57 |
+Free Parking           | 2781    | 2.61 |
+New York Avenue        | 2975    | 2.80 |
+Tennessee Avenue       | 2846    | 2.67 |
+Community Chest #2     | 2808    | 2.64 |
+St. James Place        | 2681    | 2.52 |
+Pennsylvania Railroad  | 2762    | 2.60 |
+States Avenue          | 2471    | 2.32 |
+Electric Company       | 2663    | 2.50 |
+St. Charles Place      | 2981    | 2.80 |
+Jail                   | 4172    | 2.28 |
+Connecticut Avenue     | 2506    | 2.36 |
+Vermont Avenue         | 2577    | 2.42 |
+Chance #1              | 2551    | 2.40 |
+Oriental Avenue        | 2542    | 2.39 |
+Reading Railroad       | 3344    | 3.14 |
+Income Tax             | 2604    | 2.45 |
+Baltic Avenue          | 2426    | 2.28 |
+Community Chest #1     | 2337    | 2.20 |
+Mediterranean Avenue   | 2370    | 2.23 |
+
+    Strategy B Simulation #9 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3502    | 1.64 |
+Go                     | 5834    | 2.74 |
+Boardwalk              | 6144    | 2.89 |
+Luxury Tax             | 5109    | 2.40 |
+Park Place             | 5040    | 2.37 |
+Chance #3              | 5074    | 2.38 |
+Short Line             | 5559    | 2.61 |
+Pennsylvania Avenue    | 5206    | 2.44 |
+Community Chest #3     | 5643    | 2.65 |
+North Carolina Avenue  | 5277    | 2.48 |
+Pacific Avenue         | 5181    | 2.43 |
+Go To Jail             | 5100    | 2.40 |
+Marvin Gardens         | 5021    | 2.36 |
+Water Works            | 5653    | 2.65 |
+Ventnor Avenue         | 4999    | 2.35 |
+Atlantic Avenue        | 5084    | 2.39 |
+B. & O. Railroad       | 5224    | 2.45 |
+Illinois Avenue        | 6575    | 3.09 |
+Indiana Avenue         | 5367    | 2.52 |
+Chance #2              | 5347    | 2.51 |
+Kentucky Avenue        | 5448    | 2.56 |
+Free Parking           | 5547    | 2.61 |
+New York Avenue        | 6106    | 2.87 |
+Tennessee Avenue       | 5685    | 2.67 |
+Community Chest #2     | 5584    | 2.62 |
+St. James Place        | 5384    | 2.53 |
+Pennsylvania Railroad  | 5556    | 2.61 |
+States Avenue          | 4959    | 2.33 |
+Electric Company       | 5319    | 2.50 |
+St. Charles Place      | 5976    | 2.81 |
+Jail                   | 8390    | 2.30 |
+Connecticut Avenue     | 4928    | 2.31 |
+Vermont Avenue         | 5175    | 2.43 |
+Chance #1              | 5179    | 2.43 |
+Oriental Avenue        | 5042    | 2.37 |
+Reading Railroad       | 6711    | 3.15 |
+Income Tax             | 5229    | 2.46 |
+Baltic Avenue          | 4796    | 2.25 |
+Community Chest #1     | 4683    | 2.20 |
+Mediterranean Avenue   | 4801    | 2.25 |
+
+    Strategy B Simulation #9 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17565   | 1.65 |
+Go                     | 29204   | 2.74 |
+Boardwalk              | 30726   | 2.89 |
+Luxury Tax             | 25102   | 2.36 |
+Park Place             | 25986   | 2.44 |
+Chance #3              | 25859   | 2.43 |
+Short Line             | 27604   | 2.59 |
+Pennsylvania Avenue    | 26224   | 2.46 |
+Community Chest #3     | 28209   | 2.65 |
+North Carolina Avenue  | 26346   | 2.47 |
+Pacific Avenue         | 26108   | 2.45 |
+Go To Jail             | 25658   | 2.41 |
+Marvin Gardens         | 24886   | 2.34 |
+Water Works            | 28441   | 2.67 |
+Ventnor Avenue         | 25318   | 2.38 |
+Atlantic Avenue        | 25473   | 2.39 |
+B. & O. Railroad       | 26374   | 2.48 |
+Illinois Avenue        | 32829   | 3.08 |
+Indiana Avenue         | 26923   | 2.53 |
+Chance #2              | 26581   | 2.50 |
+Kentucky Avenue        | 27317   | 2.57 |
+Free Parking           | 27589   | 2.59 |
+New York Avenue        | 30380   | 2.85 |
+Tennessee Avenue       | 28510   | 2.68 |
+Community Chest #2     | 28260   | 2.65 |
+St. James Place        | 26575   | 2.50 |
+Pennsylvania Railroad  | 27551   | 2.59 |
+States Avenue          | 24462   | 2.30 |
+Electric Company       | 26513   | 2.49 |
+St. Charles Place      | 30423   | 2.86 |
+Jail                   | 42045   | 2.30 |
+Connecticut Avenue     | 25000   | 2.35 |
+Vermont Avenue         | 25058   | 2.35 |
+Chance #1              | 25649   | 2.41 |
+Oriental Avenue        | 25333   | 2.38 |
+Reading Railroad       | 33247   | 3.12 |
+Income Tax             | 26400   | 2.48 |
+Baltic Avenue          | 23864   | 2.24 |
+Community Chest #1     | 23029   | 2.16 |
+Mediterranean Avenue   | 23705   | 2.23 |
+
+    Strategy B Simulation #9 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35209   | 1.65 |
+Go                     | 58384   | 2.74 |
+Boardwalk              | 61165   | 2.87 |
+Luxury Tax             | 50502   | 2.37 |
+Park Place             | 51690   | 2.43 |
+Chance #3              | 51570   | 2.42 |
+Short Line             | 55392   | 2.60 |
+Pennsylvania Avenue    | 52493   | 2.47 |
+Community Chest #3     | 56650   | 2.66 |
+North Carolina Avenue  | 52384   | 2.46 |
+Pacific Avenue         | 52070   | 2.45 |
+Go To Jail             | 51329   | 2.41 |
+Marvin Gardens         | 49741   | 2.34 |
+Water Works            | 56745   | 2.66 |
+Ventnor Avenue         | 50462   | 2.37 |
+Atlantic Avenue        | 51108   | 2.40 |
+B. & O. Railroad       | 52882   | 2.48 |
+Illinois Avenue        | 65653   | 3.08 |
+Indiana Avenue         | 53662   | 2.52 |
+Chance #2              | 53220   | 2.50 |
+Kentucky Avenue        | 54545   | 2.56 |
+Free Parking           | 55183   | 2.59 |
+New York Avenue        | 60901   | 2.86 |
+Tennessee Avenue       | 57095   | 2.68 |
+Community Chest #2     | 56324   | 2.64 |
+St. James Place        | 53232   | 2.50 |
+Pennsylvania Railroad  | 55387   | 2.60 |
+States Avenue          | 48909   | 2.30 |
+Electric Company       | 52862   | 2.48 |
+St. Charles Place      | 60988   | 2.86 |
+Jail                   | 84230   | 2.30 |
+Connecticut Avenue     | 49923   | 2.34 |
+Vermont Avenue         | 50234   | 2.36 |
+Chance #1              | 51160   | 2.40 |
+Oriental Avenue        | 50503   | 2.37 |
+Reading Railroad       | 66393   | 3.12 |
+Income Tax             | 52718   | 2.48 |
+Baltic Avenue          | 47982   | 2.25 |
+Community Chest #1     | 46279   | 2.17 |
+Mediterranean Avenue   | 47545   | 2.23 |
+
+    Strategy B Simulation #9 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175824   | 1.65 |
+Go                     | 291930   | 2.74 |
+Boardwalk              | 305926   | 2.87 |
+Luxury Tax             | 251488   | 2.36 |
+Park Place             | 258404   | 2.43 |
+Chance #3              | 256752   | 2.41 |
+Short Line             | 277304   | 2.60 |
+Pennsylvania Avenue    | 262614   | 2.47 |
+Community Chest #3     | 284103   | 2.67 |
+North Carolina Avenue  | 261881   | 2.46 |
+Pacific Avenue         | 258453   | 2.43 |
+Go To Jail             | 256536   | 2.41 |
+Marvin Gardens         | 250099   | 2.35 |
+Water Works            | 284131   | 2.67 |
+Ventnor Avenue         | 251520   | 2.36 |
+Atlantic Avenue        | 258079   | 2.42 |
+B. & O. Railroad       | 262441   | 2.46 |
+Illinois Avenue        | 326548   | 3.07 |
+Indiana Avenue         | 268797   | 2.52 |
+Chance #2              | 267692   | 2.51 |
+Kentucky Avenue        | 272561   | 2.56 |
+Free Parking           | 276767   | 2.60 |
+New York Avenue        | 304314   | 2.86 |
+Tennessee Avenue       | 284509   | 2.67 |
+Community Chest #2     | 281576   | 2.64 |
+St. James Place        | 268236   | 2.52 |
+Pennsylvania Railroad  | 277302   | 2.60 |
+States Avenue          | 244711   | 2.30 |
+Electric Company       | 264482   | 2.48 |
+St. Charles Place      | 304111   | 2.86 |
+Jail                   | 421655   | 2.31 |
+Connecticut Avenue     | 248297   | 2.33 |
+Vermont Avenue         | 252292   | 2.37 |
+Chance #1              | 255531   | 2.40 |
+Oriental Avenue        | 252495   | 2.37 |
+Reading Railroad       | 330731   | 3.11 |
+Income Tax             | 264754   | 2.49 |
+Baltic Avenue          | 239423   | 2.25 |
+Community Chest #1     | 232315   | 2.18 |
+Mediterranean Avenue   | 236724   | 2.22 |
+
+    Strategy B Simulation #9 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351621   | 1.65 |
+Go                     | 584226   | 2.74 |
+Boardwalk              | 610314   | 2.87 |
+Luxury Tax             | 503250   | 2.36 |
+Park Place             | 516448   | 2.43 |
+Chance #3              | 514220   | 2.41 |
+Short Line             | 555731   | 2.61 |
+Pennsylvania Avenue    | 525346   | 2.47 |
+Community Chest #3     | 567388   | 2.66 |
+North Carolina Avenue  | 523367   | 2.46 |
+Pacific Avenue         | 517566   | 2.43 |
+Go To Jail             | 512537   | 2.41 |
+Marvin Gardens         | 500963   | 2.35 |
+Water Works            | 568448   | 2.67 |
+Ventnor Avenue         | 503512   | 2.36 |
+Atlantic Avenue        | 515509   | 2.42 |
+B. & O. Railroad       | 525762   | 2.47 |
+Illinois Avenue        | 652224   | 3.06 |
+Indiana Avenue         | 537131   | 2.52 |
+Chance #2              | 535187   | 2.51 |
+Kentucky Avenue        | 545177   | 2.56 |
+Free Parking           | 553901   | 2.60 |
+New York Avenue        | 608352   | 2.86 |
+Tennessee Avenue       | 569301   | 2.67 |
+Community Chest #2     | 562941   | 2.64 |
+St. James Place        | 536745   | 2.52 |
+Pennsylvania Railroad  | 553975   | 2.60 |
+States Avenue          | 490302   | 2.30 |
+Electric Company       | 528176   | 2.48 |
+St. Charles Place      | 608533   | 2.86 |
+Jail                   | 842177   | 2.30 |
+Connecticut Avenue     | 497161   | 2.33 |
+Vermont Avenue         | 505525   | 2.37 |
+Chance #1              | 510425   | 2.40 |
+Oriental Avenue        | 505085   | 2.37 |
+Reading Railroad       | 660496   | 3.10 |
+Income Tax             | 529034   | 2.48 |
+Baltic Avenue          | 479879   | 2.25 |
+Community Chest #1     | 464814   | 2.18 |
+Mediterranean Avenue   | 473693   | 2.22 |
+
+    Strategy B Simulation #10 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17      | 1.59 |
+Go                     | 24      | 2.24 |
+Boardwalk              | 37      | 3.45 |
+Luxury Tax             | 28      | 2.61 |
+Park Place             | 20      | 1.87 |
+Chance #3              | 28      | 2.61 |
+Short Line             | 29      | 2.71 |
+Pennsylvania Avenue    | 18      | 1.68 |
+Community Chest #3     | 28      | 2.61 |
+North Carolina Avenue  | 27      | 2.52 |
+Pacific Avenue         | 24      | 2.24 |
+Go To Jail             | 24      | 2.24 |
+Marvin Gardens         | 31      | 2.89 |
+Water Works            | 30      | 2.80 |
+Ventnor Avenue         | 19      | 1.77 |
+Atlantic Avenue        | 24      | 2.24 |
+B. & O. Railroad       | 27      | 2.52 |
+Illinois Avenue        | 32      | 2.99 |
+Indiana Avenue         | 28      | 2.61 |
+Chance #2              | 39      | 3.64 |
+Kentucky Avenue        | 25      | 2.33 |
+Free Parking           | 20      | 1.87 |
+New York Avenue        | 35      | 3.26 |
+Tennessee Avenue       | 24      | 2.24 |
+Community Chest #2     | 35      | 3.26 |
+St. James Place        | 29      | 2.71 |
+Pennsylvania Railroad  | 30      | 2.80 |
+States Avenue          | 26      | 2.43 |
+Electric Company       | 27      | 2.52 |
+St. Charles Place      | 32      | 2.99 |
+Jail                   | 38      | 1.96 |
+Connecticut Avenue     | 28      | 2.61 |
+Vermont Avenue         | 22      | 2.05 |
+Chance #1              | 24      | 2.24 |
+Oriental Avenue        | 24      | 2.24 |
+Reading Railroad       | 40      | 3.73 |
+Income Tax             | 20      | 1.87 |
+Baltic Avenue          | 27      | 2.52 |
+Community Chest #1     | 24      | 2.24 |
+Mediterranean Avenue   | 25      | 2.33 |
+
+    Strategy B Simulation #10 of 10
+               N = 1,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 32      | 1.50 |
+Go                     | 57      | 2.67 |
+Boardwalk              | 63      | 2.95 |
+Luxury Tax             | 56      | 2.63 |
+Park Place             | 57      | 2.67 |
+Chance #3              | 61      | 2.86 |
+Short Line             | 48      | 2.25 |
+Pennsylvania Avenue    | 43      | 2.02 |
+Community Chest #3     | 62      | 2.91 |
+North Carolina Avenue  | 55      | 2.58 |
+Pacific Avenue         | 47      | 2.20 |
+Go To Jail             | 50      | 2.34 |
+Marvin Gardens         | 56      | 2.63 |
+Water Works            | 61      | 2.86 |
+Ventnor Avenue         | 37      | 1.73 |
+Atlantic Avenue        | 54      | 2.53 |
+B. & O. Railroad       | 58      | 2.72 |
+Illinois Avenue        | 61      | 2.86 |
+Indiana Avenue         | 52      | 2.44 |
+Chance #2              | 65      | 3.05 |
+Kentucky Avenue        | 65      | 3.05 |
+Free Parking           | 42      | 1.97 |
+New York Avenue        | 71      | 3.33 |
+Tennessee Avenue       | 51      | 2.39 |
+Community Chest #2     | 62      | 2.91 |
+St. James Place        | 45      | 2.11 |
+Pennsylvania Railroad  | 66      | 3.09 |
+States Avenue          | 51      | 2.39 |
+Electric Company       | 55      | 2.58 |
+St. Charles Place      | 56      | 2.63 |
+Jail                   | 74      | 1.97 |
+Connecticut Avenue     | 59      | 2.77 |
+Vermont Avenue         | 44      | 2.06 |
+Chance #1              | 45      | 2.11 |
+Oriental Avenue        | 56      | 2.63 |
+Reading Railroad       | 67      | 3.14 |
+Income Tax             | 45      | 2.11 |
+Baltic Avenue          | 50      | 2.34 |
+Community Chest #1     | 42      | 1.97 |
+Mediterranean Avenue   | 44      | 2.06 |
+
+    Strategy B Simulation #10 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 164     | 1.55 |
+Go                     | 292     | 2.75 |
+Boardwalk              | 323     | 3.05 |
+Luxury Tax             | 240     | 2.26 |
+Park Place             | 246     | 2.32 |
+Chance #3              | 244     | 2.30 |
+Short Line             | 297     | 2.80 |
+Pennsylvania Avenue    | 287     | 2.71 |
+Community Chest #3     | 291     | 2.74 |
+North Carolina Avenue  | 256     | 2.41 |
+Pacific Avenue         | 264     | 2.49 |
+Go To Jail             | 231     | 2.18 |
+Marvin Gardens         | 253     | 2.39 |
+Water Works            | 285     | 2.69 |
+Ventnor Avenue         | 240     | 2.26 |
+Atlantic Avenue        | 275     | 2.59 |
+B. & O. Railroad       | 271     | 2.55 |
+Illinois Avenue        | 304     | 2.87 |
+Indiana Avenue         | 296     | 2.79 |
+Chance #2              | 230     | 2.17 |
+Kentucky Avenue        | 288     | 2.72 |
+Free Parking           | 266     | 2.51 |
+New York Avenue        | 310     | 2.92 |
+Tennessee Avenue       | 277     | 2.61 |
+Community Chest #2     | 263     | 2.48 |
+St. James Place        | 268     | 2.53 |
+Pennsylvania Railroad  | 270     | 2.55 |
+States Avenue          | 227     | 2.14 |
+Electric Company       | 251     | 2.37 |
+St. Charles Place      | 311     | 2.93 |
+Jail                   | 422     | 2.43 |
+Connecticut Avenue     | 264     | 2.49 |
+Vermont Avenue         | 243     | 2.29 |
+Chance #1              | 253     | 2.39 |
+Oriental Avenue        | 248     | 2.34 |
+Reading Railroad       | 319     | 3.01 |
+Income Tax             | 287     | 2.71 |
+Baltic Avenue          | 229     | 2.16 |
+Community Chest #1     | 234     | 2.21 |
+Mediterranean Avenue   | 252     | 2.38 |
+
+    Strategy B Simulation #10 of 10
+               N = 10,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 345     | 1.62 |
+Go                     | 567     | 2.66 |
+Boardwalk              | 635     | 2.98 |
+Luxury Tax             | 487     | 2.29 |
+Park Place             | 498     | 2.34 |
+Chance #3              | 526     | 2.47 |
+Short Line             | 572     | 2.69 |
+Pennsylvania Avenue    | 525     | 2.47 |
+Community Chest #3     | 601     | 2.82 |
+North Carolina Avenue  | 531     | 2.50 |
+Pacific Avenue         | 522     | 2.45 |
+Go To Jail             | 463     | 2.18 |
+Marvin Gardens         | 530     | 2.49 |
+Water Works            | 597     | 2.81 |
+Ventnor Avenue         | 491     | 2.31 |
+Atlantic Avenue        | 501     | 2.35 |
+B. & O. Railroad       | 527     | 2.48 |
+Illinois Avenue        | 631     | 2.97 |
+Indiana Avenue         | 574     | 2.70 |
+Chance #2              | 489     | 2.30 |
+Kentucky Avenue        | 574     | 2.70 |
+Free Parking           | 560     | 2.63 |
+New York Avenue        | 619     | 2.91 |
+Tennessee Avenue       | 553     | 2.60 |
+Community Chest #2     | 537     | 2.52 |
+St. James Place        | 539     | 2.53 |
+Pennsylvania Railroad  | 538     | 2.53 |
+States Avenue          | 449     | 2.11 |
+Electric Company       | 527     | 2.48 |
+St. Charles Place      | 624     | 2.93 |
+Jail                   | 858     | 2.41 |
+Connecticut Avenue     | 482     | 2.27 |
+Vermont Avenue         | 493     | 2.32 |
+Chance #1              | 523     | 2.46 |
+Oriental Avenue        | 514     | 2.42 |
+Reading Railroad       | 655     | 3.08 |
+Income Tax             | 537     | 2.52 |
+Baltic Avenue          | 472     | 2.22 |
+Community Chest #1     | 450     | 2.12 |
+Mediterranean Avenue   | 505     | 2.37 |
+
+    Strategy B Simulation #10 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 1759    | 1.65 |
+Go                     | 2949    | 2.77 |
+Boardwalk              | 3036    | 2.85 |
+Luxury Tax             | 2420    | 2.27 |
+Park Place             | 2658    | 2.50 |
+Chance #3              | 2537    | 2.38 |
+Short Line             | 2828    | 2.66 |
+Pennsylvania Avenue    | 2619    | 2.46 |
+Community Chest #3     | 2858    | 2.68 |
+North Carolina Avenue  | 2608    | 2.45 |
+Pacific Avenue         | 2636    | 2.47 |
+Go To Jail             | 2490    | 2.34 |
+Marvin Gardens         | 2498    | 2.35 |
+Water Works            | 2933    | 2.75 |
+Ventnor Avenue         | 2572    | 2.41 |
+Atlantic Avenue        | 2507    | 2.35 |
+B. & O. Railroad       | 2636    | 2.47 |
+Illinois Avenue        | 3187    | 2.99 |
+Indiana Avenue         | 2670    | 2.51 |
+Chance #2              | 2687    | 2.52 |
+Kentucky Avenue        | 2836    | 2.66 |
+Free Parking           | 2693    | 2.53 |
+New York Avenue        | 3064    | 2.88 |
+Tennessee Avenue       | 2810    | 2.64 |
+Community Chest #2     | 2720    | 2.55 |
+St. James Place        | 2664    | 2.50 |
+Pennsylvania Railroad  | 2754    | 2.59 |
+States Avenue          | 2497    | 2.34 |
+Electric Company       | 2627    | 2.47 |
+St. Charles Place      | 3069    | 2.88 |
+Jail                   | 4191    | 2.28 |
+Connecticut Avenue     | 2512    | 2.36 |
+Vermont Avenue         | 2547    | 2.39 |
+Chance #1              | 2645    | 2.48 |
+Oriental Avenue        | 2502    | 2.35 |
+Reading Railroad       | 3296    | 3.09 |
+Income Tax             | 2609    | 2.45 |
+Baltic Avenue          | 2435    | 2.29 |
+Community Chest #1     | 2334    | 2.19 |
+Mediterranean Avenue   | 2374    | 2.23 |
+
+    Strategy B Simulation #10 of 10
+               N = 100,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 3525    | 1.65 |
+Go                     | 5853    | 2.75 |
+Boardwalk              | 6083    | 2.86 |
+Luxury Tax             | 4998    | 2.35 |
+Park Place             | 5219    | 2.45 |
+Chance #3              | 5165    | 2.42 |
+Short Line             | 5583    | 2.62 |
+Pennsylvania Avenue    | 5267    | 2.47 |
+Community Chest #3     | 5630    | 2.64 |
+North Carolina Avenue  | 5175    | 2.43 |
+Pacific Avenue         | 5310    | 2.49 |
+Go To Jail             | 5133    | 2.41 |
+Marvin Gardens         | 4964    | 2.33 |
+Water Works            | 5721    | 2.69 |
+Ventnor Avenue         | 5141    | 2.41 |
+Atlantic Avenue        | 5054    | 2.37 |
+B. & O. Railroad       | 5276    | 2.48 |
+Illinois Avenue        | 6523    | 3.06 |
+Indiana Avenue         | 5367    | 2.52 |
+Chance #2              | 5354    | 2.51 |
+Kentucky Avenue        | 5491    | 2.58 |
+Free Parking           | 5412    | 2.54 |
+New York Avenue        | 6114    | 2.87 |
+Tennessee Avenue       | 5632    | 2.64 |
+Community Chest #2     | 5643    | 2.65 |
+St. James Place        | 5322    | 2.50 |
+Pennsylvania Railroad  | 5544    | 2.60 |
+States Avenue          | 4984    | 2.34 |
+Electric Company       | 5252    | 2.47 |
+St. Charles Place      | 6145    | 2.88 |
+Jail                   | 8405    | 2.29 |
+Connecticut Avenue     | 4959    | 2.33 |
+Vermont Avenue         | 5076    | 2.38 |
+Chance #1              | 5234    | 2.46 |
+Oriental Avenue        | 5059    | 2.37 |
+Reading Railroad       | 6557    | 3.08 |
+Income Tax             | 5269    | 2.47 |
+Baltic Avenue          | 4737    | 2.22 |
+Community Chest #1     | 4671    | 2.19 |
+Mediterranean Avenue   | 4713    | 2.21 |
+
+    Strategy B Simulation #10 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 17550   | 1.65 |
+Go                     | 29309   | 2.75 |
+Boardwalk              | 30500   | 2.86 |
+Luxury Tax             | 25276   | 2.37 |
+Park Place             | 25615   | 2.41 |
+Chance #3              | 25816   | 2.42 |
+Short Line             | 28005   | 2.63 |
+Pennsylvania Avenue    | 26366   | 2.48 |
+Community Chest #3     | 28309   | 2.66 |
+North Carolina Avenue  | 26098   | 2.45 |
+Pacific Avenue         | 25738   | 2.42 |
+Go To Jail             | 25595   | 2.40 |
+Marvin Gardens         | 25191   | 2.37 |
+Water Works            | 28501   | 2.68 |
+Ventnor Avenue         | 25263   | 2.37 |
+Atlantic Avenue        | 25608   | 2.40 |
+B. & O. Railroad       | 26240   | 2.46 |
+Illinois Avenue        | 32390   | 3.04 |
+Indiana Avenue         | 26726   | 2.51 |
+Chance #2              | 26704   | 2.51 |
+Kentucky Avenue        | 27211   | 2.56 |
+Free Parking           | 27728   | 2.60 |
+New York Avenue        | 30270   | 2.84 |
+Tennessee Avenue       | 28523   | 2.68 |
+Community Chest #2     | 28274   | 2.66 |
+St. James Place        | 26944   | 2.53 |
+Pennsylvania Railroad  | 27400   | 2.57 |
+States Avenue          | 24540   | 2.30 |
+Electric Company       | 26355   | 2.47 |
+St. Charles Place      | 30443   | 2.86 |
+Jail                   | 42279   | 2.32 |
+Connecticut Avenue     | 24842   | 2.33 |
+Vermont Avenue         | 25199   | 2.37 |
+Chance #1              | 25724   | 2.42 |
+Oriental Avenue        | 25098   | 2.36 |
+Reading Railroad       | 33127   | 3.11 |
+Income Tax             | 26366   | 2.48 |
+Baltic Avenue          | 24052   | 2.26 |
+Community Chest #1     | 23611   | 2.22 |
+Mediterranean Avenue   | 23639   | 2.22 |
+
+    Strategy B Simulation #10 of 10
+               N = 1,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 35091   | 1.65 |
+Go                     | 58321   | 2.74 |
+Boardwalk              | 60984   | 2.86 |
+Luxury Tax             | 50812   | 2.39 |
+Park Place             | 51374   | 2.41 |
+Chance #3              | 51647   | 2.43 |
+Short Line             | 55568   | 2.61 |
+Pennsylvania Avenue    | 52625   | 2.47 |
+Community Chest #3     | 56899   | 2.67 |
+North Carolina Avenue  | 52078   | 2.45 |
+Pacific Avenue         | 51653   | 2.43 |
+Go To Jail             | 51331   | 2.41 |
+Marvin Gardens         | 50082   | 2.35 |
+Water Works            | 57051   | 2.68 |
+Ventnor Avenue         | 50487   | 2.37 |
+Atlantic Avenue        | 51491   | 2.42 |
+B. & O. Railroad       | 52339   | 2.46 |
+Illinois Avenue        | 64848   | 3.04 |
+Indiana Avenue         | 53463   | 2.51 |
+Chance #2              | 53685   | 2.52 |
+Kentucky Avenue        | 54429   | 2.56 |
+Free Parking           | 55485   | 2.61 |
+New York Avenue        | 60463   | 2.84 |
+Tennessee Avenue       | 57096   | 2.68 |
+Community Chest #2     | 56528   | 2.65 |
+St. James Place        | 53479   | 2.51 |
+Pennsylvania Railroad  | 55323   | 2.60 |
+States Avenue          | 49103   | 2.31 |
+Electric Company       | 52660   | 2.47 |
+St. Charles Place      | 60976   | 2.86 |
+Jail                   | 84407   | 2.32 |
+Connecticut Avenue     | 49605   | 2.33 |
+Vermont Avenue         | 50497   | 2.37 |
+Chance #1              | 51131   | 2.40 |
+Oriental Avenue        | 50348   | 2.36 |
+Reading Railroad       | 66435   | 3.12 |
+Income Tax             | 53064   | 2.49 |
+Baltic Avenue          | 47772   | 2.24 |
+Community Chest #1     | 46649   | 2.19 |
+Mediterranean Avenue   | 47514   | 2.23 |
+
+    Strategy B Simulation #10 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 175828   | 1.65 |
+Go                     | 293113   | 2.75 |
+Boardwalk              | 304267   | 2.86 |
+Luxury Tax             | 251866   | 2.37 |
+Park Place             | 257567   | 2.42 |
+Chance #3              | 257306   | 2.42 |
+Short Line             | 278129   | 2.61 |
+Pennsylvania Avenue    | 262327   | 2.46 |
+Community Chest #3     | 285221   | 2.68 |
+North Carolina Avenue  | 261091   | 2.45 |
+Pacific Avenue         | 258749   | 2.43 |
+Go To Jail             | 256005   | 2.40 |
+Marvin Gardens         | 250010   | 2.35 |
+Water Works            | 284428   | 2.67 |
+Ventnor Avenue         | 251130   | 2.36 |
+Atlantic Avenue        | 257752   | 2.42 |
+B. & O. Railroad       | 262737   | 2.47 |
+Illinois Avenue        | 327039   | 3.07 |
+Indiana Avenue         | 268013   | 2.52 |
+Chance #2              | 267727   | 2.51 |
+Kentucky Avenue        | 272521   | 2.56 |
+Free Parking           | 276938   | 2.60 |
+New York Avenue        | 303777   | 2.85 |
+Tennessee Avenue       | 284563   | 2.67 |
+Community Chest #2     | 281389   | 2.64 |
+St. James Place        | 267307   | 2.51 |
+Pennsylvania Railroad  | 277879   | 2.61 |
+States Avenue          | 245154   | 2.30 |
+Electric Company       | 263737   | 2.48 |
+St. Charles Place      | 304077   | 2.86 |
+Jail                   | 421384   | 2.31 |
+Connecticut Avenue     | 249139   | 2.34 |
+Vermont Avenue         | 252457   | 2.37 |
+Chance #1              | 254847   | 2.39 |
+Oriental Avenue        | 252236   | 2.37 |
+Reading Railroad       | 330695   | 3.11 |
+Income Tax             | 265074   | 2.49 |
+Baltic Avenue          | 241050   | 2.26 |
+Community Chest #1     | 232149   | 2.18 |
+Mediterranean Avenue   | 236642   | 2.22 |
+
+    Strategy B Simulation #10 of 10
+               N = 10,000,000
+          Name         |  Count   |   %  |
+---------------------------------------
+Times In Jail          | 351774   | 1.65 |
+Go                     | 585091   | 2.75 |
+Boardwalk              | 610367   | 2.87 |
+Luxury Tax             | 504221   | 2.37 |
+Park Place             | 515138   | 2.42 |
+Chance #3              | 514081   | 2.41 |
+Short Line             | 555278   | 2.61 |
+Pennsylvania Avenue    | 525264   | 2.47 |
+Community Chest #3     | 569900   | 2.68 |
+North Carolina Avenue  | 522508   | 2.45 |
+Pacific Avenue         | 517813   | 2.43 |
+Go To Jail             | 512417   | 2.41 |
+Marvin Gardens         | 499663   | 2.35 |
+Water Works            | 568263   | 2.67 |
+Ventnor Avenue         | 503523   | 2.36 |
+Atlantic Avenue        | 515161   | 2.42 |
+B. & O. Railroad       | 525080   | 2.47 |
+Illinois Avenue        | 654161   | 3.07 |
+Indiana Avenue         | 536564   | 2.52 |
+Chance #2              | 535193   | 2.51 |
+Kentucky Avenue        | 545068   | 2.56 |
+Free Parking           | 553983   | 2.60 |
+New York Avenue        | 607260   | 2.85 |
+Tennessee Avenue       | 569177   | 2.67 |
+Community Chest #2     | 562803   | 2.64 |
+St. James Place        | 535831   | 2.52 |
+Pennsylvania Railroad  | 555358   | 2.61 |
+States Avenue          | 489661   | 2.30 |
+Electric Company       | 528192   | 2.48 |
+St. Charles Place      | 607706   | 2.85 |
+Jail                   | 843858   | 2.31 |
+Connecticut Avenue     | 497951   | 2.34 |
+Vermont Avenue         | 505021   | 2.37 |
+Chance #1              | 509498   | 2.39 |
+Oriental Avenue        | 504741   | 2.37 |
+Reading Railroad       | 660813   | 3.10 |
+Income Tax             | 529811   | 2.49 |
+Baltic Avenue          | 481245   | 2.26 |
+Community Chest #1     | 464454   | 2.18 |
+Mediterranean Avenue   | 472427   | 2.22 |
+
